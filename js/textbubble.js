@@ -23,8 +23,8 @@ webpackJsonp([1], {
                 }, [i("a", {
                     staticClass: "menu__logo",
                     attrs: {
-                        href: "http://prahs.com",
-                        title: "Visit prahs.com"
+                        href: "http://www.dalafarm.net/",
+                        title: "Visit www.dalafarm.net"
                     }
                 }, [i("svg", {
                     attrs: {
@@ -37,12 +37,14 @@ webpackJsonp([1], {
                     }
                 }, [i("g", {
                     attrs: {
-                        id: "PRA-LOGO-RECTANGLE-Pos-PINK-Vector-CMYK-(1)",
+                        id: "dalafarm",
+/*id: "PRA-LOGO-RECTANGLE-Pos-PINK-Vector-CMYK-(1)",*/						
                         stroke: "none",
                         "stroke-width": "1",
                         fill: "none",
                         "fill-rule": "evenodd"
                     }
+/*logo on the top-left corner of the screen*/
                 }, [i("path", {
                     attrs: {
                         d: "M26.554,1.252 C26.554,2.495 26.554,25.626 26.554,25.816 C26.554,26.008 26.445,26.328 26.181,26.037 C25.917,25.745 11.795,10.039 11.406,9.554 C11.017,9.068 11.159,8.668 11.532,8.416 C11.906,8.164 13.76,7.134 14.163,6.943 C14.567,6.753 14.903,6.692 15.262,7.097 C15.62,7.5 23.094,16.72 23.094,16.72 C23.094,16.72 22.57,4.246 22.543,3.413 C22.516,2.579 22.839,2.176 23.116,2.015 C23.404,1.79 25.581,0.625 25.922,0.481 C26.227,0.384 26.559,0.598 26.554,1.252",
@@ -219,8 +221,9 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("A Creatively Entrepreneurial Mindset")]), t._v(" "), t._m(2), t._v(" "), t._m(3)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                }, [t._v("マーケティング")]), t._v(" "), t._m(2), t._v(" "), t._m(3)]), t._v(" "), i("div", {
+/*1st.text.box First Text on a white box container*/
+					staticClass: "callout",
                     attrs: {
                         id: "callout-2"
                     }
@@ -229,7 +232,7 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("A Global Drug Development Partner")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
+                }, [t._v("2nd.text.box.title")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-3"
@@ -413,7 +416,8 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          Every day brings new rules, regulations, technologies, tools, and opportunities to our industry. That's why we're constantly exploring the best ways to partner, support, lead, and adapt to solve drug development's biggest challenges.\n        ")])])
+                }, [e("p", [this._v("\n          お客様に最適なWEB運用を実行しています。アクセス解析、SEO順位測定レポート、改善レポート、広告運用などでサイトの目的達成をサポートする業務です。ペルソナ設定やカスタマージャーにマップを制作し、お客様の目的達成の為のプロセスを企画しています。 \n        ")])])
+/*1st.text.box.description*/
             }
             , function() {
                 var t = this
@@ -423,7 +427,7 @@ webpackJsonp([1], {
                     staticClass: "callout__aside"
                 }, [i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Additional Information")]), t._v(" "), i("p", [t._v("\n          We foster a culture characterized by flexibility, integrity, and transparency with a commitment to anticipate challenges and resolve them with creative solutions.\n        ")]), t._v(" "), i("p", [t._v("\n          Where great minds work, everything is possible.\n        ")]), t._v(" "), i("h3", {
+                }, [t._v("1st.text.box.sub.description.title")]), t._v(" "), i("p", [t._v("\n          1st.text.box.sub.description.content\n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
                 }, [t._v("Quick Links")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
@@ -437,7 +441,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          No matter what you're trying to accomplish, we have that extra edge of knowledge, expertise, resources, and experience to make sure you're taking the most efficient path, making the best decisions, and are setup for success.\n        ")])])
+                }, [e("p", [this._v("\n          2nd.text.box.description \n        ")])])
             }
             , function() {
                 var t = this

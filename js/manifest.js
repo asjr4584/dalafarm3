@@ -63,5 +63,5 @@
         r
     }
 }([]);
-//# sourceMappingURL=manifest.b1d4805f3bb88b710d31.js.map
+//# sourceMappingURL=manifest.js.map
 //removed "/thread/" and change to /
