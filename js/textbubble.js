@@ -531,7 +531,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*4th.text.box.description*/
-                }, [e("p", [this._v("\n          4th.text.box.description    \n        ")])])
+                }, [e("p", [this._v("\n          4th.text.box.description  \n        ")])])
             }
             , function() {
                 var t = this

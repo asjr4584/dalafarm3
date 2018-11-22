@@ -284,7 +284,7 @@ body {
 }
 
 .menu__logo:hover svg path, .menu__logo:hover svg polyline {
-    fill: #e91c74;
+    fill: #ab9566;
 }
 
 .intro {
@@ -585,13 +585,13 @@ body {
 .callout__headline:after {
     -webkit-animation: pulse 1.5s infinite cubic-bezier(0.5, 0, 0.1, 1);
     animation: pulse 1.5s infinite cubic-bezier(0.5, 0, 0.1, 1);
-    background-color: #e91c74;
+    background-color: #ab9566;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: 100%;
     border: none;
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(233, 28, 116, 0.8);
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(233, 28, 116, 0.8);
+    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(171, 149, 102, 0.8);;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(171, 149, 102, 0.8);;
     color: #fff;
     content: '';
     cursor: pointer;
@@ -631,7 +631,7 @@ body {
 }
 
 .callout__aside {
-    background-color: #42c2c0;
+    background-color: #252627;
     height: 100%;
     left: 0;
     overflow-y: auto;
@@ -644,7 +644,7 @@ body {
 }
 
 .callout__aside-headline {
-    color: #b6e7e6;
+    color: #ab9566;
     font-size: calc(8px + 0.2vw);
     font-weight: 900;
     letter-spacing: 0.2em;
