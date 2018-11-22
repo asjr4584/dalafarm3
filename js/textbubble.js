@@ -359,8 +359,8 @@ webpackJsonp([1], {
                 }, [t._m(13), t._v(" "), i("a", {
                     staticClass: "outro__footer",
                     attrs: {
-                        href: "http://prahs.com",
-                        title: "Visit prahs.com"
+                        href: "http://www.dalafarm.net/",
+                        title: "Visit dalafarm.net"
                     }
                 }, [t._m(14), t._v(" "), i("div", {
                     staticClass: "outro__footer-icon"
@@ -603,28 +603,40 @@ webpackJsonp([1], {
                     staticClass: "outro__links"
                 }, [i("li", [i("a", {
                     attrs: {
-                        href: "https://prahs.com/contact/?form=other-inquires-modal"
+                        href: "http://www.dalafarm.net/company/greeting"
                     }
-                }, [t._v("General")])]), t._v(" "), i("li", [i("a", {
+                }, [t._v("Company")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "https://prahs.com/contact/?form=capabilities"
+                        href: "http://www.dalafarm.net/service/website"
                     }
-                }, [t._v("Capabilities")])]), t._v(" "), i("li", [i("a", {
+                }, [t._v("Service")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "https://prahs.com/careers/"
+                        href: "http://www.dalafarm.net/works"
                     }
-                }, [t._v("Careers")])]), t._v(" "), i("li", [i("a", {
+                }, [t._v("Works")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "https://prahs.com/contact/?form=rfprfi"
+                        href: "http://www.dalafarm.net/flow"
                     }
-                }, [t._v("RFP/RFI")])])])])])
+                }, [t._v("Flow")])]), t._v(" "), i("li", [i("a", {
+                    attrs: {
+                        href: "http://www.dalafarm.net/news"
+                    }
+                }, [t._v("News")])]), t._v(" "), i("li", [i("a", {
+                    attrs: {
+                        href: "http://www.dalafarm.net/recruit"
+                    }
+                }, [t._v("Recruit")])]), t._v(" "), i("li", [i("a", {
+                    attrs: {
+                        href: "http://www.dalafarm.net/contact"
+                    }
+                }, [t._v("Contact")])])])])])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "outro__footer-text"
-                }, [e("p", [this._v("Visit prahs.com to see all of our capabilities")])])
+                }, [e("p", [this._v("Visit dalafarm.net to see all of our capabilities")])])
             }
             ]
         };
