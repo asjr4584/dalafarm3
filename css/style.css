@@ -756,7 +756,7 @@ body {
 .bubble {
     background-color: #ede1b2;
     border-radius: 1em;
-    color: #bbd9ec;
+    color: #000000;
     font-size: calc(8px + 0.4vw);
     min-width: 12.5em;
     opacity: 0;
