@@ -224,7 +224,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*1st.text.box First Text on a white box container*/					
-                }, [t._v("マーケティング")]), t._v(" "), t._m(2), t._v(" "), t._m(3)]), t._v(" "), i("div", {
+                }, [t._v("代表メッセージ")]), t._v(" "), t._m(2), t._v(" "), t._m(3)]), t._v(" "), i("div", {
 					staticClass: "callout",
                     attrs: {
                         id: "callout-2"
@@ -246,7 +246,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*3rd.text.box.title*/
-                }, [t._v("WEB")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
+                }, [t._v("理念")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-4"
@@ -257,7 +257,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*4th.text.box.title*/
-                }, [t._v("4th.text.box.title")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+                }, [t._v("仕事内容")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-5"
@@ -268,7 +268,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*6th.text.box.title*/
-                }, [t._v("6th.text.box.title")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("教育体制")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-6"
@@ -423,7 +423,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          お客様に最適なWEB運用を実行しています。アクセス解析、SEO順位測定レポート、改善レポート、広告運用などでサイトの目的達成をサポートする業務です。ペルソナ設定やカスタマージャーにマップを制作し、お客様の目的達成の為のプロセスを企画しています。 \n        ")])])
+                }, [e("p", [this._v("\n  私たちは本質を目的に合わせて、デザインというカタチで感動を与えることを使命だと感じています。みえないもの。感じるもの。「みえないもの」を「感じるもの」にするCreative Solutionをご提案します。ＳＮＳなどの普及やそれらを閲覧するスマートフォンなど技術の進歩は益々加速しています。ＷＥＢも無料や格安で作成できるツールの出現など、簡単にクリエイティブが可能になっています。ただ、人の感性や感動などの本質は変わりません。私たちはそこを大切にし、人と人を繋ぐことができるような制作を心掛けます。私達を支えていただいた皆様に感謝し、理念に基づき行動します。今後も 多大なご支援を賜りますようお願い申しあげます。 \n        ")])])
 /*1st.text.box.description*/
             }
             , function() {
@@ -485,7 +485,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*3rd.text.box.description*/
-                }, [e("p", [this._v("\n          お客様のニーズ、ターゲット、予算に応じてWEBサイトを制作しており、スマートフォンアプリの開発や、WEBシステム開発も弊社得意分野です。お客様の目的に合わせたウェブソリューションを提供しています。    \n        ")])])
+                }, [e("p", [this._v("\n          「喜び」とはお客様が、私たちのサービスを通じて喜んでくれることや幸せを感じてくれることであり、そうなることでスタッフ全員が当社で良かったと喜んでくれる。そして「幸せ」を感じてくれることです。その為には・みんなで経営、みんなが経営者・知識、技術の幅を拡げ、深く追求し基本価値を高める・問題を解決し続け、付加価値を高める以上を常に意識して追求し続けることが大切だと考えています。    \n        ")])])
             }
             , function() {
                 var t = this
@@ -562,7 +562,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*6th.text.box.description*/
-                }, [e("p", [this._v("\n          6th.text.box.description 			\n        ")])])
+                }, [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。			\n        ")])])
             }
             , function() {
                 var t = this.$createElement
