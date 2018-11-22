@@ -898,8 +898,8 @@ body {
 }
 
 .wayback {
-    background: transparent url("../img/dalasite-new_18-11-20-REVISED-3.png") 0% 0% no-repeat;
-/*background: transparent url("../img/dalasite_svg3.svg") 0% 0% no-repeat;*/
+/*    background: transparent url("../img/dalasite-new_18-11-20-REVISED-3.png") 0% 0% no-repeat;*/
+background: transparent url("../img/dalasite_svg3.svg") 0% 0% no-repeat;
     background-size: cover;
     height: 100vh;
     left: 0;
@@ -914,8 +914,8 @@ body {
 }
 
 .background {
-    background: transparent url("../img/dalasite-new_18-11-20-REVISED-2.png") 0% 0% no-repeat;
-/*background: transparent url("../img/dalasite_svg2.svg") 0% 0% no-repeat;*/
+/*    background: transparent url("../img/dalasite-new_18-11-20-REVISED-2.png") 0% 0% no-repeat;*/
+background: transparent url("../img/dalasite_svg2.svg") 0% 0% no-repeat;
     background-size: cover;
     height: 100vh;
     left: 0;
@@ -930,8 +930,8 @@ body {
 }
 
 .foreground {
-    background: transparent url("../img/dalasite-new_18-11-20-REVISED-1.png") 0% 0% no-repeat;
-/*background: transparent url("../img/dalasite_svg1.svg") 0% 0% no-repeat;*/
+/*    background: transparent url("../img/dalasite-new_18-11-20-REVISED-1.png") 0% 0% no-repeat;*/
+background: transparent url("../img/dalasite_svg1.svg") 0% 0% no-repeat;
     background-size: cover;
     height: 100vh;
     left: -60px;
