@@ -279,7 +279,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*5th.text.box.title*/
-                }, [t._v("5th.text.box.title")]), t._v(" "), t._m(11), t._v(" "), t._m(12)]), t._v(" "), i("div", {
+                }, [t._v("社員属性①")]), t._v(" "), t._m(11), t._v(" "), t._m(12)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
@@ -310,7 +310,7 @@ webpackJsonp([1], {
                         id: "bubble-6"
                     }
                 }, [t._v("\n      From concept to compound to cure.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--bottom-left",
+                    staticClass: "bubble bubble--top-left",
                     attrs: {
                         id: "bubble-7"
                     }
