@@ -439,7 +439,7 @@ webpackJsonp([1], {
                 }, [t._v("Quick Links")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/careers/"
+                        href: "http://www.dalafarm.net/recruit"
                     }
                 }, [t._v("Careers")])])
             }
@@ -531,7 +531,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*4th.text.box.description*/
-                }, [e("p", [this._v("\n          4th.text.box.description  \n        ")])])
+                }, [e("p", [this._v("\n          4th.text.box.description  			\n        ")])])
             }
             , function() {
                 var t = this
@@ -562,7 +562,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*6th.text.box.description*/
-                }, [e("p", [this._v("\n          6th.text.box.description \n        ")])])
+                }, [e("p", [this._v("\n          6th.text.box.description 			\n        ")])])
             }
             , function() {
                 var t = this.$createElement
@@ -570,7 +570,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*5th.text.box.description*/
-                }, [e("p", [this._v("\n          5th.text.box.description \n        ")])])
+                }, [e("p", [this._v("\n          5th.text.box.description 			\n        ")])])
             }
             , function() {
                 var t = this.$createElement
