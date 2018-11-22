@@ -285,12 +285,12 @@ webpackJsonp([1], {
                         id: "bubble-3"
                     }
                 }, [t._v("\n      Trusted friend, ally, mentor, peer, resource, guide, sidekick, work, spouse, backseat driver – whatever you call us, we're here for you.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-4"
                     }
                 }, [t._v("\n      Everything you can do, we can do better – together!\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-5"
                     }
@@ -300,7 +300,7 @@ webpackJsonp([1], {
                         id: "bubble-6"
                     }
                 }, [t._v("\n      From concept to compound to cure.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-right",
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-7"
                     }
@@ -320,12 +320,12 @@ webpackJsonp([1], {
                         id: "bubble-10"
                     }
                 }, [t._v("\n      Building the bridge from concept to compound to cure.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-11"
                     }
                 }, [t._v("\n      Every action of every employee, made each day, leads back to a patient.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                    staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-12"
                     }
