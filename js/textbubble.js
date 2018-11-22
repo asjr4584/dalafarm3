@@ -203,7 +203,7 @@ webpackJsonp([1], {
                     staticClass: "intro__top"
                 }, [t._m(0), t._v(" "), i("div", {
                     staticClass: "intro__body"
-                }, [i("p", [t._v("\n          PRA is committed to reinventing research with best-in-class global solutions and establishing an expanded role in the healthcare ecosystem.\n        ")]), t._v(" "), i("p", [t._v("\n          Our deep, data-driven insights, combined with our global infrastructure, enable us to optimize and solve challenges, many before they even occur. We believe that an evidence-based future will center around patient understanding.\n        ")]), t._v(" "), i("p", [t._v("\n          PRA’s growth strategy, reflected in our acquisitions, displays our commitment to a more agile, flexible, and adaptive approach in which healthcare integrates seamlessly into real patients’ real lives.\n        ")]), t._v(" "), i("button", {
+                }, [i("p", [t._v("\n          Design the essence CreativeSolution        \n        ")]), t._v(" "), i("p", [t._v("\n          みえないもの。感じるもの。     \n        ")]), t._v(" "), i("p", [t._v("\n          私たちは本質を目的に合わせて、デザインというカタチで表現することで関わる多くの皆様へ感動を与え続けることを使命だと感じています。       \n        ")]), t._v(" "),i("p", [t._v("\n          「みえないもの」を「感じるもの」にするCreativeSolutionをご提案します。       \n        ")]), t._v(" "), i("button", {
                     staticClass: "intro__toggle",
                     on: {
                         click: t.closeIntro
@@ -223,8 +223,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
+/*1st.text.box First Text on a white box container*/					
                 }, [t._v("マーケティング")]), t._v(" "), t._m(2), t._v(" "), t._m(3)]), t._v(" "), i("div", {
-/*1st.text.box First Text on a white box container*/
 					staticClass: "callout",
                     attrs: {
                         id: "callout-2"
@@ -234,7 +234,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("2nd.text.box.title")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
+/*2nd.text.box.title*/
+                }, [t._v("DTP")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-3"
@@ -244,7 +245,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("An Agile and Adaptive Infrastructure")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
+/*3rd.text.box.title*/
+                }, [t._v("WEB")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-4"
@@ -254,7 +256,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("Deeper Data for Meaningful Intelligence")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+/*4th.text.box.title*/
+                }, [t._v("4th.text.box.title")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-5"
@@ -264,7 +267,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("Where Research Meets Healthcare")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+/*6th.text.box.title*/
+                }, [t._v("6th.text.box.title")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-6"
@@ -274,7 +278,8 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-                }, [t._v("A Real-Patients-In-The-Real-World Approach")]), t._v(" "), t._m(11), t._v(" "), t._m(12)]), t._v(" "), i("div", {
+/*5th.text.box.title*/
+                }, [t._v("5th.text.box.title")]), t._v(" "), t._m(11), t._v(" "), t._m(12)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
@@ -399,7 +404,7 @@ webpackJsonp([1], {
                     staticClass: "intro__headline"
                 }, [e("span", {
                     staticClass: "intro__sub-headline"
-                }, [this._v("About PRA Health Sciences")]), this._v("\n        Who Are We?\n      ")])
+                }, [this._v("About CREATIVE CONSULTANT DaLaFarm Co.,Ltd")]), this._v("\n        Who Are We?\n      ")])
             }
             , function() {
                 var t = this.$createElement
@@ -443,7 +448,8 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          2nd.text.box.description \n        ")])])
+/*2nd.text.box.description*/
+                }, [e("p", [this._v("\n          パンフレット、カタログ、チラシなどを制作しています。最近では紙面は見られる事が少なくなっていますが、そういった時代だからこそ紙で伝えれる事もあります。手書きのメッセージカードではありませんが、心に残る紙面を制作する業務です。   \n        ")])])
             }
             , function() {
                 var t = this
@@ -453,31 +459,33 @@ webpackJsonp([1], {
                     staticClass: "callout__aside"
                 }, [i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Additional Information")]), t._v(" "), i("p", [t._v("\n          We foster long-lasting strategic partnerships and have won numerous industry awards for our work. Our breadth of solutions has empowered innovators from small biotech to large pharma with customized solutions to drive their development pipelines.\n        ")]), t._v(" "), i("h3", {
+/*2nd.text.box.sub.title*/
+                }, [t._v("2nd.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          2nd.text.box.sub.description   \n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Quick Links")]), t._v(" "), i("a", {
+                }, [t._v("Sample Title")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/about-pra/awards-recognition/"
+                        href: "#"
                     }
-                }, [t._v("Awards")]), t._v(" "), i("a", {
+                }, [t._v("Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/about-pra/expertise/"
+                        href: "#"
                     }
-                }, [t._v("Expertise")]), t._v(" "), i("a", {
+                }, [t._v("Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/"
+                        href: "#"
                     }
-                }, [t._v("Solutions")])])
+                }, [t._v("Sample Button")])])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          Whether it's people, processes, science, ortechnology, our infrastructure is never too big or rigid to adapt and respond to unforeseen obstacles (sometimes before they occur).\n        ")])])
+/*3rd.text.box.description*/
+                }, [e("p", [this._v("\n          お客様のニーズ、ターゲット、予算に応じてWEBサイトを制作しており、スマートフォンアプリの開発や、WEBシステム開発も弊社得意分野です。お客様の目的に合わせたウェブソリューションを提供しています。    \n        ")])])
             }
             , function() {
                 var t = this
@@ -487,41 +495,43 @@ webpackJsonp([1], {
                     staticClass: "callout__aside"
                 }, [i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Additional Information")]), t._v(" "), i("p", [t._v("\n          PRA's size and global reach allows for advanced healthcare research while maintaining the ability to remain flexible and adaptable for any client and project needs.\n        ")]), t._v(" "), i("h3", {
+/*3rd.text.box.sub.title*/
+                }, [t._v("3rd.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          3rd.text.box.sub.description      \n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Quick Links")]), t._v(" "), i("a", {
+                }, [t._v("Sample Title")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://symphonyhealth.prahs.com/"
+                        href: "#"
                     }
-                }, [t._v("Symphony Health")]), t._v(" "), i("a", {
+                }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/embedded-solutions/"
+                        href: "#"
                     }
-                }, [t._v("Embedded Solutions")]), t._v(" "), i("a", {
+                }, [t._v("2nd Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/real-world-solutions/"
+                        href: "#"
                     }
-                }, [t._v("Real World Solutions")]), t._v(" "), i("a", {
+                }, [t._v("3rd Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/clinical-pharmacology/"
+                        href: "#"
                     }
-                }, [t._v("Early Development Services")]), t._v(" "), i("a", {
+                }, [t._v("4th Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/clinical-development/"
+                        href: "#"
                     }
-                }, [t._v("Clinical Development")])])
+                }, [t._v("5th Sample Button")])])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          Whether it's planning your research from the beginning, bringing your asset to the next phase, assessing commercial insights, or a wholistic approach to go from concept to cure, we have the data science to get you get there as effectively and efficiently as possible.\n        ")])])
+/*4th.text.box.description*/
+                }, [e("p", [this._v("\n          4th.text.box.description    \n        ")])])
             }
             , function() {
                 var t = this
@@ -531,33 +541,36 @@ webpackJsonp([1], {
                     staticClass: "callout__aside"
                 }, [i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Additional Information")]), t._v(" "), i("p", [t._v("\n          We provide powerful data, applications, analytics, and consulting to help companies gain deep insight into the pharmaceutical market. Significant changes are radically reshaping the healthcare market, and our services provide a comprehensive, leading-edge perspective on the real dynamics that can make or break the success of your assets.\n        ")]), t._v(" "), i("h3", {
+/*4th.text.box.sub.title*/
+                }, [t._v("4th.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          4th.text.box.sub.description    \n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Quick Links")]), t._v(" "), i("a", {
+                }, [t._v("Sample Title")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://symphonyhealth.prahs.com/"
+                        href: "#"
                     }
-                }, [t._v("Symphony Health")]), t._v(" "), i("a", {
+                }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/real-world-solutions/"
+                        href: "#"
                     }
-                }, [t._v("Real World Solutions")])])
+                }, [t._v("2nd Sample Button")])])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          We're all about bridging the gap between clinical research and healthcare with the latest technology, data science, and health data, all while staying committed to improving care for those who need it most.\n        ")])])
+/*6th.text.box.description*/
+                }, [e("p", [this._v("\n          6th.text.box.description \n        ")])])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          We're driven by compassion to leave the world better than we found it, looking for every opportunity to make our industry work for the patients it serves - not the other way around. Everything we do is designed to make research work for real patients in the real world.\n        ")])])
+/*5th.text.box.description*/
+                }, [e("p", [this._v("\n          5th.text.box.description \n        ")])])
             }
             , function() {
                 var t = this.$createElement
@@ -566,14 +579,15 @@ webpackJsonp([1], {
                     staticClass: "callout__aside"
                 }, [e("h3", {
                     staticClass: "callout__aside-headline"
-                }, [this._v("Additional Information")]), this._v(" "), e("p", [this._v("\n          We're also adapting studies to align with patient behavior in the real world utilizing wearable and mobile applications.\n        ")]), this._v(" "), e("h3", {
+/*5th.text.box.sub.title*/
+                }, [this._v("5th.text.box.sub.title")]), this._v(" "), e("p", [this._v("\n          5th.text.box.sub.description \n        ")]), this._v(" "), e("h3", {
                     staticClass: "callout__aside-headline"
-                }, [this._v("Quick Links")]), this._v(" "), e("a", {
+                }, [this._v("Sample Title")]), this._v(" "), e("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "https://prahs.com/solutions/real-world-solutions/"
+                        href: "#"
                     }
-                }, [this._v("Real World Solutions")])])
+                }, [this._v("Sample Button")])])
             }
             , function() {
                 var t = this
