@@ -40,14 +40,13 @@ webpackJsonp([1], {
                 }, [i("g", {
                     attrs: {
                         id: "dalafarm",
-/*id: "PRA-LOGO-RECTANGLE-Pos-PINK-Vector-CMYK-(1)",*/						
                         stroke: "none",
                         "stroke-width": "1",
                         fill: "none",
                         "fill-rule": "evenodd"
                     }
 /*logo on the top-left corner of the screen*/
-                }, /*[i("path", {
+                }, [i("path", {
                     attrs: {
                         d: "",
                         id: "Fill-1",
@@ -197,7 +196,7 @@ webpackJsonp([1], {
                         id: "Fill-27",
                         fill: "#FFFFFF"
                     }
-                })]*/
+                })]
 /*logo on the top-left corner of the screen*/
 					 )])])]), t._v(" "), i("div", {
                     staticClass: "intro -visible"

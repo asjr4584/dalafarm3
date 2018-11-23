@@ -41,28 +41,28 @@ table {
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/regular-webfont.woff2) format("woff2"), /*url(/thread/static/fonts/prasans-regular-webfont.f2d2055.woff) format("woff")*/;
+    src: url(fonts/regular-webfont.woff2) format("woff2");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/regular-webfont.woff2) format("woff2"), /*url(/thread/static/fonts/prasans-medium-webfont.0cd71dd.woff) format("woff")*/;
+    src: url(fonts/regular-webfont.woff2) format("woff2");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/bold-webfont.woff2) format("woff2"), /*url(/thread/static/fonts/prasans-bold-webfont.33980c9.woff) format("woff")*/;
+    src: url(fonts/bold-webfont.woff2) format("woff2");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/heavy-webfont.woff2) format("woff2"), /*url(/thread/static/fonts/prasans-heavy-webfont.b687e85.woff) format("woff")*/;
+    src: url(fonts/heavy-webfont.woff2) format("woff2");
     font-weight: 900;
     font-style: normal;
 }
@@ -919,8 +919,6 @@ body {
     position: relative;
 }
 
-/*text bubble position*/
-
 .content {
     height: 100vh;
     position: fixed;
@@ -937,12 +935,7 @@ background: transparent url("../img/dalasite_svg3.svg") 0% 0% no-repeat;
     left: 0;
     position: fixed;
     top: 0;
-    width: 100%;
-	
-	/*z-index:-1000;
-	width: 100%;
-	
-	*/
+    width: 100%;	
 }
 
 .background {
@@ -953,12 +946,7 @@ background: transparent url("../img/dalasite_svg2.svg") 0% 0% no-repeat;
     left: 0;
     position: fixed;
     top: 0;
-    width: 100%;
-	/*z-index:-500;
-	
-	width: 100%;
-	
-	*/
+    width: 100%;	
 }
 
 .foreground {
@@ -969,10 +957,5 @@ background: transparent url("../img/dalasite_svg1.svg") 0% 0% no-repeat;
     left: -60px;
     position: fixed;
     top: 0;
-    width: 100%;
-	/*z-index: 1;
-	
-	width: 100%;
-	
-	*/
+    width: 100%;	
 }
