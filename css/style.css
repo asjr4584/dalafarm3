@@ -431,7 +431,7 @@ body {
 }
 
 .outro {
-    background-color: white;
+    background-color: #1d1e1e;
     bottom: 0;
     color: #2a2b47;
     display: -webkit-box;
@@ -470,7 +470,7 @@ body {
 }
 
 .outro__headline {
-    color: #2a2b47;
+    color: #ab9566;
     display: inline-block;
     font-size: calc(30px + 1vw);
     margin: 0.25em 0;
@@ -479,7 +479,7 @@ body {
 }
 
 .outro__headline:after {
-    background-color: #2a2b47;
+    background-color: #ab9566;
     content: '';
     display: block;
     height: 0.25em;
@@ -495,7 +495,7 @@ body {
 }
 
 .outro__links li a {
-    color: #4a4a4c;
+    color: #ffffff;
     display: block;
     text-decoration: none;
     -webkit-transition: all 0.2s ease-in-out;
@@ -512,19 +512,19 @@ body {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #292a2a;
+    background-color: #ab9566;
     color: white;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: 1em 2em;
+    padding: 5em 2em;
     text-decoration: none;
     -webkit-transition: background-color 0.4s ease-in-out;
     transition: background-color 0.4s ease-in-out;
 }
 
 .outro__footer:hover {
-    background-color: #d51568;
+    background-color: #1d1e1e;
 }
 
 .outro__footer:hover .outro__footer-icon svg {
@@ -533,7 +533,7 @@ body {
 }
 
 .outro__footer P {
-    font-size: calc(8px + 0.2vw);
+    font-size: calc(10px + 0.2vw);
     font-weight: 400;
     letter-spacing: 0.2em;
     text-transform: uppercase;
@@ -586,13 +586,13 @@ body {
 .callout__headline:after {
     -webkit-animation: pulse 1.5s infinite cubic-bezier(0.5, 0, 0.1, 1);
     animation: pulse 1.5s infinite cubic-bezier(0.5, 0, 0.1, 1);
-    background-color: #ab9566;
+    background-color: #c03039;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: 100%;
     border: none;
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(171, 149, 102, 0.8);;
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(171, 149, 102, 0.8);;
+    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(171, 149, 102, 0.8);
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5), 0 0 0 0 rgba(192, 48, 57, 0.8);
     color: #fff;
     content: '';
     cursor: pointer;
