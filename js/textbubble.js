@@ -1,7 +1,9 @@
 webpackJsonp([1], {
+/*scroll down icon img/icon-scroll.7719c43.svg*/	
     "/Mxk": function(t, e, i) {
         t.exports = i.p + "img/icon-scroll.7719c43.svg"
     },
+/*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
         Object.defineProperty(e, "__esModule", {
@@ -203,12 +205,17 @@ webpackJsonp([1], {
                     staticClass: "intro__top"
                 }, [t._m(0), t._v(" "), i("div", {
                     staticClass: "intro__body"
-                }, [i("p", [t._v("\n          Design the essence CreativeSolution        \n        ")]), t._v(" "), i("p", [t._v("\n          みえないもの。感じるもの。     \n        ")]), t._v(" "), i("p", [t._v("\n          私たちは本質を目的に合わせて、デザインというカタチで表現することで関わる多くの皆様へ感動を与え続けることを使命だと感じています。       \n        ")]), t._v(" "),i("p", [t._v("\n          「みえないもの」を「感じるもの」にするCreativeSolutionをご提案します。       \n        ")]), t._v(" "), i("button", {
-                    staticClass: "intro__toggle",
+                }, [i("p", [t._v("\n          Design the essence CreativeSolution        \n        ")]), t._v(" "), i("p", [t._v("\n          みえないもの。感じるもの。     \n        ")]), t._v(" "), i("p", [t._v("\n          私たちは本質を目的に合わせて、デザインというカタチで表現することで関わる多くの皆様へ感動を与え続けることを使命だと感じています。       \n        ")]), t._v(" "),i("p", [t._v("\n          「みえないもの」を「感じるもの」にするCreativeSolutionをご提案します。       \n        ")]), t._v(" "), 
+/*remove original follow the thread*/					
+					/*i("button", {
+
+					staticClass: "intro__toggle",
                     on: {
                         click: t.closeIntro
                     }
-                }, [t._v("Follow the thread")])])]), t._v(" "), t._m(1)]), t._v(" "), i("div", {
+                }, [t._v("Follow the thread")])*/
+/*remove original follow the thread*/									   
+				   ])]), t._v(" "), t._m(1)]), t._v(" "), i("div", {
                     staticClass: "content",
                     style: {
                         width: t.imageWidth + "px"
@@ -416,7 +423,7 @@ webpackJsonp([1], {
                     attrs: {
                         src: i("/Mxk")
                     }
-                }), this._v(" Scroll to learn more")])])
+                }), this._v(" Scroll down to navigate")])])
             }
             , function() {
                 var t = this.$createElement
