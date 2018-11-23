@@ -350,6 +350,72 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
+/*13th.text.box.title*/
+                }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-13"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*14th.text.box.title*/
+                }, [t._v("社員属性②")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-14"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*15th.text.box.title*/
+                }, [t._v("DaLa Farm")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-15"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*16th.text.box.title*/
+                }, [t._v("社員属性③")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-16"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*17th.text.box.title*/
+                }, [t._v("社用車")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-17"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*18th.text.box.title*/
+                }, [t._v("連絡先")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-18"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
 /*5th.text.box.title*/
                 }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
