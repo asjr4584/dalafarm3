@@ -732,27 +732,92 @@ body {
 }
 
 #callout-2 {
-    left: 16.5%;
-    top: 12%;
-}
-
-#callout-3 {
     left: 27.5%;
     top: 12%;
 }
 
-#callout-4 {
+#callout-3 {
     left: 47%;
     top: 31%;
 }
 
+#callout-4 {
+    left: 53%;
+    top: 13%;
+}
+
 #callout-5 {
-    left: 71%;
-    top: 65%;
+    left: 57.3%;
+    top: 31%;
 }
 
 #callout-6 {
+    left: 58.7%;
+    top: 52%;
+}
+
+#callout-7 {
+    left: 59.7%;
+    top: 68%;
+}
+
+#callout-8 {
+    left: 62.6%;
+    top: 51%;
+}
+
+#callout-9 {
+    left: 64.3%;
+    top: 32%;
+}
+
+#callout-10 {
+    left: 68%;
+    top: 65%;
+}
+
+#callout-11 {
+    left: 73%;
+    top: 49%;
+}
+
+#callout-12 {
+    left: 76%;
+    top: 71%;
+}
+
+#callout-13 {
+    left: 81.5%;
+    top: 80%;
+}
+
+#callout-14 {
     left: 81.3%;
+    top: 25%;
+}
+
+#callout-15 {
+    left: 84%;
+    top: 48%;
+}
+
+#callout-16 {
+    left: 85.5%;
+    top: 80%;
+}
+
+#callout-17 {
+    left: 87.8%;
+    top: 77%;
+}
+
+#callout-18 {
+    left: 88.6%;
+    top: 15%;
+}
+
+#callout-19 {
+    left: 80%;
     top: 72%;
 }
 

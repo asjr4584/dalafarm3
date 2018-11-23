@@ -241,7 +241,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*2nd.text.box.title*/
-                }, [t._v("DTP")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
+                }, [t._v("理念")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-3"
@@ -252,7 +252,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*3rd.text.box.title*/
-                }, [t._v("理念")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
+                }, [t._v("仕事内容")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-4"
@@ -263,7 +263,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*4th.text.box.title*/
-                }, [t._v("仕事内容")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+                }, [t._v("社員旅行")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-5"
@@ -274,7 +274,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*6th.text.box.title*/
-                }, [t._v("教育体制")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("募集要項")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-6"
@@ -284,8 +284,140 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
+/*7th.text.box.title*/
+                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-7"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*8th.text.box.title*/
+                }, [t._v("実績紹介")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-8"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*9th.text.box.title*/
+                }, [t._v("キャリアステップアップ")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-9"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*10th.text.box.title*/
+                }, [t._v("WEBDEG")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-10"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*11th.text.box.title*/
+                }, [t._v("教育体制")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-11"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*12th.text.box.title*/
+                }, [t._v("動画")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-12"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*13th.text.box.title*/
+                }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-13"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*14th.text.box.title*/
+                }, [t._v("社員属性②")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-14"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*15th.text.box.title*/
+                }, [t._v("DaLa Farm")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-15"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*16th.text.box.title*/
+                }, [t._v("社員属性③")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-16"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*17th.text.box.title*/
+                }, [t._v("社用車")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-17"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
+/*18th.text.box.title*/
+                }, [t._v("連絡先")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                    staticClass: "callout",
+                    attrs: {
+                        id: "callout-18"
+                    }
+                }, [i("h2", {
+                    staticClass: "callout__headline",
+                    on: {
+                        click: t.toggle
+                    }
 /*5th.text.box.title*/
-                }, [t._v("社員属性①")]), t._v(" "), t._m(11), t._v(" "), t._m(12)]), t._v(" "), i("div", {
+                }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
@@ -315,17 +447,17 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-6"
                     }
-                }, [t._v("\n      BUBBLE7\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      これいいね！\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-7"
                     }
-                }, [t._v("\n      BUBBLE8\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      このデザインいいじゃん！\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-8"
                     }
-                }, [t._v("\n      BUBBLE9\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      WOW!\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-9"
