@@ -616,7 +616,8 @@ body {
 }
 
 .callout__body {
-    color: #4a4a4c;
+    color: #ffffff;
+	/*color: #4a4a4c;*/
     opacity: 0;
 }
 
@@ -691,7 +692,7 @@ body {
 }
 
 .callout:before {
-    background-color: white;
+    background-color: #ab9566;
     -webkit-box-shadow: 2px 8px 124px -26px #0000005e;
     box-shadow: 2px 8px 124px -26px #0000005e;
     content: '';
@@ -711,7 +712,8 @@ body {
 }
 
 .callout.-active .callout__headline {
-    color: #4a4a4c;
+    color: #ffffff;
+	/*color: #4a4a4c;*/
 }
 
 .callout.-active .callout__headline:after {
