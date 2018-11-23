@@ -376,7 +376,9 @@ webpackJsonp([1], {
                 }, [t._v("DaLa Farm")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
-                        id: "callout-15"
+                        id: "callout-15",
+                        // href: "http://www.dalafarm.net/",
+                        // title: "Visit dalafarm.net"
                     }
                 }, [i("h2", {
                     staticClass: "callout__headline",
@@ -417,7 +419,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*5th.text.box.title*/
-                }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("オフィスギャラリー")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
@@ -669,7 +671,7 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*4th.text.box.description*/
-                }, [e("p", [this._v("\n          4th.text.box.description  			\n        ")])])
+                }, [e("p", [this._v("\n          毎年、年間で1回社員旅行に行きます。今までは国内でしたが2019年は念願の海外の社員旅行に行く事が出来ました。  			\n        ")])])
             }
             , function() {
                 var t = this
@@ -682,16 +684,16 @@ webpackJsonp([1], {
 /*4th.text.box.sub.title*/
                 }, [t._v("4th.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          4th.text.box.sub.description    \n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [t._v("Sample Title")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
+                // }, [t._v("Sample Title")]), t._v(" "), i("a", {
+                //     staticClass: "callout__aside-cta",
+                //     attrs: {
+                //         href: "#"
+                //     }
+                // }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
+                //     staticClass: "callout__aside-cta",
+                //     attrs: {
+                //         href: "#"
+                //     }
                 }, [t._v("2nd Sample Button")])])
             }
             , function() {
