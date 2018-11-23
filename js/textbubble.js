@@ -9,7 +9,7 @@ webpackJsonp([1], {
         Object.defineProperty(e, "__esModule", {
             value: !0
         });
-        var s = i("7+uW")
+        var s = i("7+uW")  
           , a = i("xJD8")
           , l = {
             render: function() {
@@ -296,52 +296,52 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-2"
                     }
-                }, [t._v('\n      The only idea we don\'t pursue is "business as usual."\n    ')]), t._v(" "), i("div", {
+                }, [t._v('\n      BUBBLE3\n    ')]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-3"
                     }
-                }, [t._v("\n      Trusted friend, ally, mentor, peer, resource, guide, sidekick, work, spouse, backseat driver – whatever you call us, we're here for you.\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      BUBBLE4\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-4"
                     }
-                }, [t._v("\n      Everything you can do, we can do better – together!\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      BUBBLE5\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-5"
                     }
-                }, [t._v("\n      We're like a startup, but on a global scale.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--bottom-right",
+                }, [t._v("\n      BUBBLE6\n    ")]), t._v(" "), i("div", {
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-6"
                     }
-                }, [t._v("\n      From concept to compound to cure.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                }, [t._v("\n      BUBBLE7\n    ")]), t._v(" "), i("div", {
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-7"
                     }
-                }, [t._v("\n      We're like the maps app of the drug development industry.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                }, [t._v("\n      BUBBLE8\n    ")]), t._v(" "), i("div", {
+                    staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-8"
                     }
-                }, [t._v("\n      Insights to see more, solve more, succeed more.\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-right",
+                }, [t._v("\n      BUBBLE9\n    ")]), t._v(" "), i("div", {
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-9"
                     }
-                }, [t._v("\n      We're all about the (re)search for better (health)care.\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      BUBBLE10\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--top-left",
                     attrs: {
                         id: "bubble-10"
                     }
-                }, [t._v("\n      Building the bridge from concept to compound to cure.\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      BUBBLE11\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-11"
                     }
-                }, [t._v("\n      Every action of every employee, made each day, leads back to a patient.\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      BUBBLE12\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-12"
