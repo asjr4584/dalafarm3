@@ -970,7 +970,9 @@ background: transparent url("../img/dalasite_svg3.svg") 0% 0% no-repeat;
     left: 0;
     position: fixed;
     top: 0;
-    width: 100%;	
+    width: 100%;
+/*temporary	
+	display:none;	*/
 }
 
 .background {
@@ -981,7 +983,9 @@ background: transparent url("../img/dalasite_svg2.svg") 0% 0% no-repeat;
     left: 0;
     position: fixed;
     top: 0;
-    width: 100%;	
+    width: 100%;
+/*temporary
+	display:none;		*/
 }
 
 .foreground {
@@ -993,4 +997,6 @@ background: transparent url("../img/dalasite_svg1.svg") 0% 0% no-repeat;
     position: fixed;
     top: 0;
     width: 100%;	
+/*temporary		
+	display:none;	*/
 }
