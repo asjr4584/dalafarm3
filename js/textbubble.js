@@ -465,12 +465,12 @@ webpackJsonp([1], {
                         id: "bubble-9"
                     }
                 }, [t._v("\n      BUBBLE10\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--top-left",
+                    staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-10"
                     }
                 }, [t._v("\n      BUBBLE11\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--bottom-left",
+                    staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-11"
                     }
