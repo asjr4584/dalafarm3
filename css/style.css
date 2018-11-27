@@ -412,7 +412,7 @@ body {
 
 .intro__footer {
     background-color: #ab9566;
-    padding: 5em 2em;
+    padding: 1em 2em;
 }
 
 .intro__footer P {
@@ -744,6 +744,8 @@ body {
 #callout-4 {
     left: 53%;
     top: 13%;
+	z-index: 1000;
+	
 }
 
 #callout-5 {

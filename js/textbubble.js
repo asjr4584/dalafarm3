@@ -267,7 +267,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*4th.text.box.title*/
-                }, [t._v("社員旅行")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+                }, [t._v("callout-4 社員旅行")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-5"
@@ -278,7 +278,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*6th.text.box.title*/
-                }, [t._v("募集要項")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("callout-5 募集要項")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-6"
@@ -289,7 +289,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*7th.text.box.title*/
-                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(11)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-7"
@@ -300,7 +300,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*8th.text.box.title*/
-                }, [t._v("実績紹介")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("実績紹介")]), t._v(" "), t._m(12)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
@@ -704,8 +704,11 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout__body"													
+					
 /*6th.text.box.description*/
+
+/*inserted image here*/					
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -713,7 +716,8 @@ webpackJsonp([1], {
                     }
                 }), this._v(" Scroll up and down to navigate")])])
             }
-						 
+/*inserted image here*/
+							  
 						 /*
 						 [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。			\n        ")])])
             }*/
@@ -725,8 +729,9 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*5th.text.box.description*/
-                }, [e("p", [this._v("\n          5th.text.box.description 			\n        ")])])
-            }
+                }, [e("p", [this._v("\n          Where is this located???? 5th.text.box.description 			\n        ")])])
+            }				  
+							  
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
