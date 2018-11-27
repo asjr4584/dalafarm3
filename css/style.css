@@ -744,76 +744,91 @@ body {
 #callout-4 {
     left: 53%;
     top: 13%;
+    z-index: 1000;
 }
 
 #callout-5 {
     left: 57.3%;
     top: 31%;
+    z-index: 999;
 }
 
 #callout-6 {
     left: 58.7%;
     top: 52%;
+    z-index: 998;
 }
 
 #callout-7 {
     left: 59.7%;
     top: 68%;
+    z-index: 997;
 }
 
 #callout-8 {
     left: 62.6%;
     top: 51%;
+    z-index: 996;
 }
 
 #callout-9 {
     left: 64.3%;
     top: 32%;
+    z-index: 995;
 }
 
 #callout-10 {
     left: 68%;
     top: 65%;
+    z-index: 994;
 }
 
 #callout-11 {
     left: 73%;
     top: 49%;
+    z-index: 993;
 }
 
 #callout-12 {
     left: 76%;
     top: 71%;
+    z-index: 992;
 }
 
 #callout-13 {
     left: 81.5%;
     top: 80%;
+    z-index: 991;
 }
 
 #callout-14 {
     left: 81.3%;
     top: 25%;
+    z-index: 990;
 }
 
 #callout-15 {
     left: 84%;
     top: 48%;
+    z-index: 989;
 }
 
 #callout-16 {
     left: 85.5%;
     top: 80%;
+    z-index: 988;
 }
 
 #callout-17 {
     left: 87.8%;
     top: 77%;
+    z-index: 987;
 }
 
 #callout-18 {
     left: 88.6%;
     top: 15%;
+    z-index: 986;
 }
 
 #callout-19 {
