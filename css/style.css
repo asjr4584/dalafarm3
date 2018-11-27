@@ -41,28 +41,28 @@ table {
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/regular-webfont.woff2) format("woff2");
+    src: url("../fonts/regular-webfont.woff2") format("woff2");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/regular-webfont.woff2) format("woff2");
+    src: url("../fonts/regular-webfont.woff2")format("woff2");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/bold-webfont.woff2) format("woff2");
+    src: url("../fonts/bold-webfont.woff2")format("woff2");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: Arial Bold;
-    src: url(fonts/heavy-webfont.woff2) format("woff2");
+    src: url("../fonts/heavy-webfont.woff2")format("woff2");
     font-weight: 900;
     font-style: normal;
 }
