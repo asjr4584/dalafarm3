@@ -121,7 +121,7 @@
 	.st115{fill:none;stroke:#3E3A39;stroke-width:0.1401;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st116{fill:#445591;}
 	.st117{fill:#AB9566;}
-	.st118{fill:#ECECF5;}
+	.st118{fill:#CC9999;}
 	.st119{font-size:22.6508px;}
 	.st120{clip-path:url(#SVGID_78_);}
 	.st121{clip-path:url(#SVGID_82_);}
@@ -302,8 +302,6 @@
 	  to { transform: rotate(360deg); }
 	}	
 
-	
-
     ]]>
   </style>
 </svg>
@@ -319,7 +317,7 @@
 			<use xlink:href="#Sky_Floor_7_"  style="overflow:visible;"/>
 		</clipPath>
 		<g class="st1">
-			<g id="clouds_3_" class="st2">
+			<!--g id="clouds_3_" class="st2">
 				<path class="st3" d="M436.7,749.9h-8.8c0.1,0.1,0.2,0.2,0.2,0.3c0,0.3-0.4,0.6-1,0.8c1.8,0.5,2.8,1.1,2.8,1.7
 					c0,1.6-6.3,2.8-14.2,2.8c-2.4,0-4.6-0.1-6.6-0.3c-1.1,1.8-8.6,3.1-17.7,3.1c-9.4,0-17.1-1.5-17.8-3.3c-0.3,0-0.5,0-0.8,0
 					c-6,0-10.8-1-10.8-2.2c0-0.3,0.4-0.7,1.1-1c-4.6,0-8.4-0.8-8.4-1.7c0-0.9,3.8-1.7,8.5-1.7h49.3h6.9h17.1c1.9,0,3.4,0.3,3.4,0.7
@@ -353,7 +351,7 @@
 					c0-0.2,0.3-0.4,0.7-0.6c-2.9,0-5.2-0.5-5.2-1.1c0-0.6,2.4-1.1,5.3-1.1H91h4.3H106c1.2,0,2.1,0.2,2.1,0.4
 					C108.2,756.1,107.2,756.3,106,756.3z M84.4,757.6L84.4,757.6C84.4,757.6,84.4,757.6,84.4,757.6
 					C84.4,757.6,84.4,757.6,84.4,757.6z"/>
-			</g>
+			</g-->
 			<g id="Night_Streetlamp_1_">
 				<g>
 					<rect x="164.1" y="645.1" class="st4" width="3.4" height="17.7"/>
@@ -16288,10 +16286,36 @@ N285Pq4AAAAASUVORK5CYII=" transform="matrix(0.1138 0 0 0.1138 2776.5332 348.9238
 		<rect x="583" y="315.4" class="st116" width="3.2" height="24.9"/>
 		<rect x="609.7" y="315.4" class="st116" width="3.2" height="24.9"/>
 	</g>
-	<g id="DaLa_Logo">
+	<!--g id="DaLa_Logo">
 		<rect x="483.7" y="201.2" class="st117" width="30.1" height="64.9"/>
 		<polygon class="st3" points="530.7,255.1 530.7,201.4 519.6,201.4 519.6,266.1 519.6,266.1 549.5,266.1 549.5,255.1 		"/>
-	</g>
+
+		
+	</g-->
+
+
+
+	      	
+<!--hearbeating-->		
+		<g id="DaLa_Logo" xmlns="http://www.w3.org/2000/svg" transform="translate(460 460)">
+	      
+			<rect x="483.7" y="201.2" class="st117" width="30.1" height="64.9" transform="scale(0.50245 0.50245)"/>
+			<polygon class="st3" points="530.7,255.1 530.7,201.4 519.6,201.4 519.6,266.1 519.6,266.1 549.5,266.1 549.5,255.1" transform="scale(0.50245 0.50245)"/>
+	        <animateTransform 
+	        	attributeName="transform" 
+	        	type="scale" 
+	        	calcMode="spline" 
+	        	values="01.976;01.98;01.976;01.987;01.976;01.976" 
+	        	keyTimes="0;0.05;0.39;0.45;0.6;1" 
+	        	dur="1s" 
+	        	keySplines="0.215 0.61,0.355 1;0.215 0.61,0.355 1;0.215 0.61,0.355 1;0.215 0.61,0.355 1;0.215 0.61,0.355 1" 
+	        	begin="0s" 
+	        	repeatCount="indefinite"/>	      
+    	</g>
+<!--hearbeating-->
+
+
+
 </g>
 <g id="建築中_1">
 	<g id="建築中">
@@ -47188,8 +47212,7 @@ AAAAAAAAyImQHgAAAAAAAAByIqQHAAAAAAAAgJx8AxzZ1V3BrJz1AAAAAElFTkSuQmCC" transform=
 					<use xlink:href="#SVGID_111_"  style="overflow:visible;"/>
 				</clipPath>
 			</g>
-
-			<!--added animation-->										
+<!--added animation-->										
 				<animateTransform id="Heart_1_"
 								  attributeName="transform"
 								  attributeType="XML"
@@ -47197,7 +47220,7 @@ AAAAAAAAyImQHgAAAAAAAAByIqQHAAAAAAAAgJx8AxzZ1V3BrJz1AAAAAElFTkSuQmCC" transform=
 								  begin="0.6"
 								  dur="1s"
 								  values="0,6;0,-6;0,6"
-								  repeatCount="indefinite" />
+								  repeatCount="indefinite" />				
 		</g>
 	</g>
 	<g id="Blue_Cogs" class="rotateBlueCogs">
