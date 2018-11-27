@@ -429,22 +429,22 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-2"
                     }
-                }, [t._v('\n      BUBBLE3\n    ')]), t._v(" "), i("div", {
+                }, [t._v('\n      テキスト3\n    ')]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-3"
                     }
-                }, [t._v("\n      BUBBLE4\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      テキスト4\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-4"
                     }
-                }, [t._v("\n      BUBBLE5\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      テキスト5\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-5"
                     }
-                }, [t._v("\n      BUBBLE6\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      テキスト6\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-6"
@@ -464,17 +464,17 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-9"
                     }
-                }, [t._v("\n      BUBBLE10\n    ")]), t._v(" "), i("div", {
-                    staticClass: "bubble bubble--bottom-left",
+                }, [t._v("\n      テキスト10\n    ")]), t._v(" "), i("div", {
+                    staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-10"
                     }
-                }, [t._v("\n      BUBBLE11\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      テキスト11\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-11"
                     }
-                }, [t._v("\n      BUBBLE12\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      一緒に創造しようではないか？\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-12"
