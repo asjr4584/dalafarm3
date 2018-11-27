@@ -3,6 +3,10 @@ webpackJsonp([1], {
     "/Mxk": function(t, e, i) {
         t.exports = i.p + "img/icon-scroll.7719c43.svg"
     },
+	"/xyz": function(t, e, i) {
+        t.exports = i.p + "img/icon-scroll.2.svg"
+    },
+	
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
@@ -556,7 +560,7 @@ webpackJsonp([1], {
                     attrs: {
                         src: i("/Mxk")
                     }
-                }), this._v(" Scroll down to navigate")])])
+                }), this._v(" Scroll up and down to navigate")])])
             }
             , function() {
                 var t = this.$createElement
@@ -702,8 +706,19 @@ webpackJsonp([1], {
                 return e("div", {
                     staticClass: "callout__body"
 /*6th.text.box.description*/
-                }, [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。			\n        ")])])
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/Mxk")
+                    }
+                }), this._v(" Scroll up and down to navigate")])])
             }
+						 
+						 /*
+						 [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。			\n        ")])])
+            }*/
+							  
+							  
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
