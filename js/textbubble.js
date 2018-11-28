@@ -603,11 +603,11 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          4   \n        ")])])
+                }, [e("p", [this._v("\n          「喜び」とはお客様が、私たちのサービスを通じて喜んでくれることや幸せを感じてくれることであり、そうなることでスタッフ全員が当社で良かったと喜んでくれる。そして「幸せ」を感じてくれることです。その為には・みんなで経営、みんなが経営者・知識、技術の幅を拡げ、深く追求し基本価値を高める・問題を解決し続け、付加価値を高める以上を常に意識して追求し続けることが大切だと考えています。   \n        ")])])
             }
 
 								  
-            // RINEN 5        
+            // 仕事内容 5        
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -622,7 +622,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          6   \n        ")])])
+                }, [e("p", [this._v("\n          毎年、年間で1回社員旅行に行きます。今までは国内でしたが2019年は念願の海外の社員旅行に行く事が出来ました。   \n        ")])])
             }
 
             // 募集要項 7
@@ -658,7 +658,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          10   \n        ")])])
+                }, [e("p", [this._v("\n          社員の夢を応援する会社です。デザイナーからアートディレクターのステップアップや独立支援もおこなっています。   \n        ")])])
             }
             
 			// WEBDEG 11
@@ -676,7 +676,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          12   \n        ")])])
+                }, [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。   \n        ")])])
             }
 
             // 動画 13
@@ -730,7 +730,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          18   \n        ")])])
+                }, [e("p", [this._v("\n          社用車にはBMWがあります。手続きはありますがプライベートで使う事も出来ます。デートや友達との旅行に使用する社員もいます。   \n        ")])])
             }
 
             // 連絡先 19
