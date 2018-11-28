@@ -6,6 +6,9 @@ webpackJsonp([1], {
 	"/xyz": function(t, e, i) {
         t.exports = i.p + "img/icon-scroll.2.svg"
     },
+    "/wer": function(t, e, i) {
+        t.exports = i.p + "img/shigotonaiyou.svg"
+    },
 	
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
@@ -613,8 +616,26 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          5   \n        ")])])
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/wer")
+                    }
+                })])])
             }
+
+            // , function() {
+            //     var t = this.$createElement
+            //       , e = this._self._c || t;
+            //     return e("footer", {
+            //         staticClass: "intro__footer"
+            //     }, [e("p", [e("img", {
+            //         staticClass: "icon",
+            //         attrs: {
+            //             src: i("/Mxk")
+            //         }
+            //     }), this._v(" Scroll up and down to navigate")])])
+            // }
 
             // 社員旅行 6       
             , function() {
