@@ -249,7 +249,7 @@ webpackJsonp([1], {
                     }
 /*2nd.text.box.title*/
                 }, [t._v("理念")]), t._v(" "), t._m(4)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-3"
                     }
@@ -960,12 +960,12 @@ webpackJsonp([1], {
                     },
                     toggle: function(e) {
                         var i = t(e.target.parentElement)
-                          , s = i.find(".callout__body")
+                          , s = i.find(".callout__body, .callout-3-3__body")
                           , a = i.find(".callout__aside");
                         i.hasClass("-active") ? (a.removeClass("-visible"),
                         s.removeClass("-visible").closest(i).removeClass("-active")) : (i.addClass("-active").find(s).addClass("-visible"),
                         a.addClass("-visible"),
-                        i.siblings(".callout").find(".callout__aside").removeClass("-visible").end().find(".callout__body").removeClass("-visible").end().removeClass("-active"))
+                        i.siblings(".callout, .callout-3-3").find(".callout__aside").removeClass("-visible").end().find(".callout__body, .callout-3-3__body").removeClass("-visible").end().removeClass("-active"))
                     },
                     closeIntro: function() {
                         var e = t(".intro")
