@@ -6,6 +6,9 @@ webpackJsonp([1], {
 	"/xyz": function(t, e, i) {
         t.exports = i.p + "img/icon-scroll.2.svg"
     },
+    "/wer": function(t, e, i) {
+        t.exports = i.p + "img/shigotonaiyou.svg"
+    },
 	
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
@@ -245,7 +248,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*2nd.text.box.title*/
-                }, [t._v("理念")]), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), i("div", {
+                }, [t._v("理念")]), t._v(" "), t._m(4)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-3"
@@ -256,7 +259,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*3rd.text.box.title*/
-                }, [t._v("仕事内容")]), t._v(" "), t._m(6), t._v(" "), t._m(7)]), t._v(" "), i("div", {
+                }, [t._v("仕事内容")]), t._v(" "), t._m(5)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-4"
@@ -267,7 +270,11 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*4th.text.box.title*/
+<<<<<<< HEAD
                 }, [t._v("callout-4 社員旅行")]), t._v(" "), t._m(8), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+=======
+                }, [t._v("社員旅行")]), t._v(" "), t._m(6)]), t._v(" "), i("div", {
+>>>>>>> develop-jin
                     staticClass: "callout",
                     attrs: {
                         id: "callout-5"
@@ -278,7 +285,11 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*6th.text.box.title*/
+<<<<<<< HEAD
                 }, [t._v("callout-5 募集要項")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+=======
+                }, [t._v("募集要項")]), t._v(" "), t._m(7)]), t._v(" "), i("div", {
+>>>>>>> develop-jin
                     staticClass: "callout",
                     attrs: {
                         id: "callout-6"
@@ -289,7 +300,11 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*7th.text.box.title*/
+<<<<<<< HEAD
                 }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(11)]), t._v(" "), i("div", {
+=======
+                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {
+>>>>>>> develop-jin
                     staticClass: "callout",
                     attrs: {
                         id: "callout-7"
@@ -300,7 +315,11 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*8th.text.box.title*/
+<<<<<<< HEAD
                 }, [t._v("実績紹介")]), t._v(" "), t._m(12)]), t._v(" "), i("div", {
+=======
+                }, [t._v("実績紹介")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+>>>>>>> develop-jin
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
@@ -322,7 +341,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*10th.text.box.title*/
-                }, [t._v("WEBDEG")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("WEBDEG")]), t._v(" "), t._m(11)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-10"
@@ -333,7 +352,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*11th.text.box.title*/
-                }, [t._v("教育体制")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("教育体制")]), t._v(" "), t._m(12)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-11"
@@ -344,7 +363,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*12th.text.box.title*/
-                }, [t._v("動画")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("動画")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-12"
@@ -355,7 +374,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*13th.text.box.title*/
-                }, [t._v("社員属性①")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("社員属性①")]), t._v(" "), t._m(14)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-13"
@@ -366,7 +385,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*14th.text.box.title*/
-                }, [t._v("社員属性②")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("社員属性②")]), t._v(" "), t._m(15)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-14"
@@ -377,7 +396,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*15th.text.box.title*/
-                }, [t._v("DaLa Farm")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("DaLa Farm")]), t._v(" "), t._m(16)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-15",
@@ -390,7 +409,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*16th.text.box.title*/
-                }, [t._v("社員属性③")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("社員属性③")]), t._v(" "), t._m(17)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-16"
@@ -401,7 +420,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*17th.text.box.title*/
-                }, [t._v("社用車")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("社用車")]), t._v(" "), t._m(18)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-17"
@@ -412,7 +431,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*18th.text.box.title*/
-                }, [t._v("連絡先")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("連絡先")]), t._v(" "), t._m(19)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-18"
@@ -423,7 +442,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*5th.text.box.title*/
-                }, [t._v("オフィスギャラリー")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("オフィスギャラリー")]), t._v(" "), t._m(20), t._v(" "), t._m(21)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
@@ -478,6 +497,11 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-11"
                     }
+																							  
+				  
+	   
+			
+	  
                 }, [t._v("\n      一緒に創造しようではないか？\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
@@ -500,13 +524,13 @@ webpackJsonp([1], {
                     }
                 }), t._v(" "), i("div", {
                     staticClass: "outro"
-                }, [t._m(13), t._v(" "), i("a", {
+                }, [t._m(22), t._v(" "), i("a", {
                     staticClass: "outro__footer",
                     attrs: {
                         href: "http://www.dalafarm.net/",
                         title: "Visit dalafarm.net"
                     }
-                }, [t._m(14), t._v(" "), i("div", {
+                }, [t._m(23), t._v(" "), i("div", {
                     staticClass: "outro__footer-icon"
                 }, [i("svg", {
                     attrs: {
@@ -562,14 +586,17 @@ webpackJsonp([1], {
                     }
                 }), this._v(" Scroll up and down to navigate")])])
             }
+
+			// 代表メッセージ 2				 
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n  私たちは本質を目的に合わせて、デザインというカタチで感動を与えることを使命だと感じています。みえないもの。感じるもの。「みえないもの」を「感じるもの」にするCreative Solutionをご提案します。ＳＮＳなどの普及やそれらを閲覧するスマートフォンなど技術の進歩は益々加速しています。ＷＥＢも無料や格安で作成できるツールの出現など、簡単にクリエイティブが可能になっています。ただ、人の感性や感動などの本質は変わりません。私たちはそこを大切にし、人と人を繋ぐことができるような制作を心掛けます。私達を支えていただいた皆様に感謝し、理念に基づき行動します。今後も 多大なご支援を賜りますようお願い申しあげます。 \n        ")])])
-/*1st.text.box.description*/
             }
+
+			// 代表メッセージ callout 3		  
             , function() {
                 var t = this
                   , e = t.$createElement
@@ -587,123 +614,87 @@ webpackJsonp([1], {
                     }
                 }, [t._v("Careers")])])
             }
+
+					
+            // RINEN 4		  
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-/*2nd.text.box.description*/
-                }, [e("p", [this._v("\n          パンフレット、カタログ、チラシなどを制作しています。最近では紙面は見られる事が少なくなっていますが、そういった時代だからこそ紙で伝えれる事もあります。手書きのメッセージカードではありませんが、心に残る紙面を制作する業務です。   \n        ")])])
+                }, [e("p", [this._v("\n          「喜び」とはお客様が、私たちのサービスを通じて喜んでくれることや幸せを感じてくれることであり、そうなることでスタッフ全員が当社で良かったと喜んでくれる。そして「幸せ」を感じてくれることです。その為には・みんなで経営、みんなが経営者・知識、技術の幅を拡げ、深く追求し基本価値を高める・問題を解決し続け、付加価値を高める以上を常に意識して追求し続けることが大切だと考えています。   \n        ")])])
             }
-            , function() {
-                var t = this
-                  , e = t.$createElement
-                  , i = t._self._c || e;
-                return i("aside", {
-                    staticClass: "callout__aside"
-                }, [i("h3", {
-                    staticClass: "callout__aside-headline"
-/*2nd.text.box.sub.title*/
-                }, [t._v("2nd.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          2nd.text.box.sub.description   \n        ")]), t._v(" "), i("h3", {
-                    staticClass: "callout__aside-headline"
-                }, [t._v("Sample Title")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("Sample Button")])])
-            }
+
+								  
+            // 仕事内容 5        
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-/*3rd.text.box.description*/
-                }, [e("p", [this._v("\n          「喜び」とはお客様が、私たちのサービスを通じて喜んでくれることや幸せを感じてくれることであり、そうなることでスタッフ全員が当社で良かったと喜んでくれる。そして「幸せ」を感じてくれることです。その為には・みんなで経営、みんなが経営者・知識、技術の幅を拡げ、深く追求し基本価値を高める・問題を解決し続け、付加価値を高める以上を常に意識して追求し続けることが大切だと考えています。    \n        ")])])
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/wer")
+                    }
+                })])])
             }
-            , function() {
-                var t = this
-                  , e = t.$createElement
-                  , i = t._self._c || e;
-                return i("aside", {
-                    staticClass: "callout__aside"
-                }, [i("h3", {
-                    staticClass: "callout__aside-headline"
-/*3rd.text.box.sub.title*/
-                }, [t._v("3rd.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          3rd.text.box.sub.description      \n        ")]), t._v(" "), i("h3", {
-                    staticClass: "callout__aside-headline"
-                }, [t._v("Sample Title")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("2nd Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("3rd Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("4th Sample Button")]), t._v(" "), i("a", {
-                    staticClass: "callout__aside-cta",
-                    attrs: {
-                        href: "#"
-                    }
-                }, [t._v("5th Sample Button")])])
-            }
+
+            // , function() {
+            //     var t = this.$createElement
+            //       , e = this._self._c || t;
+            //     return e("footer", {
+            //         staticClass: "intro__footer"
+            //     }, [e("p", [e("img", {
+            //         staticClass: "icon",
+            //         attrs: {
+            //             src: i("/Mxk")
+            //         }
+            //     }), this._v(" Scroll up and down to navigate")])])
+            // }
+
+            // 社員旅行 6       
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-/*4th.text.box.description*/
-                }, [e("p", [this._v("\n          毎年、年間で1回社員旅行に行きます。今までは国内でしたが2019年は念願の海外の社員旅行に行く事が出来ました。  			\n        ")])])
+                }, [e("p", [this._v("\n          毎年、年間で1回社員旅行に行きます。今までは国内でしたが2019年は念願の海外の社員旅行に行く事が出来ました。   \n        ")])])
             }
-            , function() {
-                var t = this
-                  , e = t.$createElement
-                  , i = t._self._c || e;
-                return i("aside", {
-                    staticClass: "callout__aside"
-                }, [i("h3", {
-                    staticClass: "callout__aside-headline"
-/*4th.text.box.sub.title*/
-                }, [t._v("4th.text.box.sub.title")]), t._v(" "), i("p", [t._v("\n          4th.text.box.sub.description    \n        ")]), t._v(" "), i("h3", {
-                    staticClass: "callout__aside-headline"
-                // }, [t._v("Sample Title")]), t._v(" "), i("a", {
-                //     staticClass: "callout__aside-cta",
-                //     attrs: {
-                //         href: "#"
-                //     }
-                // }, [t._v("1st Sample Button")]), t._v(" "), i("a", {
-                //     staticClass: "callout__aside-cta",
-                //     attrs: {
-                //         href: "#"
-                //     }
-                }, [t._v("2nd Sample Button")])])
-            }
+
+            // 募集要項 7
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          7   \n        ")])])
+            }
+
+            // 一日のスケジュール例 8
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          8   \n        ")])])
+            }
+
+            // 実績紹介 9
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          9   \n        ")])])
+            }
+			
+			// キャリアステップアップ 10
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+<<<<<<< HEAD
                     staticClass: "callout__body"													
 					
 /*6th.text.box.description*/
@@ -723,32 +714,131 @@ webpackJsonp([1], {
             }*/
 							  
 							  
+=======
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          社員の夢を応援する会社です。デザイナーからアートディレクターのステップアップや独立支援もおこなっています。   \n        ")])])
+            }
+            
+			// WEBDEG 11
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
+                }, [e("p", [this._v("\n          11   \n        ")])])
+            }
+
+            // 教育体制 12
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。   \n        ")])])
+            }
+
+            // 動画 13
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          13   \n        ")])])
+            }
+
+            // 社員属性① 14
+>>>>>>> develop-jin
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+<<<<<<< HEAD
 /*5th.text.box.description*/
                 }, [e("p", [this._v("\n          Where is this located???? 5th.text.box.description 			\n        ")])])
             }				  
 							  
+=======
+                }, [e("p", [this._v("\n          14   \n        ")])])
+            }
+
+            // 社員属性② 15
+>>>>>>> develop-jin
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
-                return e("aside", {
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          15   \n        ")])])
+            }
+
+            // DaLa Farm 16
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          16   \n        ")])])
+            }
+
+            // 社員属性③ 17
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          17   \n        ")])])
+            }
+
+            // 社用車 18
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          社用車にはBMWがあります。手続きはありますがプライベートで使う事も出来ます。デートや友達との旅行に使用する社員もいます。   \n        ")])])
+            }
+
+            // 連絡先 19
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          19   \n        ")])])
+            }
+
+            // オフィスギャラリー 20
+            , function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [this._v("\n          20   \n        ")])])
+            }
+
+            // オフィスギャラリー 21
+            , function() {
+                var t = this
+                  , e = t.$createElement
+                  , i = t._self._c || e;
+                return i("aside", {
                     staticClass: "callout__aside"
-                }, [e("h3", {
+                }, [i("h3", {
                     staticClass: "callout__aside-headline"
-/*5th.text.box.sub.title*/
-                }, [this._v("5th.text.box.sub.title")]), this._v(" "), e("p", [this._v("\n          5th.text.box.sub.description \n        ")]), this._v(" "), e("h3", {
+                }, [t._v("1st.text.box.sub.description.title")]), t._v(" "), i("p", [t._v("\n          1st.text.box.sub.description.content\n        ")]), t._v(" "), i("h3", {
                     staticClass: "callout__aside-headline"
-                }, [this._v("Sample Title")]), this._v(" "), e("a", {
+                }, [t._v("Quick Links")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "#"
+                        href: "http://www.dalafarm.net/recruit"
                     }
-                }, [this._v("Sample Button")])])
+                }, [t._v("Careers")])])
             }
+
+
+
+            
             , function() {
                 var t = this
                   , e = t.$createElement
