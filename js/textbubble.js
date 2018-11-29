@@ -268,7 +268,7 @@ webpackJsonp([1], {
                         id: "callout-3"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -629,7 +629,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -1072,4 +1072,4 @@ webpackJsonp([1], {
         ).call(e, i("7t+N"))
     }
 }, ["NHnr"]);
-//# sourceMappingURL=app.05027b3e81e02fbfb93d.js.map
+//# sourceMappingURL=textbubble.js.map

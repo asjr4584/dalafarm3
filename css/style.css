@@ -70,7 +70,7 @@ table {
 p {
     line-height: 1.5;
     font-size: 16px;
-    font-family: Arial Bold, Arial, Helvetica, sans-serif;
+    font-family: Arial Bold, Arial, Helvetica, sans-serif;  
 }
 
 strong {
@@ -588,11 +588,22 @@ body {
     z-index: 20;
 }
 
-.callout__headline, .callout-3-3__headline {
+.callout__headline {
     cursor: pointer;
     font-size: calc(22px + 0.6vw);
     letter-spacing: 0.04em;
     margin: 0;
+    text-transform: uppercase;
+    -webkit-transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.callout-3-3__headline {
+    cursor: pointer;
+    font-size: calc(22px + 0.6vw);
+    letter-spacing: 0.04em;
+    margin: 0;
+    margin-top: 430px;
     text-transform: uppercase;
     -webkit-transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
     transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
@@ -647,6 +658,15 @@ body {
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
 	display:block;
+}
+
+.callout-3-3__body.-visible {
+    opacity: 1;
+    margin-top: 1em;
+    -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
+    transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
+    display:block;
+    margin-top: -660px;
 }
 
 .callout__aside {
@@ -740,24 +760,35 @@ body {
     transform: rotate(45deg);
 }
 
-.callout.-active:before, .callout-3-3.-active:before {
+.callout.-active:before {
     height: 100%;
     width: 100%;
 }
 
+.callout-3-3.-active:before {
+    height: 690px;
+    width: 850px;
+    top: -170px;
+}
+
+
+
 #callout-1 {
     left: 6%;
     top: 10%;
+    z-index: 1003;
 }
 
 #callout-2 {
     left: 27.5%;
     top: 12%;
+    z-index: 1002;
 }
 
 #callout-3 {
     left: 47%;
     top: 31%;
+    z-index: 1001;
 }
 
 #callout-4 {
@@ -1029,4 +1060,3 @@ background: transparent url("../img/dalasite1.svg") 0% 0% no-repeat;
 /*temporary		
 	display:none;	*/
 }
-
