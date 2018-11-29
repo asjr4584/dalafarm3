@@ -9,7 +9,15 @@ webpackJsonp([1], {
     "/wer": function(t, e, i) {
         t.exports = i.p + "img/shigotonaiyou.svg"
     },
-	
+	"/bos": function(t, e, i) {
+        t.exports = i.p + "img/boshuuyoukou.svg"
+    },
+	"/sha1": function(t, e, i) {
+        t.exports = i.p + "img/shainzokusei1.svg"
+    },
+	"/sha2": function(t, e, i) {
+        t.exports = i.p + "img/shainzokusei2.svg"
+    },
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
@@ -271,7 +279,7 @@ webpackJsonp([1], {
                     }
 /*4th.text.box.title*/
                 }, [t._v("社員旅行")]), t._v(" "), t._m(6)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-5"
                     }
@@ -348,7 +356,7 @@ webpackJsonp([1], {
                     }
 /*12th.text.box.title*/
                 }, [t._v("動画")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-12"
                     }
@@ -359,7 +367,7 @@ webpackJsonp([1], {
                     }
 /*13th.text.box.title*/
                 }, [t._v("社員属性①")]), t._v(" "), t._m(14)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-13"
                     }
@@ -647,14 +655,25 @@ webpackJsonp([1], {
             }
 
             // 募集要項 7
-            , function() {
+           /* , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          7   \n        ")])])
-            }
-
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/bos")
+                    }
+                })])])
+            }				  
             // 一日のスケジュール例 8
             , function() {
                 var t = this.$createElement
@@ -709,23 +728,47 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          13   \n        ")])])
             }
 // 社員属性① 14
-            , function() {
+            /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          14   \n        ")])])
-            }
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/sha1")
+                    }
+                })])])
+            }				  
 // 社員属性② 15
-            , function() {
+            /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          15   \n        ")])])
-            }
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/sha2")
+                    }
+                })])])
+            }				  
 
-            // DaLa Farm 16
+// DaLa Farm 16
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -734,7 +777,7 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          16   \n        ")])])
             }
 
-            // 社員属性③ 17
+// 社員属性③ 17
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;

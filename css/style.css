@@ -427,7 +427,7 @@ body {
     height: auto;
     max-width: 100%;
     margin-right: 1em;
-    vertical-align: middle;
+    vertical-align: middle;	
 }
 
 .outro {
@@ -633,11 +633,11 @@ body {
 .callout__body, .callout-3-3__body {
     color: #ffffff;
 	/*color: #4a4a4c;*/
-    opacity: 0;
+    opacity: 0;	
 }
 
 .callout__body, .callout-3-3__body p {
-    font-size: calc(10px + 0.5vw);
+    font-size: calc(10px + 0.5vw);	
 }
 
 .callout__body.-visible, .callout-3-3__body.-visible {
