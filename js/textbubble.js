@@ -3,9 +3,6 @@ webpackJsonp([1], {
     "/Mxk": function(t, e, i) {
         t.exports = i.p + "img/icon-scroll.7719c43.svg"
     },
-	"/xyz": function(t, e, i) {
-        t.exports = i.p + "img/icon-scroll.2.svg"
-    },
     "/wer": function(t, e, i) {
         t.exports = i.p + "img/shigotonaiyou.svg"
     },
@@ -17,6 +14,15 @@ webpackJsonp([1], {
     },
 	"/sha2": function(t, e, i) {
         t.exports = i.p + "img/shainzokusei2.svg"
+    },
+	"/sha3": function(t, e, i) {
+        t.exports = i.p + "img/shainzokusei3.svg"
+    },
+	"/ren": function(t, e, i) {
+        t.exports = i.p + "img/renrakusaki.svg"
+    },
+	"/ich": function(t, e, i) {
+        t.exports = i.p + "img/ichinichisukejuuru.svg"
     },
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
@@ -290,7 +296,7 @@ webpackJsonp([1], {
                     }
 /*6th.text.box.title*/
                 }, [t._v("募集要項")]), t._v(" "), t._m(7)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-6"
                     }
@@ -389,7 +395,7 @@ webpackJsonp([1], {
                     }
 /*15th.text.box.title*/
                 }, [t._v("DaLa Farm")]), t._v(" "), t._m(16)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-15",
                         // href: "http://www.dalafarm.net/",
@@ -413,7 +419,7 @@ webpackJsonp([1], {
                     }
 /*17th.text.box.title*/
                 }, [t._v("社用車")]), t._v(" "), t._m(18)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-17"
                     }
@@ -674,16 +680,28 @@ webpackJsonp([1], {
                     }
                 })])])
             }				  
-            // 一日のスケジュール例 8
-            , function() {
+// 一日のスケジュール例 8
+            /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          8   \n        ")])])
-            }
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/ich")
+                    }
+                })])])
+            }				  
 
-            // 実績紹介 9
+// 実績紹介 9
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -778,15 +796,26 @@ webpackJsonp([1], {
             }
 
 // 社員属性③ 17
-            , function() {
+            /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          17   \n        ")])])
-            }
-
-            // 社用車 18
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/sha3")
+                    }
+                })])])
+            }				  
+// 社用車 18
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -795,13 +824,25 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          社用車にはBMWがあります。手続きはありますがプライベートで使う事も出来ます。デートや友達との旅行に使用する社員もいます。   \n        ")])])
             }
 
-            // 連絡先 19
-            , function() {
+// 連絡先 19
+            /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
                 }, [e("p", [this._v("\n          19   \n        ")])])
+            }*/
+			, function() {
+                var t = this.$createElement
+                  , e = this._self._c || t;
+                return e("div", {
+                    staticClass: "callout__body"
+                }, [e("p", [e("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/ren")
+                    }
+                })])])
             }
 
             // オフィスギャラリー 20

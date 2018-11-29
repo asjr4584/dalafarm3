@@ -570,7 +570,7 @@ body {
     -ms-user-select: none;
     user-select: none;
     width: 5%;
-    z-index: 20;
+    z-index: 20;	
 }
 
 .callout-3-3 {
@@ -637,7 +637,8 @@ body {
 }
 
 .callout__body, .callout-3-3__body p {
-    font-size: calc(10px + 0.5vw);	
+    font-size: calc(10px + 0.5vw);
+	display: none;
 }
 
 .callout__body.-visible, .callout-3-3__body.-visible {
@@ -645,6 +646,7 @@ body {
     margin-top: 1em;
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
+	display:block;
 }
 
 .callout__aside {
@@ -1027,3 +1029,4 @@ background: transparent url("../img/dalasite1.svg") 0% 0% no-repeat;
 /*temporary		
 	display:none;	*/
 }
+

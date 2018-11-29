@@ -3,377 +3,375 @@
 <svg version="1.1" id="Main_Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 495.4 370" style="enable-background:new 0 0 495.4 370;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.9;fill:#FFFFFF;stroke:#010B1D;stroke-width:2;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#3E3A39;}
-	.st3{font-family:'UDShinGoPro-Heavy-83pv-RKSJ-H';}
-	.st4{font-size:12px;}
-	.st5{display:none;}
-	.st6{display:inline;fill:#3E3A39;}
-	.st7{fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#635568;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:none;stroke:#3E3A39;stroke-width:0.8743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st10{fill:#FFFFFF;}
-	.st11{fill:#64C8FF;}
-	.st12{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st13{fill:#64C8FF;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st14{font-family:'NewRodinPro-B-83pv-RKSJ-H';}
-	.st15{font-size:20px;}
-	.st16{font-family:'NewRodinPro-DB-83pv-RKSJ-H';}
-	.st17{font-size:8px;}
-	.st18{fill:none;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st19{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.3842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st20{fill:#64C8FF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st21{fill:#B3EDFF;}
-	.st22{fill:none;stroke:#3E3A39;stroke-width:0.3842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st23{fill:#FFAF1E;stroke:#3E3A39;stroke-miterlimit:10;}
-	.st24{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st25{fill:#FFDD27;stroke:#3E3A39;stroke-miterlimit:10;}
-	.st26{fill:none;stroke:#3E3A39;stroke-width:0.4268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st27{fill:none;stroke:#3E3A39;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st28{fill:none;stroke:#3E3A39;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st29{fill:none;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st30{fill:none;stroke:#3E3A39;stroke-width:0.8001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st31{font-size:28px;}
-	.st32{font-size:17px;}
-	.st33{font-size:14px;}
-	.st34{fill:#FC664E;}
-	.st35{fill:none;stroke:#3E3A39;stroke-width:0.3202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st36{fill:none;stroke:#3E3A39;stroke-width:0.6403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st37{fill:#FFAF1E;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
-	.st38{fill:#FFDD27;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
-	.st39{font-family:'NewRodinPro-L-83pv-RKSJ-H';}
-	.st40{letter-spacing:-4;}
-	.st41{font-size:11px;}
-	.st42{font-size:9px;}
-	.st43{font-size:19px;}
-	.st44{font-size:13px;}
-	.st45{fill:#FFAF1E;}
-	.st46{fill:#FF991F;}
+	.st0{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#3E3A39;}
+	.st2{font-family:'UDShinGoPro-Heavy-83pv-RKSJ-H';}
+	.st3{font-size:12px;}
+	.st4{display:none;}
+	.st5{display:inline;fill:#3E3A39;}
+	.st6{fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#635568;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#3E3A39;stroke-width:0.8743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:#64C8FF;}
+	.st11{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#64C8FF;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{font-family:'NewRodinPro-B-83pv-RKSJ-H';}
+	.st14{font-size:20px;}
+	.st15{font-family:'NewRodinPro-DB-83pv-RKSJ-H';}
+	.st16{font-size:8px;}
+	.st17{fill:none;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.3842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{fill:#64C8FF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{fill:#B3EDFF;}
+	.st21{fill:none;stroke:#3E3A39;stroke-width:0.3842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{fill:#FFAF1E;stroke:#3E3A39;stroke-miterlimit:10;}
+	.st23{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st24{fill:#FFDD27;stroke:#3E3A39;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#3E3A39;stroke-width:0.4268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#3E3A39;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#3E3A39;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#3E3A39;stroke-width:0.8001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st30{font-size:28px;}
+	.st31{font-size:17px;}
+	.st32{font-size:14px;}
+	.st33{fill:#FC664E;}
+	.st34{fill:none;stroke:#3E3A39;stroke-width:0.3202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#3E3A39;stroke-width:0.6403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st36{fill:#FFAF1E;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
+	.st37{fill:#FFDD27;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
+	.st38{font-family:'NewRodinPro-L-83pv-RKSJ-H';}
+	.st39{letter-spacing:-4;}
+	.st40{font-size:11px;}
+	.st41{font-size:9px;}
+	.st42{font-size:19px;}
+	.st43{font-size:13px;}
+	.st44{fill:#FFAF1E;}
+	.st45{fill:#FF991F;}
 </style>
 <g>
-	<path class="st0" d="M493.9,360c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0h473.9c5.5,0,10,4.5,10,10V360z"/>
-	<path class="st1" d="M305.5,359.3H187.7c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
+	<path class="st0" d="M305.5,359.3H187.7c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
 		C315.5,354.8,311,359.3,305.5,359.3z"/>
 	<g id="Attire">
-		<path class="st1" d="M472.5,359.3H354.7c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
+		<path class="st0" d="M472.5,359.3H354.7c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
 			C482.5,354.8,478,359.3,472.5,359.3z"/>
 		<g>
-			<text transform="matrix(1 0 0 1 380.8594 32.1738)" class="st2 st3 st4">職業時の服装</text>
+			<text transform="matrix(1 0 0 1 380.8594 32.1738)" class="st1 st2 st3">職業時の服装</text>
 		</g>
-		<g id="graph" class="st5">
-			<rect x="452" y="210.3" class="st6" width="17" height="134.6"/>
-			<rect x="422" y="241.6" class="st6" width="17" height="103.3"/>
-			<rect x="392" y="300.9" class="st6" width="17" height="44"/>
-			<rect x="361.9" y="331.8" class="st6" width="17" height="13.1"/>
+		<g id="graph" class="st4">
+			<rect x="452" y="210.3" class="st5" width="17" height="134.6"/>
+			<rect x="422" y="241.6" class="st5" width="17" height="103.3"/>
+			<rect x="392" y="300.9" class="st5" width="17" height="44"/>
+			<rect x="361.9" y="331.8" class="st5" width="17" height="13.1"/>
 		</g>
 		<g id="boxes_1_">
-			<path class="st7" d="M403.2,352.1h-45c-2.8,0-5-2.3-5-5V209c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
+			<path class="st6" d="M403.2,352.1h-45c-2.8,0-5-2.3-5-5V209c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
 				C408.2,349.9,406,352.1,403.2,352.1z"/>
-			<path class="st7" d="M471,352.1h-45c-2.8,0-5-2.3-5-5V209c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
+			<path class="st6" d="M471,352.1h-45c-2.8,0-5-2.3-5-5V209c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
 				C476,349.9,473.8,352.1,471,352.1z"/>
-			<path class="st7" d="M403.6,193.8h-45c-2.8,0-5-2.3-5-5V50.7c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
+			<path class="st6" d="M403.6,193.8h-45c-2.8,0-5-2.3-5-5V50.7c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
 				C408.6,191.5,406.3,193.8,403.6,193.8z"/>
-			<path class="st7" d="M469.6,193.8h-45c-2.8,0-5-2.3-5-5V50.7c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
+			<path class="st6" d="M469.6,193.8h-45c-2.8,0-5-2.3-5-5V50.7c0-2.8,2.3-5,5-5h45c2.8,0,5,2.3,5,5v138.1
 				C474.6,191.5,472.3,193.8,469.6,193.8z"/>
 		</g>
 		<g id="スーツ">
 			<g id="suit">
-				<polygon class="st8" points="404.8,273.1 389,252.2 374.1,252.2 374,252.2 358.2,273.1 362.7,275.7 372.2,264 373,264.2 
+				<polygon class="st7" points="404.8,273.1 389,252.2 374.1,252.2 374,252.2 358.2,273.1 362.7,275.7 372.2,264 373,264.2 
 					373,285.2 389,285.2 389,264.2 390.3,264 400,275.7 				"/>
-				<path class="st9" d="M376.7,252.2c0,0.6,4.8,9.2,4.8,9.2l4.6-9.2"/>
-				<path class="st9" d="M381.5,261.4l-0.1,17.1c0,0,0.8,7.1-8.3,6.8"/>
-				<path class="st9" d="M381.4,279.1c0,0-0.9,6.1,7.7,6.1"/>
-				<path class="st9" d="M378.4,255.8l-2.8,3.3c0,0,5.8,1.3,5.8,4.2"/>
-				<path class="st9" d="M375.4,252.2l-1,3.2c0,0,2.2,0.2,3.3,1.1"/>
-				<path class="st9" d="M384.4,255.8l2.8,3.3c0,0-5.8,1.3-5.8,4.2"/>
-				<path class="st9" d="M387.4,252.2l1,3.2c0,0-2.2,0.2-3.3,1.1"/>
-				<polygon class="st10" points="377.1,252.7 386,252.7 381.5,261.2 				"/>
-				<polygon class="st11" points="380.7,257.6 381.4,258 381.9,257.8 382.7,258.9 381.5,261.4 380.1,258.6 				"/>
-				<line class="st12" x1="382.2" y1="257.4" x2="382.6" y2="258.5"/>
-				<line class="st12" x1="380.6" y1="257.4" x2="380.2" y2="258.5"/>
-				<polygon class="st13" points="382.8,256.9 381.4,257.6 379.9,256.9 379.9,254.8 382.8,254.8 				"/>
-				<line class="st12" x1="382.9" y1="254.7" x2="385.5" y2="252.5"/>
-				<line class="st12" x1="379.9" y1="254.7" x2="377.4" y2="252.5"/>
-				<line class="st12" x1="383.8" y1="276.8" x2="387.5" y2="279.1"/>
-				<line class="st12" x1="378.8" y1="276.8" x2="375" y2="279.1"/>
-				<circle class="st2" cx="380.2" cy="266.3" r="0.4"/>
-				<circle class="st2" cx="380.2" cy="270.9" r="0.4"/>
+				<path class="st8" d="M376.7,252.2c0,0.6,4.8,9.2,4.8,9.2l4.6-9.2"/>
+				<path class="st8" d="M381.5,261.4l-0.1,17.1c0,0,0.8,7.1-8.3,6.8"/>
+				<path class="st8" d="M381.4,279.1c0,0-0.9,6.1,7.7,6.1"/>
+				<path class="st8" d="M378.4,255.8l-2.8,3.3c0,0,5.8,1.3,5.8,4.2"/>
+				<path class="st8" d="M375.4,252.2l-1,3.2c0,0,2.2,0.2,3.3,1.1"/>
+				<path class="st8" d="M384.4,255.8l2.8,3.3c0,0-5.8,1.3-5.8,4.2"/>
+				<path class="st8" d="M387.4,252.2l1,3.2c0,0-2.2,0.2-3.3,1.1"/>
+				<polygon class="st9" points="377.1,252.7 386,252.7 381.5,261.2 				"/>
+				<polygon class="st10" points="380.7,257.6 381.4,258 381.9,257.8 382.7,258.9 381.5,261.4 380.1,258.6 				"/>
+				<line class="st11" x1="382.2" y1="257.4" x2="382.6" y2="258.5"/>
+				<line class="st11" x1="380.6" y1="257.4" x2="380.2" y2="258.5"/>
+				<polygon class="st12" points="382.8,256.9 381.4,257.6 379.9,256.9 379.9,254.8 382.8,254.8 				"/>
+				<line class="st11" x1="382.9" y1="254.7" x2="385.5" y2="252.5"/>
+				<line class="st11" x1="379.9" y1="254.7" x2="377.4" y2="252.5"/>
+				<line class="st11" x1="383.8" y1="276.8" x2="387.5" y2="279.1"/>
+				<line class="st11" x1="378.8" y1="276.8" x2="375" y2="279.1"/>
+				<circle class="st1" cx="380.2" cy="266.3" r="0.4"/>
+				<circle class="st1" cx="380.2" cy="270.9" r="0.4"/>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 360.564 321.3408)" class="st2 st14 st15">15</text>
+					<text transform="matrix(1 0 0 1 360.564 321.3408)" class="st1 st13 st14">15</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 393.5942 321.3408)" class="st2 st14 st4">%</text>
+					<text transform="matrix(1 0 0 1 393.5942 321.3408)" class="st1 st13 st3">%</text>
 				</g>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 369.4873 230.8652)" class="st2 st16 st17">スーツ</text>
+				<text transform="matrix(1 0 0 1 369.4873 230.8652)" class="st1 st15 st16">スーツ</text>
 			</g>
 		</g>
 		<g id="Business">
 			<g>
-				<text transform="matrix(1 0 0 1 366.0415 67.6738)"><tspan x="0" y="0" class="st2 st16 st17">ビジネス</tspan><tspan x="-4" y="14" class="st2 st16 st17">カジュアル</tspan></text>
+				<text transform="matrix(1 0 0 1 366.0415 67.6738)"><tspan x="0" y="0" class="st1 st15 st16">ビジネス</tspan><tspan x="-4" y="14" class="st1 st15 st16">カジュアル</tspan></text>
 			</g>
 			<g id="Business_Casual">
-				<polygon class="st7" points="404.8,123.1 389,102.2 374.1,102.2 374,102.2 358.2,123.1 362.7,125.7 372.2,114 373,114.2 
+				<polygon class="st6" points="404.8,123.1 389,102.2 374.1,102.2 374,102.2 358.2,123.1 362.7,125.7 372.2,114 373,114.2 
 					373,135.2 389,135.2 389,114.2 390.3,114 400,125.7 				"/>
-				<path class="st9" d="M381.5,123.4l-0.1,5.1c0,0,0.8,7.1-8.3,6.8"/>
-				<path class="st9" d="M381.4,129.1c0,0-0.9,6.1,7.7,6.1"/>
-				<polygon class="st13" points="382.8,122.9 381.4,123.6 379.9,122.9 379.9,106.8 382.8,106.8 				"/>
-				<polygon class="st13" points="382.8,106.9 381.4,107.6 379.9,106.9 379.9,104.8 382.8,104.8 				"/>
-				<line class="st12" x1="382.9" y1="104.7" x2="385.5" y2="102.5"/>
-				<line class="st12" x1="379.9" y1="104.7" x2="377.4" y2="102.5"/>
-				<polyline class="st18" points="375.3,102.5 376.8,108.7 379.9,106.8 				"/>
-				<polyline class="st18" points="387.9,102.5 386.4,108.7 383.3,106.8 				"/>
+				<path class="st8" d="M381.5,123.4l-0.1,5.1c0,0,0.8,7.1-8.3,6.8"/>
+				<path class="st8" d="M381.4,129.1c0,0-0.9,6.1,7.7,6.1"/>
+				<polygon class="st12" points="382.8,122.9 381.4,123.6 379.9,122.9 379.9,106.8 382.8,106.8 				"/>
+				<polygon class="st12" points="382.8,106.9 381.4,107.6 379.9,106.9 379.9,104.8 382.8,104.8 				"/>
+				<line class="st11" x1="382.9" y1="104.7" x2="385.5" y2="102.5"/>
+				<line class="st11" x1="379.9" y1="104.7" x2="377.4" y2="102.5"/>
+				<polyline class="st17" points="375.3,102.5 376.8,108.7 379.9,106.8 				"/>
+				<polyline class="st17" points="387.9,102.5 386.4,108.7 383.3,106.8 				"/>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 359.3438 171.4238)" class="st2 st14 st15">40</text>
+					<text transform="matrix(1 0 0 1 359.3438 171.4238)" class="st1 st13 st14">40</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 392.5942 171.4238)" class="st2 st14 st4">%</text>
+					<text transform="matrix(1 0 0 1 392.5942 171.4238)" class="st1 st13 st3">%</text>
 				</g>
 			</g>
 		</g>
 		<g id="Casual_1_">
 			<g id="Casual">
-				<polygon class="st7" points="464.8,112.1 456,104.2 441.1,104.2 441,104.2 432.2,112.1 436.7,117.7 439.2,116 440,116.2 
+				<polygon class="st6" points="464.8,112.1 456,104.2 441.1,104.2 441,104.2 432.2,112.1 436.7,117.7 439.2,116 440,116.2 
 					440,137.2 456,137.2 456,116.2 457.3,116 460,117.7 				"/>
-				<rect x="443.2" y="104.5" class="st2" width="9.9" height="32.6"/>
-				<path class="st19" d="M451.9,104.5c0,1.9-1.5,3.4-3.4,3.4s-3.4-1.5-3.4-3.4"/>
+				<rect x="443.2" y="104.5" class="st1" width="9.9" height="32.6"/>
+				<path class="st18" d="M451.9,104.5c0,1.9-1.5,3.4-3.4,3.4s-3.4-1.5-3.4-3.4"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 428.0415 82.6748)" class="st2 st16 st17">カジュアル</text>
+				<text transform="matrix(1 0 0 1 428.0415 82.6748)" class="st1 st15 st16">カジュアル</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 426.3438 172.4238)" class="st2 st14 st15">35</text>
+					<text transform="matrix(1 0 0 1 426.3438 172.4238)" class="st1 st13 st14">35</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 458.9351 172.4238)" class="st2 st14 st4">%</text>
+					<text transform="matrix(1 0 0 1 458.9351 172.4238)" class="st1 st13 st3">%</text>
 				</g>
 			</g>
 		</g>
 		<g id="Others_1_">
 			<g id="_x35___x25_">
 				<g>
-					<text transform="matrix(1 0 0 1 426.147 321.3408)" class="st2 st14 st15">10</text>
+					<text transform="matrix(1 0 0 1 426.147 321.3408)" class="st1 st13 st14">10</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 458.9351 321.3417)" class="st2 st14 st4">%</text>
+					<text transform="matrix(1 0 0 1 458.9351 321.3417)" class="st1 st13 st3">%</text>
 				</g>
 			</g>
 			<g id="Others">
-				<polygon class="st20" points="465.8,260.1 457,252.2 442.2,252.2 442,252.2 433.2,260.1 437.8,265.7 440.2,264 441,264.2 
+				<polygon class="st19" points="465.8,260.1 457,252.2 442.2,252.2 442,252.2 433.2,260.1 437.8,265.7 440.2,264 441,264.2 
 					441,285.2 457,285.2 457,264.2 458.3,264 461.1,265.7 				"/>
-				<path class="st21" d="M452.5,252.7c0,1.7-1.5,3-3.3,3c-1.8,0-3.3-1.3-3.3-3H452.5z"/>
-				<path class="st22" d="M452.6,252.2c0,1.9-1.5,3.4-3.4,3.4c-1.9,0-3.4-1.5-3.4-3.4"/>
+				<path class="st20" d="M452.5,252.7c0,1.7-1.5,3-3.3,3c-1.8,0-3.3-1.3-3.3-3H452.5z"/>
+				<path class="st21" d="M452.6,252.2c0,1.9-1.5,3.4-3.4,3.4c-1.9,0-3.4-1.5-3.4-3.4"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 434.5166 230.8661)" class="st2 st16 st17">その他</text>
+				<text transform="matrix(1 0 0 1 434.5166 230.8661)" class="st1 st15 st16">その他</text>
 			</g>
 		</g>
 	</g>
 	<g id="Wedding">
 		<g id="Rings">
 			<g id="ring_M">
-				<ellipse class="st23" cx="202.8" cy="300.3" rx="12.4" ry="13.2"/>
-				<ellipse class="st24" cx="202.8" cy="300.3" rx="9.8" ry="10.5"/>
+				<ellipse class="st22" cx="202.8" cy="300.3" rx="12.4" ry="13.2"/>
+				<ellipse class="st23" cx="202.8" cy="300.3" rx="9.8" ry="10.5"/>
 			</g>
 			<g id="ring_F_1_">
 				<g id="ring_F">
-					<ellipse class="st25" cx="225.3" cy="300.3" rx="12.4" ry="13.2"/>
-					<ellipse class="st24" cx="225.3" cy="300.3" rx="9.8" ry="10.5"/>
+					<ellipse class="st24" cx="225.3" cy="300.3" rx="12.4" ry="13.2"/>
+					<ellipse class="st23" cx="225.3" cy="300.3" rx="9.8" ry="10.5"/>
 				</g>
-				<path class="st21" d="M222.4,278.2l-1.8,2.1l0.1,0.6l4.3,5.8h1.2l4.2-5.8l0.3-0.5l-1.8-2.1c0,0-2.2-0.4-3.3-0.4
+				<path class="st20" d="M222.4,278.2l-1.8,2.1l0.1,0.6l4.3,5.8h1.2l4.2-5.8l0.3-0.5l-1.8-2.1c0,0-2.2-0.4-3.3-0.4
 					S223.1,277.9,222.4,278.2z"/>
 				<g id="diamond">
-					<ellipse class="st26" cx="225.6" cy="278.3" rx="3.3" ry="0.5"/>
-					<path class="st27" d="M222.1,278.3l-1.5,1.8c-0.2,0.2-0.2,0.5,0,0.7l4.6,6.4"/>
-					<polyline class="st27" points="225.4,287.1 223.1,280.7 224.3,278.8 					"/>
-					<path class="st27" d="M229.1,278.3l1.5,1.8c0.2,0.2,0.2,0.5,0,0.7l-4.6,6.4"/>
-					<polyline class="st27" points="225.8,287.1 228.1,280.7 227,278.8 					"/>
-					<polyline class="st28" points="221.1,280.5 225.6,280.9 230.1,280.5 					"/>
+					<ellipse class="st25" cx="225.6" cy="278.3" rx="3.3" ry="0.5"/>
+					<path class="st26" d="M222.1,278.3l-1.5,1.8c-0.2,0.2-0.2,0.5,0,0.7l4.6,6.4"/>
+					<polyline class="st26" points="225.4,287.1 223.1,280.7 224.3,278.8 					"/>
+					<path class="st26" d="M229.1,278.3l1.5,1.8c0.2,0.2,0.2,0.5,0,0.7l-4.6,6.4"/>
+					<polyline class="st26" points="225.8,287.1 228.1,280.7 227,278.8 					"/>
+					<polyline class="st27" points="221.1,280.5 225.6,280.9 230.1,280.5 					"/>
 				</g>
 			</g>
-			<line class="st29" x1="226" y1="272.7" x2="226" y2="270.7"/>
-			<line class="st30" x1="231.9" y1="275.3" x2="232.8" y2="273.1"/>
-			<line class="st30" x1="219.6" y1="275.3" x2="218.7" y2="273.1"/>
+			<line class="st28" x1="226" y1="272.7" x2="226" y2="270.7"/>
+			<line class="st29" x1="231.9" y1="275.3" x2="232.8" y2="273.1"/>
+			<line class="st29" x1="219.6" y1="275.3" x2="218.7" y2="273.1"/>
 		</g>
 		<g id="_x36_5__x25_">
 			<g>
-				<text transform="matrix(1 0 0 1 245.2979 294.7558)" class="st2 st14 st31">45</text>
+				<text transform="matrix(1 0 0 1 245.2979 294.7558)" class="st1 st13 st30">45</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 292.2388 294.7558)" class="st2 st14 st32">%</text>
+				<text transform="matrix(1 0 0 1 292.2388 294.7558)" class="st1 st13 st31">%</text>
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 248.6865 313.4609)" class="st2 st14 st33">既婚者</text>
+			<text transform="matrix(1 0 0 1 248.6865 313.4609)" class="st1 st13 st32">既婚者</text>
 		</g>
 		<g id="wineglass_2_">
-			<path class="st34" d="M194.3,176.1c0,0,6.6,11.9,6.8,12.1c0.1,0.1,0.5,0.5,1,0.5c0.6,0,1.1-0.5,1.1-0.5l6.6-12.2
+			<path class="st33" d="M194.3,176.1c0,0,6.6,11.9,6.8,12.1c0.1,0.1,0.5,0.5,1,0.5c0.6,0,1.1-0.5,1.1-0.5l6.6-12.2
 				c0,0,0.4-0.7-3.4-1.3c0,0-3.5-0.4-5.8-0.2c-2.2,0.2-4.8,0.3-5.9,0.9C194.7,175.3,194.3,175.7,194.3,176.1z"/>
-			<path class="st21" d="M220.3,176.1c0,0,6.6,11.9,6.8,12.1c0.1,0.1,0.5,0.5,1,0.5c0.6,0,1.1-0.5,1.1-0.5l6.6-12.2
+			<path class="st20" d="M220.3,176.1c0,0,6.6,11.9,6.8,12.1c0.1,0.1,0.5,0.5,1,0.5c0.6,0,1.1-0.5,1.1-0.5l6.6-12.2
 				c0,0,0.4-0.7-3.4-1.3c0,0-3.5-0.4-5.8-0.2c-2.2,0.2-4.8,0.3-5.9,0.9C220.7,175.3,220.3,175.7,220.3,176.1z"/>
 			<g id="wineglass">
-				<path class="st29" d="M203,196.3v-7.7l10.8-20.4h-0.4c0.2,0,0.4,0,0.4-0.2c0-0.8-5.3-1.3-11.9-1.3c-6.6,0-11.9,0.5-11.9,1.2
+				<path class="st28" d="M203,196.3v-7.7l10.8-20.4h-0.4c0.2,0,0.4,0,0.4-0.2c0-0.8-5.3-1.3-11.9-1.3c-6.6,0-11.9,0.5-11.9,1.2
 					c0,0.1,0.1,0.2,0.4,0.2H190c0,0,8,14.9,11,20.4v7.6l-3.6,3.5c-0.3,0.3-0.1,0.8,0.2,1c0.8,0.4,2.3,0.9,4.3,0.9
 					c2,0,3.5-0.5,4.3-0.9c0.4-0.2,0.6-0.7,0.3-1L203,196.3z"/>
-				<ellipse class="st35" cx="201.9" cy="175.8" rx="7.7" ry="1.3"/>
-				<ellipse class="st36" cx="201.9" cy="168.2" rx="11.9" ry="1.4"/>
+				<ellipse class="st34" cx="201.9" cy="175.8" rx="7.7" ry="1.3"/>
+				<ellipse class="st35" cx="201.9" cy="168.2" rx="11.9" ry="1.4"/>
 				<g id="orange">
-					<path class="st37" d="M191,168.7l-5-8.7c2.1-1.5,5.4,0.1,7.4,3.5c1.1,1.9,1.5,3.9,1.4,5.6L191,168.7z"/>
-					<path class="st38" d="M194.2,169.2c0.2-1.6-0.1-3.6-1.2-5.4c-1.7-3-4.6-4.4-6.4-3.1l4.6,8L194.2,169.2z"/>
+					<path class="st36" d="M191,168.7l-5-8.7c2.1-1.5,5.4,0.1,7.4,3.5c1.1,1.9,1.5,3.9,1.4,5.6L191,168.7z"/>
+					<path class="st37" d="M194.2,169.2c0.2-1.6-0.1-3.6-1.2-5.4c-1.7-3-4.6-4.4-6.4-3.1l4.6,8L194.2,169.2z"/>
 				</g>
 			</g>
 			<g id="wineglass_1_">
-				<path class="st29" d="M227,196.3v-7.7L216,168.2h0.4c-0.2,0-0.4,0-0.4-0.2c0-0.8,5.3-1.3,11.9-1.3c6.6,0,11.9,0.5,11.9,1.2
+				<path class="st28" d="M227,196.3v-7.7L216,168.2h0.4c-0.2,0-0.4,0-0.4-0.2c0-0.8,5.3-1.3,11.9-1.3c6.6,0,11.9,0.5,11.9,1.2
 					c0,0.1-0.1,0.2-0.4,0.2h0.4c0,0-7.8,14.9-10.8,20.4v7.6l3.5,3.5c0.3,0.3,0.1,0.8-0.3,1c-0.8,0.4-2.3,0.9-4.4,0.9
 					c-2,0-3.5-0.5-4.3-0.9c-0.4-0.2-0.5-0.7-0.2-1L227,196.3z"/>
-				<ellipse class="st35" cx="227.9" cy="175.8" rx="7.6" ry="1.3"/>
-				<ellipse class="st36" cx="227.9" cy="168.2" rx="11.9" ry="1.4"/>
+				<ellipse class="st34" cx="227.9" cy="175.8" rx="7.6" ry="1.3"/>
+				<ellipse class="st35" cx="227.9" cy="168.2" rx="11.9" ry="1.4"/>
 				<g id="orange_1_">
-					<path class="st37" d="M238.9,168.7l5-8.7c-2.1-1.5-5.4,0.1-7.4,3.5c-1.1,1.9-1.5,3.9-1.4,5.6L238.9,168.7z"/>
-					<path class="st38" d="M235.7,169.2c-0.2-1.6,0.1-3.6,1.2-5.4c1.7-3,4.6-4.4,6.4-3.1l-4.6,8L235.7,169.2z"/>
+					<path class="st36" d="M238.9,168.7l5-8.7c-2.1-1.5-5.4,0.1-7.4,3.5c-1.1,1.9-1.5,3.9-1.4,5.6L238.9,168.7z"/>
+					<path class="st37" d="M235.7,169.2c-0.2-1.6,0.1-3.6,1.2-5.4c1.7-3,4.6-4.4,6.4-3.1l-4.6,8L235.7,169.2z"/>
 				</g>
 			</g>
 		</g>
 		<g id="_x33_5_x25_">
 			<g>
-				<text transform="matrix(1 0 0 1 245.5225 183.9555)" class="st2 st14 st31">55</text>
+				<text transform="matrix(1 0 0 1 245.5225 183.9555)" class="st1 st13 st30">55</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 292.4634 183.9555)" class="st2 st14 st32">%</text>
+				<text transform="matrix(1 0 0 1 292.4634 183.9555)" class="st1 st13 st31">%</text>
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 248.6865 201.6738)" class="st2 st14 st33">未婚者</text>
+			<text transform="matrix(1 0 0 1 248.6865 201.6738)" class="st1 st13 st32">未婚者</text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 185.7139 52.329)"><tspan x="0" y="0" class="st2 st39 st17">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="14" class="st2 st39 st17">る環境を用意しています。家族と</tspan><tspan x="0" y="28" class="st2 st39 st17">の時間を大切にしたいという社員</tspan><tspan x="0" y="42" class="st2 st39 st17">思いを尊重します</tspan><tspan x="64" y="42" class="st2 st39 st17 st40">。</tspan><tspan x="0" y="70" class="st2 st39 st17">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="84" class="st2 st39 st17">る環境を用意しています</tspan><tspan x="88" y="84" class="st2 st39 st17 st40">。</tspan></text>
+			<text transform="matrix(1 0 0 1 185.7139 52.329)"><tspan x="0" y="0" class="st1 st38 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="14" class="st1 st38 st16">る環境を用意しています。家族と</tspan><tspan x="0" y="28" class="st1 st38 st16">の時間を大切にしたいという社員</tspan><tspan x="0" y="42" class="st1 st38 st16">思いを尊重します</tspan><tspan x="64" y="42" class="st1 st38 st16 st39">。</tspan><tspan x="0" y="70" class="st1 st38 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="84" class="st1 st38 st16">る環境を用意しています</tspan><tspan x="88" y="84" class="st1 st38 st16 st39">。</tspan></text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 207.7339 32.1738)" class="st2 st3 st4">未婚既婚の割合</text>
+			<text transform="matrix(1 0 0 1 207.7339 32.1738)" class="st1 st2 st3">未婚既婚の割合</text>
 		</g>
 	</g>
 	<g id="Lunch">
-		<path class="st1" d="M138.2,359.2H20.4c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
+		<path class="st0" d="M138.2,359.2H20.4c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
 			C148.2,354.7,143.7,359.2,138.2,359.2z"/>
 		<g id="その他">
 			<g>
-				<text transform="matrix(1 0 0 1 105.5474 326.4609)" class="st2 st14 st17">その他</text>
+				<text transform="matrix(1 0 0 1 105.5474 326.4609)" class="st1 st13 st16">その他</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 101.5469 337.9199)" class="st2 st14 st41">１５</text>
+					<text transform="matrix(1 0 0 1 101.5469 337.9199)" class="st1 st13 st40">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 123.6299 337.9194)" class="st2 st14 st42">％</text>
+					<text transform="matrix(1 0 0 1 123.6299 337.9194)" class="st1 st13 st41">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="コンビニ">
 			<g>
-				<text transform="matrix(1 0 0 1 32.5474 286.2324)" class="st2 st14 st17">コンビニ</text>
+				<text transform="matrix(1 0 0 1 32.5474 286.2324)" class="st1 st13 st16">コンビニ</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 32.5469 297.9199)" class="st2 st14 st41">１５</text>
+					<text transform="matrix(1 0 0 1 32.5469 297.9199)" class="st1 st13 st40">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 54.6299 297.9194)" class="st2 st14 st42">％</text>
+					<text transform="matrix(1 0 0 1 54.6299 297.9194)" class="st1 st13 st41">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="手作り">
 			<g>
-				<text transform="matrix(1 0 0 1 98.5474 243.9199)" class="st2 st14 st17">手作り弁当</text>
+				<text transform="matrix(1 0 0 1 98.5474 243.9199)" class="st1 st13 st16">手作り弁当</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 101.5469 255.9199)" class="st2 st14 st41">１５</text>
+					<text transform="matrix(1 0 0 1 101.5469 255.9199)" class="st1 st13 st40">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 123.6299 255.9194)" class="st2 st14 st42">％</text>
+					<text transform="matrix(1 0 0 1 123.6299 255.9194)" class="st1 st13 st41">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="食堂">
 			<g>
-				<text transform="matrix(1 0 0 1 18.2969 178.3408)"><tspan x="0" y="0" class="st2 st14 st41">お客さま先</tspan><tspan x="11" y="19.2" class="st2 st14 st41">の食堂</tspan></text>
+				<text transform="matrix(1 0 0 1 18.2969 178.3408)"><tspan x="0" y="0" class="st1 st13 st40">お客さま先</tspan><tspan x="11" y="19.2" class="st1 st13 st40">の食堂</tspan></text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 30.8799 210.8661)" class="st2 st14 st4">２５</text>
+				<text transform="matrix(1 0 0 1 30.8799 210.8661)" class="st1 st13 st3">２５</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 54.7129 210.8667)" class="st2 st14 st42">％</text>
+				<text transform="matrix(1 0 0 1 54.7129 210.8667)" class="st1 st13 st41">％</text>
 			</g>
 		</g>
 		<g id="外食">
 			<g>
-				<text transform="matrix(1 0 0 1 29.5474 109.3408)" class="st2 st14 st43">外食</text>
+				<text transform="matrix(1 0 0 1 29.5474 109.3408)" class="st1 st13 st42">外食</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 31.7974 125.5903)" class="st2 st14 st44">３０</text>
+				<text transform="matrix(1 0 0 1 31.7974 125.5903)" class="st1 st13 st43">３０</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 57.7144 125.5903)" class="st2 st14 st42">％</text>
+				<text transform="matrix(1 0 0 1 57.7144 125.5903)" class="st1 st13 st41">％</text>
 			</g>
 		</g>
-		<g id="graph_pattern_1_" class="st5">
-			<rect x="24.1" y="45.7" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="75.7" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="105.8" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="135.9" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="165.9" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="196" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="226" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="256.1" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="286.1" class="st6" width="18.5" height="28.7"/>
-			<rect x="24.1" y="316.2" class="st6" width="18.5" height="28.7"/>
+		<g id="graph_pattern_1_" class="st4">
+			<rect x="24.1" y="45.7" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="75.7" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="105.8" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="135.9" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="165.9" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="196" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="226" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="256.1" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="286.1" class="st5" width="18.5" height="28.7"/>
+			<rect x="24.1" y="316.2" class="st5" width="18.5" height="28.7"/>
 		</g>
 		<g id="fork">
 			
-				<rect x="36.8" y="29.9" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -20.0341 98.6347)" class="st2" width="5.1" height="58.8"/>
+				<rect x="36.8" y="29.9" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -20.0341 98.6347)" class="st1" width="5.1" height="58.8"/>
 			<g>
-				<path class="st2" d="M80.3,69.5h-4.5c-5.8,0-10.6-3.4-10.6-7.5c0,0-0.7-1.2-0.7-2.7c0-1.5,0.7-2.6,0.7-2.6
+				<path class="st1" d="M80.3,69.5h-4.5c-5.8,0-10.6-3.4-10.6-7.5c0,0-0.7-1.2-0.7-2.7c0-1.5,0.7-2.6,0.7-2.6
 					c0-4.1,4.8-7.6,10.6-7.6h4.5V69.5z"/>
-				<path class="st2" d="M77.9,67.9L77.9,67.9c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
+				<path class="st1" d="M77.9,67.9L77.9,67.9c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
 					C78.6,66.3,77.9,67.1,77.9,67.9z"/>
-				<path class="st2" d="M78.1,62L78.1,62c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.7
+				<path class="st1" d="M78.1,62L78.1,62c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.7
 					C78.8,60.4,78.1,61.1,78.1,62z"/>
-				<path class="st2" d="M77.9,56.7L77.9,56.7c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
+				<path class="st1" d="M77.9,56.7L77.9,56.7c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
 					C78.6,55.1,77.9,55.8,77.9,56.7z"/>
-				<path class="st2" d="M77.9,50.7L77.9,50.7c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
+				<path class="st1" d="M77.9,50.7L77.9,50.7c0,0.9,0.7,1.6,1.6,1.6h15.8c0.9,0,1.6-0.7,1.6-1.6l0,0c0-0.9-0.7-1.6-1.6-1.6H79.5
 					C78.6,49.2,77.9,49.9,77.9,50.7z"/>
 			</g>
 		</g>
 		<g id="graph_lunch">
-			<rect x="81.5" y="48.1" class="st45" width="4.3" height="104.4"/>
-			<rect x="81.5" y="154.5" class="st45" width="4.3" height="68.5"/>
-			<rect x="81.5" y="306" class="st45" width="4.3" height="40.9"/>
-			<rect x="81.5" y="264.9" class="st45" width="4.3" height="40.3"/>
-			<rect x="81.5" y="224.4" class="st45" width="4.3" height="39"/>
+			<rect x="81.5" y="48.1" class="st44" width="4.3" height="104.4"/>
+			<rect x="81.5" y="154.5" class="st44" width="4.3" height="68.5"/>
+			<rect x="81.5" y="306" class="st44" width="4.3" height="40.9"/>
+			<rect x="81.5" y="264.9" class="st44" width="4.3" height="40.3"/>
+			<rect x="81.5" y="224.4" class="st44" width="4.3" height="39"/>
 		</g>
 		<g id="graph_lunch_1_">
-			<rect x="86.5" y="48.1" class="st45" width="2.8" height="104.4"/>
-			<rect x="86.5" y="154.5" class="st45" width="2.8" height="68.5"/>
-			<rect x="86.5" y="306" class="st45" width="2.8" height="40.9"/>
-			<rect x="86.5" y="264.9" class="st45" width="2.8" height="40.3"/>
-			<rect x="86.5" y="224.4" class="st45" width="2.8" height="39"/>
+			<rect x="86.5" y="48.1" class="st44" width="2.8" height="104.4"/>
+			<rect x="86.5" y="154.5" class="st44" width="2.8" height="68.5"/>
+			<rect x="86.5" y="306" class="st44" width="2.8" height="40.9"/>
+			<rect x="86.5" y="264.9" class="st44" width="2.8" height="40.3"/>
+			<rect x="86.5" y="224.4" class="st44" width="2.8" height="39"/>
 		</g>
 		<g id="graph_lunch_2_">
-			<rect x="89.5" y="48.1" class="st46" width="1.3" height="104.4"/>
-			<rect x="89.5" y="154.5" class="st46" width="1.3" height="68.5"/>
-			<rect x="89.5" y="306" class="st46" width="1.3" height="40.9"/>
-			<rect x="89.5" y="264.9" class="st46" width="1.3" height="40.3"/>
-			<rect x="89.5" y="224.4" class="st46" width="1.3" height="39"/>
+			<rect x="89.5" y="48.1" class="st45" width="1.3" height="104.4"/>
+			<rect x="89.5" y="154.5" class="st45" width="1.3" height="68.5"/>
+			<rect x="89.5" y="306" class="st45" width="1.3" height="40.9"/>
+			<rect x="89.5" y="264.9" class="st45" width="1.3" height="40.3"/>
+			<rect x="89.5" y="224.4" class="st45" width="1.3" height="39"/>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 40.2334 32.1738)" class="st2 st3 st4">ランチパターン</text>
+			<text transform="matrix(1 0 0 1 40.2334 32.1738)" class="st1 st2 st3">ランチパターン</text>
 		</g>
 	</g>
 </g>
