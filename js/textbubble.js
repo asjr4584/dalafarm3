@@ -1,7 +1,8 @@
 webpackJsonp([1], {
 /*scroll down icon img/icon-scroll.7719c43.svg*/	
     "/Mxk": function(t, e, i) {
-        t.exports = i.p + "img/icon-scroll.7719c43.svg"
+        t.exports = i.p + ""
+		/*t.exports = i.p + "img/icon-scroll.7719c43.svg"*/
     },
     "/wer": function(t, e, i) {
         t.exports = i.p + "img/shigotonaiyou.svg"
@@ -46,14 +47,14 @@ webpackJsonp([1], {
                 }, [i("a", {
                     staticClass: "menu__logo",
                     attrs: {
-                        href: "http://www.dalafarm.net/",
-                        title: "Visit www.dalafarm.net"
+                        href: "/",
+                        title: ""
                     }
                 }, [i("svg", {
                     attrs: {
-                        width: "279px",
-                        height: "54px",
-                        viewBox: "0 0 279 54",
+                        width: "0px",
+                        height: "0px",
+                        viewBox: "0 0 0 0",
                         version: "1.1",
                         xmlns: "http://www.w3.org/2000/svg",
                         "xmlns:xlink": "http://www.w3.org/1999/xlink"
@@ -264,11 +265,13 @@ webpackJsonp([1], {
 /*2nd.text.box.title*/
                 }, [t._v("理念")]), t._v(" "), t._m(4)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-3"
                     }
                 }, [i("h2", {
                     staticClass: "callout-3-3__headline",
+					/*staticClass: "callout-3-3__headline",*/
                     on: {
                         click: t.toggle
                     }
@@ -286,22 +289,24 @@ webpackJsonp([1], {
 /*4th.text.box.title*/
                 }, [t._v("社員旅行")]), t._v(" "), t._m(6)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-5"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
 /*6th.text.box.title*/
                 }, [t._v("募集要項")]), t._v(" "), t._m(7)]), t._v(" "), i("div", {
-                    staticClass: "callout-3-3",
+                    staticClass: "callout-6-6",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-6"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-6-6__headline",
                     on: {
                         click: t.toggle
                     }
@@ -363,22 +368,24 @@ webpackJsonp([1], {
 /*12th.text.box.title*/
                 }, [t._v("動画")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-12"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
 /*13th.text.box.title*/
                 }, [t._v("社員属性①")]), t._v(" "), t._m(14)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-13"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -396,13 +403,14 @@ webpackJsonp([1], {
 /*15th.text.box.title*/
                 }, [t._v("DaLa Farm")]), t._v(" "), t._m(16)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-15",
                         // href: "http://www.dalafarm.net/",
                         // title: "Visit dalafarm.net"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -419,12 +427,13 @@ webpackJsonp([1], {
                     }
 /*17th.text.box.title*/
                 }, [t._v("社用車")]), t._v(" "), t._m(18)]), t._v(" "), i("div", {
-                    staticClass: "callout-3-3",
+                    staticClass: "callout-17-17",
+					/*staticClass: "callout-3-3",*/
                     attrs: {
                         id: "callout-17"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-17-17__headline",
                     on: {
                         click: t.toggle
                     }
@@ -530,11 +539,20 @@ webpackJsonp([1], {
                     }
                 }, [t._m(23), t._v(" "), i("div", {
                     staticClass: "outro__footer-icon"
-                }, [i("svg", {
+                }, /*[i("svg", {
                     attrs: {
                         width: "84px",
                         height: "17px",
                         viewBox: "0 0 84 17",
+                        version: "1.1",
+                        xmlns: "http://www.w3.org/2000/svg",
+                        "xmlns:xlink": "http://www.w3.org/1999/xlink"
+                    }*/
+					[i("svg", {
+                    attrs: {
+                        width: "0px",
+                        height: "0px",
+                        viewBox: "0 0 0 0",
                         version: "1.1",
                         xmlns: "http://www.w3.org/2000/svg",
                         "xmlns:xlink": "http://www.w3.org/1999/xlink"
@@ -577,12 +595,12 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("footer", {
                     staticClass: "intro__footer"
-                }, [e("p", [e("img", {
+                }, [e("p", [/*e("img", {
                     staticClass: "icon",
                     attrs: {
                         src: i("/Mxk")
                     }
-                }), this._v(" Scroll up and down to navigate")])])
+                }),*/ this._v(" Scroll up and down to navigate")])])
             }
 
 			// 代表メッセージ 2				 
@@ -630,6 +648,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout-3-3__body"
+					/*staticClass: "callout-3-3__body"*/
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -672,7 +691,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -692,7 +711,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-6-6__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -757,7 +776,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -777,7 +796,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -807,7 +826,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -836,7 +855,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-17-17__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -1044,12 +1063,12 @@ webpackJsonp([1], {
                     },
                     toggle: function(e) {
                         var i = t(e.target.parentElement)
-                          , s = i.find(".callout__body, .callout-3-3__body")
+                          , s = i.find(".callout__body, .callout-3-3__body, .callout-6-6__body, .callout-17-17__body")
                           , a = i.find(".callout__aside");
                         i.hasClass("-active") ? (a.removeClass("-visible"),
                         s.removeClass("-visible").closest(i).removeClass("-active")) : (i.addClass("-active").find(s).addClass("-visible"),
                         a.addClass("-visible"),
-                        i.siblings(".callout, .callout-3-3").find(".callout__aside").removeClass("-visible").end().find(".callout__body, .callout-3-3__body").removeClass("-visible").end().removeClass("-active"))
+                        i.siblings(".callout, .callout-3-3, .callout-6-6, .callout-17-17").find(".callout__aside").removeClass("-visible").end().find(".callout__body, .callout-3-3__body, .callout-6-6__body, .callout-17-17__body").removeClass("-visible").end().removeClass("-active"))
                     },
                     closeIntro: function() {
                         var e = t(".intro")
