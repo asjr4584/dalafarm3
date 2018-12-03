@@ -323,12 +323,12 @@ webpackJsonp([1], {
                     }
 /*8th.text.box.title*/
                 }, [t._v("実績紹介")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-6-6",
                     attrs: {
                         id: "callout-8"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-6-6__headline",
                     on: {
                         click: t.toggle
                     }
@@ -439,12 +439,12 @@ webpackJsonp([1], {
                     }
 /*18th.text.box.title*/
                 }, [t._v("連絡先")]), t._v(" "), t._m(19)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                    staticClass: "callout-6-6",
                     attrs: {
                         id: "callout-18"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-6-6__headline",
                     on: {
                         click: t.toggle
                     }
@@ -726,7 +726,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          9   \n        ")])])
+                }, [e("p", [this._v("\n          999   \n        ")])])
             }
 			
 			// キャリアステップアップ 10
@@ -734,7 +734,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-6-6__body"
                 }, [e("p", [this._v("\n          社員の夢を応援する会社です。デザイナーからアートディレクターのステップアップや独立支援もおこなっています。   \n        ")])])
             }
             

@@ -1114,7 +1114,7 @@ figure {
   margin: 0;
 }
 img {
-  vertical-align: middle;
+  vertical-align:middle;
 }
 .img-responsive,
 .thumbnail > img,
@@ -1269,7 +1269,8 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  /*font-size: 30px;*/
+  font-size: 20px;
 }
 h3,
 .h3 {
@@ -1288,7 +1289,8 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  /*margin: 0 0 10px;*/
+  margin: 0 10px 10px;
 }
 .lead {
   margin-bottom: 20px;

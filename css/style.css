@@ -76,7 +76,8 @@ p {
 
 img {
     border: 0;
-    width: 400%;
+    /*width: 100vw;*/ /*not working in IE*/	
+    margin-left: 0px;
 }
 
 strong {
@@ -611,8 +612,8 @@ body {
 }*/
 
 .callout-3-3 {
-    max-width: 34.375em;
-    /* min-width: 17.5em; */
+	max-width: 50em;
+	width: fit-content;
     /* padding: 1em; */
     position: absolute;
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
@@ -626,8 +627,8 @@ body {
 }
 
 .callout-6-6 {
-    max-width: 34.375em;
-    /* min-width: 17.5em; */
+    max-width: 50em;
+	width: fit-content;
     /* padding: 1em; */
     position: absolute;
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
@@ -641,8 +642,8 @@ body {
 }
 
 .callout-17-17 {
-    max-width: 34.375em;
-    /* min-width: 17.5em; */
+    max-width: 50em;
+	width: fit-content;
     /* padding: 1em; */
     position: absolute;
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
@@ -672,7 +673,7 @@ body {
     /* letter-spacing: 0.04em; */
     /* margin: 0; */
     margin-left: 10px;
-	margin-top: -70px;
+	margin-top: -65px;
     text-transform: uppercase;
     -webkit-transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
     transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
@@ -685,10 +686,12 @@ body {
     /* letter-spacing: 0.04em; */
     /* margin: 0; */
     margin-left: 10px;
-	margin-top: -70px;
+    margin-top: -65px;
     text-transform: uppercase;
     -webkit-transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
     transition: color 1s cubic-bezier(0.23, 1, 0.32, 1);
+    width: fit-content;
+    max-width: fit-content;
 }
 
 .callout-6-6__headline {
@@ -768,7 +771,7 @@ body {
     top: -80px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    width: 233px;
+    width: 163px;
     height: 49px;
     z-index: -1;
 }
@@ -797,7 +800,8 @@ body {
     top: -80px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    width: 233px;
+    width: 163px;
+	/*width: 233px;*/
     height: 49px;
     z-index: -1;
 }
@@ -855,7 +859,7 @@ body {
     top: -80px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    width: 233px;
+    width: 163px;
     height: 49px;
     z-index: -1;
 }
@@ -866,18 +870,22 @@ body {
 
 .callout__body, .callout-3-3__body, .callout-6-6__body, .callout-17-17__body {
     color: #ffffff;
-	/*color: #4a4a4c;*/
-    opacity: 0;	
+    /* color: #4a4a4c; */
+    opacity: 0;
+    /* width: 100vw; */	
 }
 
 .callout__body p {
     font-size: calc(10px + 0.5vw);
 	/*display: none;*/
+	margin-right: 160px;
 }
 
 .callout-3-3__body p {
     font-size: calc(10px + 0.5vw);
-	/*display: none;*/
+	/*display: none;
+	width: 75%;*/
+	
 }
 
 .callout-6-6__body p {
@@ -930,7 +938,8 @@ body {
     padding: 1.5em;
     position: absolute;
     top: 0px;
-    width: 100%;
+    width: 70%;
+	/*    width: 100%;*/
     visibility: hidden;
     z-index: -2;
 }
@@ -998,7 +1007,8 @@ body {
 .callout__aside.-visible {
 	-webkit-box-shadow: 2px 8px 124px -26px #0000005e;
     box-shadow: 2px 8px 124px -26px #0000005e;
-    left: 100%;
+    left: 70%;
+	/*    left: 100%;*/
     margin-top: -30px;
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.6s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.6s;
@@ -1091,6 +1101,7 @@ body {
 
 .callout.-active, .callout-3-3.-active, .callout-6-6.-active, .callout-17-17.-active {
     padding: 3em 1em;
+	width:fit-content;
 }
 
 .callout.-active, .callout__headline {
@@ -1102,16 +1113,19 @@ body {
 .callout-3-3.-active, .callout-3-3__headline {
     color: #ffffff;
 	/*color: #4a4a4c;*/
+	width:inherit;
 }
 
 .callout-6-6.-active, .callout-6-6__headline {
     color: #ffffff;
 	/*color: #4a4a4c;*/
+	width:inherit;
 }
 
 .callout-17-17.-active, .callout-17-17__headline {
     color: #ffffff;
 	/*color: #4a4a4c;*/
+	width:inherit;
 }
 
 .callout.-active, .callout__headline:after
@@ -1123,25 +1137,31 @@ body {
 }
 
 .callout.-active:before {
-    height: 100%;
-    width: 100%;
+	height: 100%;
+    width: 70%;
 }
 
-.callout-3-3.-active:before {
+/*.callout-3-3.-active:before {
     height: 690px;
-    width: 860px;
+    width: 620px;
+    top: 0px;
+}*/
+
+.callout-3-3.-active:before {
+	height: 100%;
+    width: 100%;
     top: 0px;
 }
 
 .callout-6-6.-active:before {
-    height: 350px;
-    width: 1270px;
+    height: 100%;
+    width: 100%;
     top: 0px;
 }
 
 .callout-17-17.-active:before {
-    height: 660px;
-    width: 1110px;
+    height: 100%;
+    width: 100%;
     top: 0px;
 }
 
@@ -1164,9 +1184,9 @@ body {
 }*/
 
 #callout-2 {
-    left: 870px;
+    left: 710px;
     top: 80px;
-    z-index: 1002;
+    z-index: 1004;
 }
 
 /*#callout-3 {
@@ -1176,99 +1196,99 @@ body {
 }*/
 
 #callout-3 {
-	left: 1610px;
+	left: 1130px;
     top: 80px;
-    z-index: 1001;
+    z-index: 1006;
 }
 
 #callout-4 {
-    left: 1990px;
+    left: 1340px;
     top: 80px;
-    z-index: 1000;
+    z-index: 1007;
 }
 
 #callout-5 {
-	left: 1239px;
+	left: 919px;
     top: 80px;
-    z-index: 1001;
+    z-index: 1005;
 }
 
-#callout-6 {
-	left: 2380px;
+#callout-6 {	
+    left: 1550px;
     top: 80px;
-    z-index: 998;
+    z-index: 1008;
 }
 
 #callout-7 {
-	left: 2840px;
+	left: 1830px;
     top: 80px;
-    z-index: 997;
+    z-index: 1009;
 }
 
 #callout-8 {
-    left: 3210px;
+	left: 2040px;
     top: 80px;
-    z-index: 996;
+    z-index: 1010;
 }
 
 #callout-9 {
-	left: 3690px;
+	left: 2320px;
     top: 80px;
-    z-index: 995;
+    z-index: 1011;
 }
 
 #callout-10 {
-	left: 4060px;
+	left: 2530px;
     top: 80px;
-    z-index: 994;
+    z-index: 1012;
 }
 
 #callout-11 {
-    left: 4440px;
+    left: 2740px;
     top: 80px;
-    z-index: 993;
+    z-index: 1013;
 }
 
 #callout-12 {
-	left: 4820px;
+	left: 2950px;
     top: 80px;
-    z-index: 992;
+    z-index: 1014;
 }
 
 #callout-13 {
-	left: 5200px;
+	left: 3160px;
     top: 80px;
-    z-index: 991;
+    z-index: 1015;
 }
 
 #callout-14 {
-    left: 5580px;
+	left: 3370px;
     top: 80px;
-    z-index: 990;
+    z-index: 1016;
 }
 
 #callout-15 {
-	left: 5960px;
+	left: 3580px;
     top: 80px;
-    z-index: 989;
+    z-index: 1017;
 }
 
 #callout-16 {
-    left: 6340px;
+    left: 3790px;
     top: 80px;
-    z-index: 988;
+    z-index: 1018;
 }
 
 #callout-17 {
-	left: 6720px;
+	left: 4000px;
     top: 80px;
-    z-index: 987;
+    z-index: 1019;
 }
 
 #callout-18 {
- 	left: 7110px;
+	left: 4210px;
     top: 80px;
-    z-index: 986;
+    z-index: 1020;
 }
 
 /*#callout-19 {
