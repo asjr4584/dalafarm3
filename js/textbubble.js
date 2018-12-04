@@ -1,7 +1,8 @@
 webpackJsonp([1], {
 /*scroll down icon img/icon-scroll.7719c43.svg*/	
     "/Mxk": function(t, e, i) {
-        t.exports = i.p + "img/icon-scroll.7719c43.svg"
+        t.exports = i.p + ""
+		/*t.exports = i.p + "img/icon-scroll.7719c43.svg"*/
     },
     "/wer": function(t, e, i) {
         t.exports = i.p + "img/shigotonaiyou.svg"
@@ -46,14 +47,14 @@ webpackJsonp([1], {
                 }, [i("a", {
                     staticClass: "menu__logo",
                     attrs: {
-                        href: "http://www.dalafarm.net/",
-                        title: "Visit www.dalafarm.net"
+                        /*href: "http://www.dalafarm.net/",
+                        title: "Visit www.dalafarm.net"*/
                     }
                 }, [i("svg", {
                     attrs: {
-                        width: "279px",
-                        height: "54px",
-                        viewBox: "0 0 279 54",
+                        width: "0px",
+                        height: "0px",
+                        viewBox: "0 0 0 0",
                         version: "1.1",
                         xmlns: "http://www.w3.org/2000/svg",
                         "xmlns:xlink": "http://www.w3.org/1999/xlink"
@@ -577,12 +578,12 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("footer", {
                     staticClass: "intro__footer"
-                }, [e("p", [e("img", {
+                }, [e("p", [/*e("img", {
                     staticClass: "icon",
                     attrs: {
                         src: i("/Mxk")
                     }
-                }), this._v(" Scroll up and down to navigate")])])
+                }),*/ this._v(" Scroll up and down to navigate")])])
             }
 
 			// 代表メッセージ 2				 
