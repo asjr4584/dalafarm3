@@ -1269,8 +1269,9 @@ h1,
 }
 h2,
 .h2 {
-  /*font-size: 30px;*/
-  font-size: 20px;
+  font-size: 30px;
+  /*font-size: 20px;
+	font-size: 1.4vw; */   
 }
 h3,
 .h3 {
