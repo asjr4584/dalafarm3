@@ -504,17 +504,12 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-11"
                     }
-																							  
-				  
-	   
-			
-	  
-                }, [t._v("\n      一緒に創造しようではないか？\n    ")]), t._v(" "), i("div", {
+				}, [t._v("\n      一緒に創造しようではないか？\n    ")]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-right",
                     attrs: {
                         id: "bubble-12"
                     }
-                }, [t._v("\n      We're like a human rights coalition in the body of a global healthcare organization.\n    ")])]), t._v(" "), i("div", {
+                }, )]), t._v(" "), i("div", {
                     staticClass: "wayback",
                     style: {
                         width: t.imageWidth + "px"
