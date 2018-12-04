@@ -669,8 +669,8 @@ body {
 
 .callout__headline {
 	cursor: pointer;
-    font-size: calc(22px + 0.6vw);
-    /* letter-spacing: 0.04em; */
+    font-size: calc(12px + 0.9vw);
+    letter-spacing: 0.04em;
     /* margin: 0; */
     margin-left: 4px;
     margin-top: -66px;
@@ -682,8 +682,8 @@ body {
 
 .callout-3-3__headline {    
     cursor: pointer;
-    font-size: calc(22px + 0.6vw);
-    /* letter-spacing: 0.04em; */
+    font-size: calc(12px + 0.9vw);
+    letter-spacing: 0.04em;
     /* margin: 0; */
     margin-left: 4px;
     margin-top: -66px;
@@ -694,8 +694,8 @@ body {
 
 .callout-6-6__headline {
     cursor: pointer;
-    font-size: calc(22px + 0.6vw);
-    /* letter-spacing: 0.04em; */
+    font-size: calc(12px + 0.9vw);
+    letter-spacing: 0.04em;
     /* margin: 0; */
     margin-left: 4px;
     margin-top: -66px;
@@ -706,8 +706,8 @@ body {
 
 .callout-17-17__headline {
     cursor: pointer;
-    font-size: calc(22px + 0.6vw);
-    /* letter-spacing: 0.04em; */
+    font-size: calc(12px + 0.9vw);
+    letter-spacing: 0.04em;
     /* margin: 0; */
     margin-left: 4px;
     margin-top: -66px;
@@ -1171,7 +1171,7 @@ body {
 }
 
 #callout-1 {    
-    left: 220px;
+    left: 250px;
     top: 80px;
     z-index: 1003;	
 }
