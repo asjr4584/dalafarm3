@@ -1113,7 +1113,7 @@ figure {
   margin: 0;
 }
 img {
-  vertical-align: middle;
+  vertical-align: middle;	
 }
 .img-responsive,
 .thumbnail > img,
@@ -1184,7 +1184,7 @@ h6,
 .h5,
 .h6 {
   font-family: inherit;
-  font-weight: 500;
+  /*font-weight: 500;*/
   line-height: 1.1;
   color: inherit;
 }
