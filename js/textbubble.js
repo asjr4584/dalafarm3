@@ -526,7 +526,7 @@ webpackJsonp([1], {
                     }
                 }, [t._m(23), t._v(" "), i("div", {
                     staticClass: "outro__footer-icon"
-                }, [i("svg", {
+                }/*, [i("svg", {
                     attrs: {
                         width: "84px",
                         height: "17px",
@@ -557,7 +557,8 @@ webpackJsonp([1], {
                         "stroke-width": "2",
                         points: "75.0671387 1.09057617 82.092405 8.11584251 75.1036908 15.1045568"
                     }
-                })])])])])])])
+                })])])]*/
+                )])])])
             },
             staticRenderFns: [function() {
                 var t = this.$createElement
@@ -566,7 +567,7 @@ webpackJsonp([1], {
                     staticClass: "intro__headline"
                 }, [e("span", {
                     staticClass: "intro__sub-headline"
-                }, [this._v("About CREATIVE CONSULTANT DaLaFarm Co.,Ltd")]), this._v("\n        Who Are We?\n      ")])
+                }, [this._v("Scroll up and down to navigate")]), this._v("\n        DalaFarm\n      ")])
             }
             , function() {
                 var t = this.$createElement
@@ -578,7 +579,7 @@ webpackJsonp([1], {
                     attrs: {
                         src: i("/Mxk")
                     }
-                }),*/ this._v(" Scroll up and down to navigate")])])
+                }),*/ this._v("CREATIVE CONSULTANT DaLaFarm Co.,Ltd")])])
             }
 
 			// 代表メッセージ 2				 

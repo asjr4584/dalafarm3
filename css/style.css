@@ -39,7 +39,7 @@ table {
     box-sizing: border-box;
 }
 
-@font-face {
+/*@font-face {
     font-family: Arial Bold;
     src: url("../fonts/regular-webfont.woff2") format("woff2");
     font-weight: 400;
@@ -65,7 +65,7 @@ table {
     src: url("../fonts/heavy-webfont.woff2") format("woff2");
     font-weight: 900;
     font-style: normal;
-}
+}*/
 
 p {
     line-height: 1.5;
@@ -663,8 +663,8 @@ body {
 .callout__body, .callout-3-3__body {
 	color: #ffffff;
     /* color: #4a4a4c; */
-    /* opacity: 0; */
-    /* transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s; */
+    opacity: 0;
+    transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     -webkit-transition: all 1.4s cubic-bezier(0.23, 1, 0.32, 1);
     transition: all 1.4s cubic-bezier(0.23, 1, 0.32, 1);
     display: none;
