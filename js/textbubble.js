@@ -881,7 +881,7 @@ webpackJsonp([1], {
                     staticClass: "outro__top"
                 }, [i("h1", {
                     staticClass: "outro__headline"
-                }, [t._v("\n        Contact Us.\n      ")]), t._v(" "), i("div", {
+                }, [t._v("\n        DaLa Farmについて\n      ")]), t._v(" "), i("div", {
                     staticClass: "outro__body"
                 }, [i("ul", {
                     staticClass: "outro__links"
@@ -909,10 +909,10 @@ webpackJsonp([1], {
                     attrs: {
                         href: "http://www.dalafarm.net/recruit"
                     }
-                }, [t._v("Recruit")])]), t._v(" "), i("li", [i("a", {
-                    attrs: {
-                        href: "http://www.dalafarm.net/contact"
-                    }
+                // }, [t._v("Recruit")])]), t._v(" "), i("li", [i("a", {
+                //     attrs: {
+                //         href: "http://www.dalafarm.net/contact"
+                //     }
                 }, [t._v("Contact")])])])])])
             }
             , function() {
