@@ -472,7 +472,7 @@ body {
 .outro__headline {
     color: #ab9566;
     display: inline-block;
-    font-size: calc(30px + 1vw);
+    font-size: calc(30px + 0.5vw);
     margin: 0.25em 0;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -1031,8 +1031,8 @@ body {
 }
 
 #bubble-1 {
-    left: 8.2%;
-    top: 30%;
+    left: 11.2%;
+    top: 32%;
 }
 
 #bubble-2 {
