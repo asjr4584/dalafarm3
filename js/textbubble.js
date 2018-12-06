@@ -307,18 +307,18 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*7th.text.box.title*/
-                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {
+                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {/*
                     staticClass: "callout",
                     attrs: {
                         id: "callout-7"
-                    }
+                    }*/
                 }, [i("h2", {
                     staticClass: "callout__headline",
                     on: {
                         click: t.toggle
                     }
-/*8th.text.box.title*/
-                }, [t._v("実績紹介")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+/*実績紹介 callout-7*/
+                }, [t._v("")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
@@ -329,7 +329,7 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*9th.text.box.title*/
-                }, [t._v("キャリアステップアップ")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
+                }, [t._v("キャリアステップ")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-9"
@@ -430,23 +430,23 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*18th.text.box.title*/
-                }, [t._v("連絡先")]), t._v(" "), t._m(19)]), t._v(" "), i("div", {
-                    staticClass: "callout",
+                }, [t._v("連絡先")]), t._v(" "), t._m(19)]), t._v(" "), i("div", {/*
+                    staticClass: "callout",				
                     attrs: {
                         id: "callout-18"
-                    }
+                    }*/
                 }, [i("h2", {
                     staticClass: "callout__headline",
                     on: {
                         click: t.toggle
                     }
-/*5th.text.box.title*/
-                }, [t._v("オフィスギャラリー")]), t._v(" "), t._m(20), t._v(" "), t._m(21)]), t._v(" "), i("div", {
+/*オフィスギャラリー callout-18*/					
+                }, [t._v(" ")]), t._v(" "), t._m(20), t._v(" "), t._m(21)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-1"
                     }
-                }, [t._v("\n      理念を中心に創造しよう！\n    ")]), t._v(" "), i("div", {
+                }, [t._v("\n      理念を中心に創造しよう！\n    ")])/*, t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-2"
@@ -501,7 +501,7 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-12"
                     }
-                }, [t._v("\n      Testing Bubble-12.\n    ")])]), t._v(" "), i("div", {
+                }, [t._v("\n      Testing Bubble-12.\n    ")])*/]), t._v(" "), i("div", {
                     staticClass: "wayback",
                     style: {
                         width: t.imageWidth + "px"
@@ -582,7 +582,7 @@ webpackJsonp([1], {
                 }),*/ this._v("CREATIVE CONSULTANT DaLaFarm Co.,Ltd")])])
             }
 
-			// 代表メッセージ 2				 
+// 代表メッセージ 2				 
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -591,7 +591,7 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n  私たちは本質を目的に合わせて、デザインというカタチで感動を与えることを使命だと感じています。みえないもの。感じるもの。「みえないもの」を「感じるもの」にするCreative Solutionをご提案します。ＳＮＳなどの普及やそれらを閲覧するスマートフォンなど技術の進歩は益々加速しています。ＷＥＢも無料や格安で作成できるツールの出現など、簡単にクリエイティブが可能になっています。ただ、人の感性や感動などの本質は変わりません。私たちはそこを大切にし、人と人を繋ぐことができるような制作を心掛けます。私達を支えていただいた皆様に感謝し、理念に基づき行動します。今後も 多大なご支援を賜りますようお願い申しあげます。 \n        ")])])
             }
 
-			// 代表メッセージ callout 3		  
+// 代表メッセージ callout 3		  
             , function() {
                 var t = this
                   , e = t.$createElement
