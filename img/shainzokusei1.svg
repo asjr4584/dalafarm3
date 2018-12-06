@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Main_Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 495.4 370" style="enable-background:new 0 0 495.4 370;" xml:space="preserve">
+	 viewBox="0 0 493.9 370" style="enable-background:new 0 0 493.9 370;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st1{fill:#3E3A39;}
-	.st2{font-family:'UDShinGoPro-Heavy-83pv-RKSJ-H';}
+	.st2{font-family:'HiraKakuPro-W6-83pv-RKSJ-H';}
 	.st3{font-size:12px;}
 	.st4{display:none;}
 	.st5{display:inline;fill:#3E3A39;}
@@ -18,7 +18,7 @@
 	.st12{fill:#64C8FF;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st13{font-family:'NewRodinPro-B-83pv-RKSJ-H';}
 	.st14{font-size:20px;}
-	.st15{font-family:'NewRodinPro-DB-83pv-RKSJ-H';}
+	.st15{font-family:'HiraKakuPro-W3-83pv-RKSJ-H';}
 	.st16{font-size:8px;}
 	.st17{fill:none;stroke:#3E3A39;stroke-width:0.8103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st18{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.3842;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -41,14 +41,13 @@
 	.st35{fill:none;stroke:#3E3A39;stroke-width:0.6403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st36{fill:#FFAF1E;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
 	.st37{fill:#FFDD27;stroke:#3E3A39;stroke-width:0.25;stroke-miterlimit:10;}
-	.st38{font-family:'NewRodinPro-L-83pv-RKSJ-H';}
-	.st39{letter-spacing:-4;}
-	.st40{font-size:11px;}
-	.st41{font-size:9px;}
-	.st42{font-size:19px;}
-	.st43{font-size:13px;}
-	.st44{fill:#FFAF1E;}
-	.st45{fill:#FF991F;}
+	.st38{letter-spacing:-4;}
+	.st39{font-size:11px;}
+	.st40{font-size:9px;}
+	.st41{font-size:19px;}
+	.st42{font-size:13px;}
+	.st43{fill:#FFAF1E;}
+	.st44{fill:#FF991F;}
 </style>
 <g>
 	<path class="st0" d="M305.5,359.3H187.7c-5.5,0-10-4.5-10-10v-328c0-5.5,4.5-10,10-10h117.8c5.5,0,10,4.5,10,10v328
@@ -209,7 +208,7 @@
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 248.6865 313.4609)" class="st1 st13 st32">既婚者</text>
+			<text transform="matrix(1 0 0 1 248.6865 313.4609)" class="st1 st15 st32">既婚者</text>
 		</g>
 		<g id="wineglass_2_">
 			<path class="st33" d="M194.3,176.1c0,0,6.6,11.9,6.8,12.1c0.1,0.1,0.5,0.5,1,0.5c0.6,0,1.1-0.5,1.1-0.5l6.6-12.2
@@ -248,10 +247,10 @@
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 248.6865 201.6738)" class="st1 st13 st32">未婚者</text>
+			<text transform="matrix(1 0 0 1 248.6865 201.6738)" class="st1 st15 st32">未婚者</text>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 185.7139 52.329)"><tspan x="0" y="0" class="st1 st38 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="14" class="st1 st38 st16">る環境を用意しています。家族と</tspan><tspan x="0" y="28" class="st1 st38 st16">の時間を大切にしたいという社員</tspan><tspan x="0" y="42" class="st1 st38 st16">思いを尊重します</tspan><tspan x="64" y="42" class="st1 st38 st16 st39">。</tspan><tspan x="0" y="70" class="st1 st38 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="84" class="st1 st38 st16">る環境を用意しています</tspan><tspan x="88" y="84" class="st1 st38 st16 st39">。</tspan></text>
+			<text transform="matrix(1 0 0 1 185.7139 52.329)"><tspan x="0" y="0" class="st1 st15 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="14" class="st1 st15 st16">る環境を用意しています。家族と</tspan><tspan x="0" y="28" class="st1 st15 st16">の時間を大切にしたいという社員</tspan><tspan x="0" y="42" class="st1 st15 st16">思いを尊重します</tspan><tspan x="64" y="42" class="st1 st15 st16 st38">。</tspan><tspan x="0" y="70" class="st1 st15 st16">既婚者の方でも存分にご活躍頂け</tspan><tspan x="0" y="84" class="st1 st15 st16">る環境を用意しています</tspan><tspan x="88" y="84" class="st1 st15 st16 st38">。</tspan></text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 207.7339 32.1738)" class="st1 st2 st3">未婚既婚の割合</text>
@@ -262,63 +261,63 @@
 			C148.2,354.7,143.7,359.2,138.2,359.2z"/>
 		<g id="その他">
 			<g>
-				<text transform="matrix(1 0 0 1 105.5474 326.4609)" class="st1 st13 st16">その他</text>
+				<text transform="matrix(1 0 0 1 105.5474 326.4609)" class="st1 st2 st16">その他</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 101.5469 337.9199)" class="st1 st13 st40">１５</text>
+					<text transform="matrix(1 0 0 1 101.5469 337.9199)" class="st1 st13 st39">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 123.6299 337.9194)" class="st1 st13 st41">％</text>
+					<text transform="matrix(1 0 0 1 123.6299 337.9194)" class="st1 st13 st40">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="コンビニ">
 			<g>
-				<text transform="matrix(1 0 0 1 32.5474 286.2324)" class="st1 st13 st16">コンビニ</text>
+				<text transform="matrix(1 0 0 1 32.5474 286.2324)" class="st1 st2 st16">コンビニ</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 32.5469 297.9199)" class="st1 st13 st40">１５</text>
+					<text transform="matrix(1 0 0 1 32.5469 297.9199)" class="st1 st13 st39">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 54.6299 297.9194)" class="st1 st13 st41">％</text>
+					<text transform="matrix(1 0 0 1 54.6299 297.9194)" class="st1 st13 st40">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="手作り">
 			<g>
-				<text transform="matrix(1 0 0 1 98.5474 243.9199)" class="st1 st13 st16">手作り弁当</text>
+				<text transform="matrix(1 0 0 1 98.5474 243.9199)" class="st1 st2 st16">手作り弁当</text>
 			</g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 1 101.5469 255.9199)" class="st1 st13 st40">１５</text>
+					<text transform="matrix(1 0 0 1 101.5469 255.9199)" class="st1 st13 st39">１５</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 123.6299 255.9194)" class="st1 st13 st41">％</text>
+					<text transform="matrix(1 0 0 1 123.6299 255.9194)" class="st1 st13 st40">％</text>
 				</g>
 			</g>
 		</g>
 		<g id="食堂">
 			<g>
-				<text transform="matrix(1 0 0 1 18.2969 178.3408)"><tspan x="0" y="0" class="st1 st13 st40">お客さま先</tspan><tspan x="11" y="19.2" class="st1 st13 st40">の食堂</tspan></text>
+				<text transform="matrix(1 0 0 1 18.2969 178.3408)"><tspan x="0" y="0" class="st1 st2 st39">お客さま先</tspan><tspan x="11" y="19.2" class="st1 st2 st39">の食堂</tspan></text>
 			</g>
 			<g>
 				<text transform="matrix(1 0 0 1 30.8799 210.8661)" class="st1 st13 st3">２５</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 54.7129 210.8667)" class="st1 st13 st41">％</text>
+				<text transform="matrix(1 0 0 1 54.7129 210.8667)" class="st1 st13 st40">％</text>
 			</g>
 		</g>
 		<g id="外食">
 			<g>
-				<text transform="matrix(1 0 0 1 29.5474 109.3408)" class="st1 st13 st42">外食</text>
+				<text transform="matrix(1 0 0 1 29.5474 109.3408)" class="st1 st2 st41">外食</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 31.7974 125.5903)" class="st1 st13 st43">３０</text>
+				<text transform="matrix(1 0 0 1 31.7974 125.5903)" class="st1 st13 st42">３０</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 57.7144 125.5903)" class="st1 st13 st41">％</text>
+				<text transform="matrix(1 0 0 1 57.7144 125.5903)" class="st1 st13 st40">％</text>
 			</g>
 		</g>
 		<g id="graph_pattern_1_" class="st4">
@@ -350,25 +349,25 @@
 			</g>
 		</g>
 		<g id="graph_lunch">
-			<rect x="81.5" y="48.1" class="st44" width="4.3" height="104.4"/>
-			<rect x="81.5" y="154.5" class="st44" width="4.3" height="68.5"/>
-			<rect x="81.5" y="306" class="st44" width="4.3" height="40.9"/>
-			<rect x="81.5" y="264.9" class="st44" width="4.3" height="40.3"/>
-			<rect x="81.5" y="224.4" class="st44" width="4.3" height="39"/>
+			<rect x="81.5" y="48.1" class="st43" width="4.3" height="104.4"/>
+			<rect x="81.5" y="154.5" class="st43" width="4.3" height="68.5"/>
+			<rect x="81.5" y="306" class="st43" width="4.3" height="40.9"/>
+			<rect x="81.5" y="264.9" class="st43" width="4.3" height="40.3"/>
+			<rect x="81.5" y="224.4" class="st43" width="4.3" height="39"/>
 		</g>
 		<g id="graph_lunch_1_">
-			<rect x="86.5" y="48.1" class="st44" width="2.8" height="104.4"/>
-			<rect x="86.5" y="154.5" class="st44" width="2.8" height="68.5"/>
-			<rect x="86.5" y="306" class="st44" width="2.8" height="40.9"/>
-			<rect x="86.5" y="264.9" class="st44" width="2.8" height="40.3"/>
-			<rect x="86.5" y="224.4" class="st44" width="2.8" height="39"/>
+			<rect x="86.5" y="48.1" class="st43" width="2.8" height="104.4"/>
+			<rect x="86.5" y="154.5" class="st43" width="2.8" height="68.5"/>
+			<rect x="86.5" y="306" class="st43" width="2.8" height="40.9"/>
+			<rect x="86.5" y="264.9" class="st43" width="2.8" height="40.3"/>
+			<rect x="86.5" y="224.4" class="st43" width="2.8" height="39"/>
 		</g>
 		<g id="graph_lunch_2_">
-			<rect x="89.5" y="48.1" class="st45" width="1.3" height="104.4"/>
-			<rect x="89.5" y="154.5" class="st45" width="1.3" height="68.5"/>
-			<rect x="89.5" y="306" class="st45" width="1.3" height="40.9"/>
-			<rect x="89.5" y="264.9" class="st45" width="1.3" height="40.3"/>
-			<rect x="89.5" y="224.4" class="st45" width="1.3" height="39"/>
+			<rect x="89.5" y="48.1" class="st44" width="1.3" height="104.4"/>
+			<rect x="89.5" y="154.5" class="st44" width="1.3" height="68.5"/>
+			<rect x="89.5" y="306" class="st44" width="1.3" height="40.9"/>
+			<rect x="89.5" y="264.9" class="st44" width="1.3" height="40.3"/>
+			<rect x="89.5" y="224.4" class="st44" width="1.3" height="39"/>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 40.2334 32.1738)" class="st1 st2 st3">ランチパターン</text>

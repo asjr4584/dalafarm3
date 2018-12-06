@@ -34,36 +34,37 @@
 	.st26{fill:none;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st27{clip-path:url(#SVGID_14_);fill:#54AD4B;}
 	.st28{fill:#64C8FF;}
-	.st29{font-size:28px;}
-	.st30{font-size:12px;}
-	.st31{fill:none;stroke:#3E3A39;stroke-width:2.8361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st32{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2.8361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st33{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.1658;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st34{fill:#635568;stroke:#3E3A39;stroke-width:0.7068;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st35{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.0596;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st36{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.2669;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st37{fill:#433B4B;}
-	.st38{fill:#635568;}
-	.st39{fill:#ECECF5;stroke:#3E3A39;stroke-width:1.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st40{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.0698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st41{fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st42{fill:#635568;stroke:#3E3A39;stroke-width:0.4218;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st43{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.5595;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st44{fill:#635568;stroke:#3E3A39;stroke-width:1.1419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st45{clip-path:url(#_x32__1_);}
-	.st46{fill:#64C8FF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st47{fill:#676259;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st48{clip-path:url(#SVGID_16_);fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st49{fill:#7F7369;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st50{clip-path:url(#SVGID_18_);fill:#ECECF5;}
-	.st51{clip-path:url(#SVGID_18_);fill:#64C8FF;}
-	.st52{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st53{clip-path:url(#SVGID_20_);fill:#DD3B40;}
-	.st54{fill:none;stroke:#3E3A39;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st55{fill:#C2CEE6;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st56{fill:#ECECF5;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st57{clip-path:url(#SVGID_22_);fill:#ECECF5;}
-	.st58{clip-path:url(#SVGID_22_);fill:#E45751;}
+	.st29{font-family:'HiraKakuPro-W6-83pv-RKSJ-H';}
+	.st30{font-size:28px;}
+	.st31{font-size:12px;}
+	.st32{fill:none;stroke:#3E3A39;stroke-width:2.8361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st33{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2.8361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st34{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.1658;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st35{fill:#635568;stroke:#3E3A39;stroke-width:0.7068;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st36{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.0596;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st37{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.2669;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st38{fill:#433B4B;}
+	.st39{fill:#635568;}
+	.st40{fill:#ECECF5;stroke:#3E3A39;stroke-width:1.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st41{fill:#FFFFFF;stroke:#3E3A39;stroke-width:1.0698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st42{fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st43{fill:#635568;stroke:#3E3A39;stroke-width:0.4218;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st44{fill:#FFFFFF;stroke:#3E3A39;stroke-width:0.5595;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st45{fill:#635568;stroke:#3E3A39;stroke-width:1.1419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st46{clip-path:url(#_x32__1_);}
+	.st47{fill:#64C8FF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st48{fill:#676259;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st49{clip-path:url(#SVGID_16_);fill:#FFFFFF;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st50{fill:#7F7369;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st51{clip-path:url(#SVGID_18_);fill:#ECECF5;}
+	.st52{clip-path:url(#SVGID_18_);fill:#64C8FF;}
+	.st53{fill:#FFFFFF;stroke:#3E3A39;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st54{clip-path:url(#SVGID_20_);fill:#DD3B40;}
+	.st55{fill:none;stroke:#3E3A39;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st56{fill:#C2CEE6;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st57{fill:#ECECF5;stroke:#3E3A39;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st58{clip-path:url(#SVGID_22_);fill:#ECECF5;}
+	.st59{clip-path:url(#SVGID_22_);fill:#E45751;}
 </style>
 <g id="社員属性_x2462__1_">
 	<g id="社員属性3">
@@ -553,45 +554,45 @@
 				<g id="_x32_0" class="st3">
 					<g>
 						<g>
-							<text transform="matrix(1 0 0 1 419.03 227.6477)" class="st11 st16 st29">年</text>
+							<text transform="matrix(1 0 0 1 416.9023 227.6477)" class="st11 st29 st30">年</text>
 						</g>
 						<g>
-							<text transform="matrix(1 0 0 1 392.1938 227.2732)" class="st11 st16 st29">5</text>
+							<text transform="matrix(1 0 0 1 393.7056 227.2732)" class="st11 st29 st30">5</text>
 						</g>
 					</g>
 				</g>
 				<g class="st3">
 					<g>
-						<text transform="matrix(1 0 0 1 383.8425 36.4732)" class="st11 st16 st30">平均勤続年数</text>
+						<text transform="matrix(1 0 0 1 383.8425 36.4732)" class="st11 st29 st31">平均勤続年数</text>
 					</g>
 				</g>
 			</g>
-			<path id="_x33__6_" class="st31" d="M471.7,353.5H360.1c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
+			<path id="_x33__6_" class="st32" d="M471.7,353.5H360.1c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
 				c7.2,0,13.1,5.9,13.1,13.1v311.6C484.8,347.6,478.9,353.5,471.7,353.5z"/>
 		</g>
 		<g id="Box_2_3_">
-			<path id="_x31__6_" class="st32" d="M304.5,353.5H193c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
+			<path id="_x31__6_" class="st33" d="M304.5,353.5H193c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
 				c7.2,0,13.1,5.9,13.1,13.1v311.6C317.6,347.6,311.8,353.5,304.5,353.5z"/>
 			<g>
-				<text transform="matrix(1 0 0 1 197.7493 36.4732)" class="st11 st16 st30">年間プロジェクト数</text>
+				<text transform="matrix(1 0 0 1 197.7493 36.4732)" class="st11 st29 st31">年間プロジェクト数</text>
 			</g>
 			<g id="ipad_7_">
-				<path class="st33" d="M240.6,252.5l-46.2,0c-1.6,0-2.8,1.3-2.8,2.8l0,63.4c0,1.6,1.3,2.8,2.8,2.8l46.2,0c1.6,0,2.8-1.3,2.8-2.8
+				<path class="st34" d="M240.6,252.5l-46.2,0c-1.6,0-2.8,1.3-2.8,2.8l0,63.4c0,1.6,1.3,2.8,2.8,2.8l46.2,0c1.6,0,2.8-1.3,2.8-2.8
 					l0-63.4C243.4,253.8,242.1,252.5,240.6,252.5z"/>
-				<rect x="193.9" y="258.6" class="st34" width="47.1" height="55.9"/>
-				<circle class="st35" cx="216.5" cy="317.5" r="1.4"/>
+				<rect x="193.9" y="258.6" class="st35" width="47.1" height="55.9"/>
+				<circle class="st36" cx="216.5" cy="317.5" r="1.4"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 209.9131 330.9732)" class="st11 st16 st17">iPad</text>
+				<text transform="matrix(1 0 0 1 210.4922 330.9732)" class="st11 st29 st17">iPad</text>
 			</g>
 			<g id="mac_12_">
-				<path class="st36" d="M285.3,97.8h-69.6c-0.7,0-1.4-0.6-1.4-1.4V48.4c0-0.7,0.6-1.4,1.4-1.4h69.6c0.7,0,1.4,0.6,1.4,1.4v48.1
+				<path class="st37" d="M285.3,97.8h-69.6c-0.7,0-1.4-0.6-1.4-1.4V48.4c0-0.7,0.6-1.4,1.4-1.4h69.6c0.7,0,1.4,0.6,1.4,1.4v48.1
 					C286.6,97.2,286,97.8,285.3,97.8z"/>
-				<path class="st37" d="M283.6,89.2h-66.1c-1.1,0-1.9-0.9-1.9-1.9V50.2c0-1.1,0.9-1.9,1.9-1.9h66.1c1.1,0,1.9,0.9,1.9,1.9v37.2
+				<path class="st38" d="M283.6,89.2h-66.1c-1.1,0-1.9-0.9-1.9-1.9V50.2c0-1.1,0.9-1.9,1.9-1.9h66.1c1.1,0,1.9,0.9,1.9,1.9v37.2
 					C285.5,88.4,284.6,89.2,283.6,89.2z"/>
-				<rect x="218.1" y="51.5" class="st38" width="64.2" height="33.2"/>
-				<polygon class="st39" points="259.5,97.9 243.1,97.9 238,113.5 264.6,113.5 				"/>
-				<polygon class="st36" points="286.6,133.1 214.3,133.1 218.4,120 282.5,120 				"/>
+				<rect x="218.1" y="51.5" class="st39" width="64.2" height="33.2"/>
+				<polygon class="st40" points="259.5,97.9 243.1,97.9 238,113.5 264.6,113.5 				"/>
+				<polygon class="st37" points="286.6,133.1 214.3,133.1 218.4,120 282.5,120 				"/>
 				<g id="keyboard_4_">
 					<path class="st11" d="M250.6,131.2h-25.8c-0.4,0-0.8-0.3-0.8-0.8l0,0c0-0.4,0.3-0.8,0.8-0.8h25.8c0.4,0,0.8,0.3,0.8,0.8l0,0
 						C251.3,130.9,251,131.2,250.6,131.2z"/>
@@ -782,7 +783,7 @@
 			<g id="books_10_">
 				<g>
 					
-						<rect x="218.6" y="151.5" transform="matrix(0.9917 0.1288 -0.1288 0.9917 23.4887 -28.0023)" class="st40" width="19.4" height="32.3"/>
+						<rect x="218.6" y="151.5" transform="matrix(0.9917 0.1288 -0.1288 0.9917 23.4887 -28.0023)" class="st41" width="19.4" height="32.3"/>
 					<g>
 						<path class="st11" d="M234.7,162.3l-11.2-1.5c-0.4-0.1-0.7-0.4-0.6-0.8l0,0c0.1-0.4,0.4-0.7,0.8-0.6l11.2,1.5
 							c0.4,0.1,0.7,0.4,0.6,0.8l0,0C235.4,162.1,235.1,162.4,234.7,162.3z"/>
@@ -795,7 +796,7 @@
 			</g>
 			<g id="books_9_">
 				<g>
-					<rect x="201.4" y="149.5" class="st40" width="19.4" height="32.3"/>
+					<rect x="201.4" y="149.5" class="st41" width="19.4" height="32.3"/>
 					<g>
 						<path class="st11" d="M216.8,159.6h-11.3c-0.4,0-0.7-0.3-0.7-0.7l0,0c0-0.4,0.3-0.7,0.7-0.7h11.3c0.4,0,0.7,0.3,0.7,0.7l0,0
 							C217.5,159.2,217.2,159.6,216.8,159.6z"/>
@@ -807,32 +808,32 @@
 				</g>
 			</g>
 			<g id="iphone_12_">
-				<path class="st41" d="M295.1,142.9l-24.7,0.1c-0.9,0-1.7,0.8-1.7,1.7l0.2,42c0,0.9,0.8,1.7,1.7,1.7l24.7-0.1
+				<path class="st42" d="M295.1,142.9l-24.7,0.1c-0.9,0-1.7,0.8-1.7,1.7l0.2,42c0,0.9,0.8,1.7,1.7,1.7l24.7-0.1
 					c0.9,0,1.7-0.8,1.7-1.7l-0.2-42C296.8,143.6,296.1,142.9,295.1,142.9z"/>
 				
-					<rect x="270.1" y="147" transform="matrix(1 -5.167707e-03 5.167707e-03 1 -0.8506 1.4642)" class="st42" width="25.5" height="36.7"/>
+					<rect x="270.1" y="147" transform="matrix(1 -5.167707e-03 5.167707e-03 1 -0.8506 1.4642)" class="st43" width="25.5" height="36.7"/>
 				
-					<ellipse transform="matrix(1 -5.136536e-03 5.136536e-03 1 -0.9489 1.4562)" class="st43" cx="283" cy="185.5" rx="0.7" ry="0.8"/>
+					<ellipse transform="matrix(1 -5.136536e-03 5.136536e-03 1 -0.9489 1.4562)" class="st44" cx="283" cy="185.5" rx="0.7" ry="0.8"/>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 274.0181 196.9732)" class="st11 st16 st17">スマホ</text>
+				<text transform="matrix(1 0 0 1 274.0181 196.9732)" class="st11 st29 st17">スマホ</text>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 206.4312 196.4732)" class="st11 st16 st17">パンフ</text>
+				<text transform="matrix(1 0 0 1 206.4312 196.4732)" class="st11 st29 st17">パンフ</text>
 			</g>
 			<g id="_x35_0件_1_">
 				<g>
-					<text transform="matrix(1 0 0 1 212.3054 227.4605)" class="st11 st16 st29">50</text>
+					<text transform="matrix(1 0 0 1 215.3298 227.4605)" class="st11 st29 st30">50</text>
 				</g>
 				<g>
-					<text transform="matrix(1 0 0 1 259.2654 227.4605)" class="st11 st16 st29">件</text>
+					<text transform="matrix(1 0 0 1 257.1377 227.4606)" class="st11 st29 st30">件</text>
 				</g>
 			</g>
 			<g>
-				<text transform="matrix(1 0 0 1 271.666 330.9732)" class="st11 st16 st17">サーバー</text>
+				<text transform="matrix(1 0 0 1 271.666 330.9732)" class="st11 st29 st17">サーバー</text>
 			</g>
 			<g id="サーバー">
-				<path class="st44" d="M306,321.8h-44v-67c0-1.5,1.2-2.7,2.7-2.7h38.6c1.5,0,2.7,1.2,2.7,2.7V321.8z"/>
+				<path class="st45" d="M306,321.8h-44v-67c0-1.5,1.2-2.7,2.7-2.7h38.6c1.5,0,2.7,1.2,2.7,2.7V321.8z"/>
 				<g>
 					<path class="st11" d="M299,316.1h-29.9c-0.6,0-1-0.4-1-1V312c0-0.6,0.4-1,1-1H299c0.6,0,1,0.4,1,1v3.2
 						C300,315.7,299.6,316.1,299,316.1z"/>
@@ -845,7 +846,7 @@
 			</g>
 		</g>
 		<g id="Box_1_2_">
-			<path id="_x32__8_" class="st32" d="M136.5,353.5H25c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
+			<path id="_x32__8_" class="st33" d="M136.5,353.5H25c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
 				c7.2,0,13.1,5.9,13.1,13.1v311.6C149.7,347.6,143.8,353.5,136.5,353.5z"/>
 			<g>
 				<defs>
@@ -855,7 +856,7 @@
 				<clipPath id="_x32__1_">
 					<use xlink:href="#_x32__4_"  style="overflow:visible;"/>
 				</clipPath>
-				<g class="st45">
+				<g class="st46">
 					<g>
 						<rect x="11.9" y="15.6" class="st4" width="136.2" height="111.6"/>
 						<rect x="11.9" y="132.9" class="st4" width="136.2" height="9.5"/>
@@ -870,8 +871,8 @@
 						<rect x="11.9" y="64.8" class="st28" width="136.2" height="14.7"/>
 						<rect x="11.9" y="83" class="st28" width="136.2" height="5.8"/>
 					</g>
-					<path class="st46" d="M83.5,261.8l63.6,58.4H14.5l63.6-58.4C79.6,260.3,82,260.3,83.5,261.8z"/>
-					<rect x="10.9" y="320.5" class="st47" width="138.7" height="20.6"/>
+					<path class="st47" d="M83.5,261.8l63.6,58.4H14.5l63.6-58.4C79.6,260.3,82,260.3,83.5,261.8z"/>
+					<rect x="10.9" y="320.5" class="st48" width="138.7" height="20.6"/>
 					<g>
 						<defs>
 							<path id="SVGID_15_" d="M83.5,261.8l63.6,58.4H14.5l63.6-58.4C79.6,260.3,82,260.3,83.5,261.8z"/>
@@ -879,13 +880,13 @@
 						<clipPath id="SVGID_16_">
 							<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
 						</clipPath>
-						<path class="st48" d="M53,281l-1,8.6c-0.1,1,0.8,1.8,1.8,1.6l11.5-2.7c0.5-0.1,1.1,0.1,1.5,0.5l5.2,6.6c0.5,0.6,1.3,0.7,2,0.3
+						<path class="st49" d="M53,281l-1,8.6c-0.1,1,0.8,1.8,1.8,1.6l11.5-2.7c0.5-0.1,1.1,0.1,1.5,0.5l5.2,6.6c0.5,0.6,1.3,0.7,2,0.3
 							l8.7-6.1c0.5-0.3,1.2-0.3,1.7,0l8.5,6c0.7,0.5,1.7,0.3,2.1-0.5l3.3-6.3c0.4-0.7,1.2-1,2-0.6l9.9,5.2c0.9,0.5,2-0.1,2.1-1.1
 							l1.2-9.5c0-0.4,0-0.7-0.3-1l-17.6-24.6c-0.3-0.4-0.8-0.6-1.3-0.6l-19.1,1.2c-0.3,0-0.5,0.1-0.7,0.3l-13,9
 							c-0.2,0.1-0.3,0.3-0.4,0.4l-7.8,12.8C53.1,280.6,53,280.8,53,281z"/>
 					</g>
 					<path class="st26" d="M83.5,261.8l63.6,58.4H14.5l63.6-58.4C79.6,260.3,82,260.3,83.5,261.8z"/>
-					<polygon class="st49" points="169.9,303.8 246.7,349.7 86.9,348.6 					"/>
+					<polygon class="st50" points="169.9,303.8 246.7,349.7 86.9,348.6 					"/>
 					<g id="新幹線">
 						<path class="st19" d="M65.4,345.2c7.2,0,44.2,0,44.2,0c2,0,10.7,0.9,14.6,0.3c2.4-0.3,1.3-1.6,1.1-2.7
 							c-0.9-4.1-11.9-3.6-14.6-4.6c-1.4-0.5-3-2.8-4.5-3.3c-2.2-0.7-4.2-0.4-5.2-0.4H57.7l-44.6-0.2l0.3,10.8L65.4,345.2z"/>
@@ -897,8 +898,8 @@
 							<clipPath id="SVGID_18_">
 								<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
 							</clipPath>
-							<polygon class="st50" points="117,356.2 7,356.2 7,341.1 132.5,341.1 							"/>
-							<path class="st51" d="M121.3,341H13.1c-0.2,0-0.4-0.2-0.4-0.4l0,0c0-0.2,0.2-0.4,0.4-0.4h108.2c0.2,0,0.4,0.2,0.4,0.4l0,0
+							<polygon class="st51" points="117,356.2 7,356.2 7,341.1 132.5,341.1 							"/>
+							<path class="st52" d="M121.3,341H13.1c-0.2,0-0.4-0.2-0.4-0.4l0,0c0-0.2,0.2-0.4,0.4-0.4h108.2c0.2,0,0.4,0.2,0.4,0.4l0,0
 								C121.7,340.8,121.5,341,121.3,341z"/>
 						</g>
 						<path class="st26" d="M65.4,345.2c7.2,0,44.2,0,44.2,0c3.3,0,15.9,0,15.9,0s0.7-2.7-2.4-4.6c-2.9-1.8-11.3-1.9-12.5-2.3
@@ -965,16 +966,16 @@
 					<g id="_x31_20">
 						<g>
 							<g>
-								<text transform="matrix(1 0 0 1 33.6941 229.4605)" class="st11 st16 st29">120</text>
+								<text transform="matrix(1 0 0 1 38.2302 229.4605)" class="st11 st29 st30">120</text>
 							</g>
 							<g>
-								<text transform="matrix(1 0 0 1 103.8005 229.4603)" class="st11 st16 st29">日</text>
+								<text transform="matrix(1 0 0 1 101.6729 229.4603)" class="st11 st29 st30">日</text>
 							</g>
 						</g>
 					</g>
 					<g id="schedule">
 						<g id="スケジュール_3_">
-							<rect x="59.4" y="162.1" class="st52" width="44.7" height="37.3"/>
+							<rect x="59.4" y="162.1" class="st53" width="44.7" height="37.3"/>
 							<g id="colors">
 								<rect x="60.5" y="162.5" class="st6" width="42.8" height="7.9"/>
 								<g>
@@ -984,21 +985,21 @@
 									<clipPath id="SVGID_20_">
 										<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
 									</clipPath>
-									<rect x="82.7" y="155.8" class="st53" width="25" height="14.6"/>
+									<rect x="82.7" y="155.8" class="st54" width="25" height="14.6"/>
 								</g>
 							</g>
-							<line class="st54" x1="59.7" y1="170.5" x2="104.7" y2="170.5"/>
+							<line class="st55" x1="59.7" y1="170.5" x2="104.7" y2="170.5"/>
 							<path class="st11" d="M70.9,166.5L70.9,166.5c1,0,1.8-0.8,1.8-1.8v-6.3c0-1-0.8-1.8-1.8-1.8l0,0c-1,0-1.8,0.8-1.8,1.8v6.3
 								C69,165.7,69.9,166.5,70.9,166.5z"/>
 							<path class="st11" d="M93.5,166.5L93.5,166.5c1,0,1.8-0.8,1.8-1.8v-6.3c0-1-0.8-1.8-1.8-1.8l0,0c-1,0-1.8,0.8-1.8,1.8v6.3
 								C91.7,165.7,92.5,166.5,93.5,166.5z"/>
 							<g id="boxes">
-								<rect x="66.9" y="174.4" class="st41" width="7.6" height="7.6"/>
-								<rect x="66.9" y="185.8" class="st41" width="7.6" height="7.6"/>
-								<rect x="78.5" y="174.4" class="st41" width="7.6" height="7.6"/>
-								<rect x="78.6" y="185.8" class="st41" width="7.6" height="7.6"/>
-								<rect x="90.2" y="174.4" class="st41" width="7.6" height="7.6"/>
-								<rect x="90.2" y="185.8" class="st41" width="7.6" height="7.6"/>
+								<rect x="66.9" y="174.4" class="st42" width="7.6" height="7.6"/>
+								<rect x="66.9" y="185.8" class="st42" width="7.6" height="7.6"/>
+								<rect x="78.5" y="174.4" class="st42" width="7.6" height="7.6"/>
+								<rect x="78.6" y="185.8" class="st42" width="7.6" height="7.6"/>
+								<rect x="90.2" y="174.4" class="st42" width="7.6" height="7.6"/>
+								<rect x="90.2" y="185.8" class="st42" width="7.6" height="7.6"/>
 							</g>
 						</g>
 						<g id="note">
@@ -1015,9 +1016,9 @@
 							<path class="st28" d="M116.6,163.8l2.3-0.7c0.1,0,0.1,0,0.1,0.1c0,0.4-0.3,1.5-2.1,2L116.6,163.8z"/>
 						</g>
 					</g>
-					<rect x="11.9" y="345.5" class="st55" width="136.1" height="9.2"/>
+					<rect x="11.9" y="345.5" class="st56" width="136.1" height="9.2"/>
 					<g id="社員旅行_1_">
-						<path class="st56" d="M97.5,106.3c0,0-1.5-9.6-7.2-10.7c-0.6-0.1-1.1,0.3-1.1,0.9v9.8H97.5z"/>
+						<path class="st57" d="M97.5,106.3c0,0-1.5-9.6-7.2-10.7c-0.6-0.1-1.1,0.3-1.1,0.9v9.8H97.5z"/>
 						<path class="st19" d="M57.7,104.6h43.3c1.1,0,3.1-0.3,5.2,0.4c1.5,0.5,3,2.8,4.5,3.3c2.7,0.9,4.9,1.3,4.9,4.3
 							c0,3-2.7,2.6-5.9,2.6c0,0-37,0-44.2,0c-3.3,0-15.5-10.5-15.5-10.5v-9.4H53L57.7,104.6z"/>
 						<g>
@@ -1028,13 +1029,13 @@
 							<clipPath id="SVGID_22_">
 								<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
 							</clipPath>
-							<rect x="51.7" y="111.1" class="st57" width="70.8" height="15.1"/>
-							<path class="st58" d="M115.1,111H55.8c-0.2,0-0.4-0.2-0.4-0.4l0,0c0-0.2,0.2-0.4,0.4-0.4h59.3c0.2,0,0.4,0.2,0.4,0.4l0,0
+							<rect x="51.7" y="111.1" class="st58" width="70.8" height="15.1"/>
+							<path class="st59" d="M115.1,111H55.8c-0.2,0-0.4-0.2-0.4-0.4l0,0c0-0.2,0.2-0.4,0.4-0.4h59.3c0.2,0,0.4,0.2,0.4,0.4l0,0
 								C115.6,110.8,115.4,111,115.1,111z"/>
 						</g>
 						<path class="st26" d="M57.7,104.6h43.3c1.1,0,3.1-0.3,5.2,0.4c1.5,0.5,3,2.8,4.5,3.3c2.7,0.9,4.9,1.3,4.9,4.3
 							c0,3-2.7,2.6-5.9,2.6c0,0-37,0-44.2,0c-3.3,0-15.5-10.5-15.5-10.5v-9.4H53L57.7,104.6z"/>
-						<path class="st56" d="M88,113.3h7.5c0,0-5.4,17.4-15.4,19.5c-0.9,0.2-1.6-0.8-1.2-1.6L88,113.3z"/>
+						<path class="st57" d="M88,113.3h7.5c0,0-5.4,17.4-15.4,19.5c-0.9,0.2-1.6-0.8-1.2-1.6L88,113.3z"/>
 						<path class="st11" d="M111.6,108.9H103c-0.4,0-0.8-0.3-0.8-0.8V107c0-0.4,0.3-0.8,0.8-0.8h5c0.6,0,1.2,0.5,1.2,1.1l0.7,0.4
 							C110,108.4,112.2,108.9,111.6,108.9z"/>
 						<path class="st11" d="M95.6,108.9h1.1c0.3,0,0.5-0.2,0.5-0.5v-1.6c0-0.3-0.2-0.5-0.5-0.5h-1.1c-0.3,0-0.5,0.2-0.5,0.5v1.6
@@ -1075,11 +1076,11 @@
 						</g>
 					</g>
 					<g>
-						<text transform="matrix(1 0 0 1 59.749 36.4732)" class="st11 st16 st30">年間休日</text>
+						<text transform="matrix(1 0 0 1 59.749 36.4732)" class="st11 st29 st31">年間休日</text>
 					</g>
 				</g>
 			</g>
-			<path id="_x32__6_" class="st31" d="M136.5,353.5H25c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
+			<path id="_x32__6_" class="st32" d="M136.5,353.5H25c-7.2,0-13.1-5.9-13.1-13.1V28.8c0-7.2,5.9-13.1,13.1-13.1h111.5
 				c7.2,0,13.1,5.9,13.1,13.1v311.6C149.7,347.6,143.8,353.5,136.5,353.5z"/>
 		</g>
 	</g>

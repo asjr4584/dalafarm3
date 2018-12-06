@@ -472,7 +472,7 @@ body {
 .outro__headline {
     color: #ab9566;
     display: inline-block;
-    font-size: calc(30px + 0.5vw);
+    font-size: calc(22px + 0.5vw);
     margin: 0.25em 0;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -858,8 +858,8 @@ body {
 }
 
 #callout-1 {
-	left: 15%;
-    top: 30%;
+	left: 7%;
+    top: 8%;
     z-index: 1003;
 }
 
