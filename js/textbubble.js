@@ -312,11 +312,11 @@ webpackJsonp([1], {
                     attrs: {
                         id: "callout-7"
                     }*/
-                }, [i("h2", {
+                }, [i("h2", {/*
                     staticClass: "callout__headline",
                     on: {
                         click: t.toggle
-                    }
+                    }*/
 /*実績紹介 callout-7*/
                 }, [t._v("")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
@@ -435,11 +435,11 @@ webpackJsonp([1], {
                     attrs: {
                         id: "callout-18"
                     }*/
-                }, [i("h2", {
+                }, [i("h2", {/*
                     staticClass: "callout__headline",
                     on: {
                         click: t.toggle
-                    }
+                    }*/
 /*オフィスギャラリー callout-18*/					
                 }, [t._v(" ")]), t._v(" "), t._m(20), t._v(" "), t._m(21)]), t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
@@ -567,7 +567,7 @@ webpackJsonp([1], {
                     staticClass: "intro__headline"
                 }, [e("span", {
                     staticClass: "intro__sub-headline"
-                }, [this._v("Scroll up and down to navigate")]), this._v("\n        DalaFarm\n      ")])
+                }, [this._v("上下にスクロールしてナビゲーションを移動します。")]), this._v("\n        採用サイト        \n      ")])
             }
             , function() {
                 var t = this.$createElement
