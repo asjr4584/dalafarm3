@@ -195,6 +195,21 @@
 	  to { transform: rotate(360deg); }
 	}
 
+	svg .rotateleft {
+	  animation: rotate 60s linear infinite;
+	  transform-box: fill-box;
+	  transform-origin: center;
+	  -webkit-transform-origin: center;
+       -moz-transform-origin: center;
+        -ms-transform-origin: center;
+         -o-transform-origin: center;
+	}
+
+	@keyframes rotateleft {
+	  from { transform: rotate(0deg); }
+	  to { transform: rotate(-360deg); }
+	}
+
 	/*svg .rotateOrbitRings {
 	  animation: rotate 10s linear infinite;
 	  transform-box: fill-box;
@@ -6010,8 +6025,10 @@
 			<path class="st75" d="M1901.4,659.4c-181.4,0-328.4-147-328.4-328.4"/>
 		</g>
 	</g>
+	<g id="ringinside" class="">
 	<path class="st76" d="M1708.1,331.6c0-106.8,86.6-193.4,193.4-193.4c106.8,0,193.4,86.6,193.4,193.4h11
 		c0-112.9-91.5-204.4-204.4-204.4S1697,218.7,1697,331.6H1708.1z"/>
+	</g>
 </g>
 <g id="Rope_1">
 	<g id="ROPE2">
