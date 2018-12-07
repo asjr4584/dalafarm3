@@ -465,6 +465,7 @@ body {
     margin: 0.15em 0;
     letter-spacing: 0.05em;
     text-transform: uppercase;
+	text-decoration: none;
 }
 
 .outro__links li a {
@@ -473,12 +474,14 @@ body {
     text-decoration: none;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
+	text-decoration: none;
 }
 
-.outro__links li a:hover {
+.outro__links li a:hover, .outro__links li a:visited  {
     color: #a0a19f;
     -webkit-transform: translateX(0.25em);
     transform: translateX(0.25em);
+	text-decoration: none;
 }
 
 .outro__footer {
@@ -496,7 +499,7 @@ body {
     transition: background-color 0.4s ease-in-out;
 }
 
-.outro__footer:hover {
+.outro__footer:hover, .outro__footer:visited {
     background-color: #ab9566;
 	text-decoration: none;
 }

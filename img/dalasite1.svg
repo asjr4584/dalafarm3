@@ -183,11 +183,11 @@
 	svg .rotate {
 	  animation: rotate 60s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotate {
@@ -196,28 +196,28 @@
 	}
 
 	svg .rotateleft {
-	  animation: rotate 120s linear infinite;
+	  animation: rotateleft 30s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateleft {
 	  from { transform: rotate(0deg); }
-	  to { transform: rotate(-360deg); }
+	  to { transform: rotate(-360deg); }	  
 	}
 
 	/*svg .rotateOrbitRings {
 	  animation: rotate 10s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateOrbitRings {
@@ -228,11 +228,11 @@
 	svg .rotateBlueCogs {
 	  animation: rotate 90s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateBlueCogs {
@@ -243,11 +243,11 @@
 	svg .rotateCog1 {
 	  animation: rotate 90s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateCog1 {
@@ -258,11 +258,11 @@
 	svg .rotateCog2 {
 	  animation: rotate 40s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateCog2 {
@@ -273,11 +273,11 @@
 	svg .rotateCog3 {
 	  animation: rotate 50s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateCog3 {
@@ -288,11 +288,11 @@
 	svg .rotateCog4 {
 	  animation: rotate 30s linear infinite;
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
 	}
 
 	@keyframes rotateCog4 {
@@ -301,19 +301,52 @@
 	}
 
 	svg .rotateMolecules {
-	  animation: rotate 10s linear infinite;
+	  animation: rotateMolecules 10s linear infinite;
+	  -moz-animation: animation: rotateMolecules 10s linear infinite;
+	  -webkit-animation: animation: rotateMolecules 10s linear infinite;
+	  -o-animation: animation: rotateMolecules 10s linear infinite;
+	  -ms-animation: animation: rotateMolecules 10s linear infinite;
+
 	  transform-box: fill-box;
-	  transform-origin: center;
-	  -webkit-transform-origin: center;
-       -moz-transform-origin: center;
-        -ms-transform-origin: center;
-         -o-transform-origin: center;
+	  -moz-transform-box: fill-box;
+	  -webkit-transform-box: fill-box;
+	  -o-transform-box: fill-box;
+	  -ms-transform-box: fill-box;
+
+	  transform-origin: 50% 50%;
+	  -webkit-transform-origin: 50% 50%;
+       -moz-transform-origin: 50% 50%;
+        -ms-transform-origin: 50% 50%;
+         -o-transform-origin: 50% 50%;
+
 	}
 
 	@keyframes rotateMolecules {
 	  from { transform: rotate(0deg); }
+	  to { transform: rotate(360deg); }	
+	}
+
+	@-ms-keyframes rotateMolecules {
+	  from { transform: rotate(0deg); }
 	  to { transform: rotate(360deg); }
 	}	
+
+	@-o-keyframes rotateMolecules {
+	  from { transform: rotate(0deg); }
+	  to { transform: rotate(360deg); }
+	}
+
+	@-moz-keyframes rotateMolecules {
+	  from { transform: rotate(0deg); }
+	  to { transform: rotate(360deg); }
+	}
+
+	@-webkit-keyframes rotateMolecules {
+	  from { transform: rotate(0deg); }
+	  to { transform: rotate(360deg); }
+	}
+
+
 
     ]]>
   </style>
