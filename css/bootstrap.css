@@ -1270,6 +1270,10 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+	font-size: 30px;
+    text-align: left;
+    text-align-last: left;
+    word-break: keep-all;
 }
 h3,
 .h3 {
