@@ -332,13 +332,15 @@ webpackJsonp([1], {
                 }, [t._v("キャリアステップ")]), t._v(" "), t._m(10)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
-                        id: "callout-9"
+                        id: "callout-9",						
                     }
-                }, [i("h2", {
-                    staticClass: "callout__headline",
+                }, [i("a", {
+                    staticClass: "callout__headline",					
                     on: {
-                        click: t.toggle
-                    }
+                        click: t.toggle						
+                    }, attrs: {
+                        href: "http://webdeg.jp/"
+                    }					
 /*10th.text.box.title*/
                 }, [t._v("WEBDEG")]), t._v(" "), t._m(11)]), t._v(" "), i("div", {
                     staticClass: "callout",
@@ -356,11 +358,13 @@ webpackJsonp([1], {
                     attrs: {
                         id: "callout-11"
                     }
-                }, [i("h2", {
-                    staticClass: "callout__headline",
+                }, [i("a", {
+                    staticClass: "callout__headline",					
                     on: {
-                        click: t.toggle
-                    }
+                        click: t.toggle						
+                    }, attrs: {
+                        href: "https://www.youtube.com/"
+                    }	
 /*12th.text.box.title*/
                 }, [t._v("動画")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
@@ -389,11 +393,13 @@ webpackJsonp([1], {
                     attrs: {
                         id: "callout-14"
                     }
-                }, [i("h2", {
+                }, [i("a", {
                     staticClass: "callout__headline",
                     on: {
-                        click: t.toggle
-                    }
+                        click: t.toggle						
+                    }, attrs: {
+                        href: "http://www.dalafarm.net/"
+                    }	
 /*15th.text.box.title*/
                 }, [t._v("DaLa Farm")]), t._v(" "), t._m(16)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
@@ -704,7 +710,7 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          9   \n        ")])])
             }
 			
-			// キャリアステップアップ 10
+// キャリアステップアップ 10
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -713,16 +719,16 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          社員の夢を応援する会社です。デザイナーからアートディレクターのステップアップや独立支援もおこなっています。   \n        ")])])
             }
             
-			// WEBDEG 11
+// WEBDEG 11
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          11   \n        ")])])
+                }, [e("p", [this._v("\n             \n        ")])])
             }
 
-            // 教育体制 12
+// 教育体制 12
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -731,13 +737,13 @@ webpackJsonp([1], {
                 }, [e("p", [this._v("\n          OJTで業務を進めて行きながら教育します。アットホームな環境で社員同士の距離も近いので、積極的に質問すればドンドン答えて行きます。   \n        ")])])
             }
 
-            // 動画 13
+// 動画 13
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          13   \n        ")])])
+                }, [e("p", [this._v("\n             \n        ")])])
             }
 // 社員属性① 14
             /*, function() {
@@ -786,7 +792,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [this._v("\n          16   \n        ")])])
+                }, [e("p", [this._v("\n             \n        ")])])
             }
 
 // 社員属性③ 17
