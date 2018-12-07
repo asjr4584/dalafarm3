@@ -392,7 +392,8 @@ body {
     font-weight: 700;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    margin: 0;
+    margin: 0;	
+    text-align: center;
 }
 
 .intro__footer .icon {
@@ -1122,4 +1123,8 @@ body {
     width: 100%;	
 /*temporary		
 	display:none;	*/
+}
+
+.glyphicon-resize-vertical {	
+    font-size: 60px !important;
 }

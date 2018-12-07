@@ -567,19 +567,16 @@ webpackJsonp([1], {
                     staticClass: "intro__headline"
                 }, [e("span", {
                     staticClass: "intro__sub-headline"
-                }, [this._v("上下にスクロールしてナビゲーションを移動します。")]), this._v("\n        採用サイト        \n      ")])
+                }, [this._v("CREATIVE CONSULTANT DaLaFarm Co.,Ltd")]), this._v("\n        採用サイト        \n      ")])
             }
             , function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("footer", {
                     staticClass: "intro__footer"
-                }, [e("p", [/*e("img", {
-                    staticClass: "icon",
-                    attrs: {
-                        src: i("/Mxk")
-                    }
-                }),*/ this._v("CREATIVE CONSULTANT DaLaFarm Co.,Ltd")])])
+                }, [e("p", [this._v("\n        Scroll up and down to navigate        \n      "),e("p", [this._v("\n                \n      ")]), e("span", {
+                    staticClass: "glyphicon glyphicon-resize-vertical"					 
+                })])])
             }
 
 // 代表メッセージ 2				 
@@ -1059,7 +1056,7 @@ webpackJsonp([1], {
                           , i = t(".menu");
                         e.addClass("-visible"),
                         i.removeClass("-visible")
-                    }
+                    }					
                 },
                 beforeDestroy: function() {
                     window.removeEventListener("resize", this.setDimensions)
