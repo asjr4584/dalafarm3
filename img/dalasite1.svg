@@ -302,10 +302,10 @@
 
 	svg .rotateMolecules {
 	  animation: rotateMolecules 10s linear infinite;
-	  -moz-animation: animation: rotateMolecules 10s linear infinite;
-	  -webkit-animation: animation: rotateMolecules 10s linear infinite;
-	  -o-animation: animation: rotateMolecules 10s linear infinite;
-	  -ms-animation: animation: rotateMolecules 10s linear infinite;
+	  -moz-animation: rotateMolecules 10s linear infinite;
+	  -webkit-animation: rotateMolecules 10s linear infinite;
+	  -o-animation: rotateMolecules 10s linear infinite;
+	  -ms-animation: rotateMolecules 10s linear infinite;
 
 	  transform-box: fill-box;
 	  -moz-transform-box: fill-box;
@@ -323,7 +323,7 @@
 
 	@keyframes rotateMolecules {
 	  from { transform: rotate(0deg); }
-	  to { transform: rotate(360deg); }	
+	  to { transform: rotate(360deg); }	  	
 	}
 
 	@-ms-keyframes rotateMolecules {
@@ -345,9 +345,6 @@
 	  from { transform: rotate(0deg); }
 	  to { transform: rotate(360deg); }
 	}
-
-
-
     ]]>
   </style>
 </svg>
