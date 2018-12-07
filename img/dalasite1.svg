@@ -47476,13 +47476,13 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 		<circle class="st119" cx="737.3" cy="559.2" r="6.4"/>
 		<circle class="st9" cx="702" cy="633.6" r="4.8"/>
 	</g>
-	<g id="smoke">
+	<!-- <g id="smoke">
 		<ellipse class="st1" cx="4985.1" cy="331" rx="7.7" ry="6.5"/>
 		<ellipse class="st1" cx="4989.6" cy="318.7" rx="19.4" ry="13.7"/>
 		<ellipse class="st1" cx="5005" cy="306.3" rx="9.5" ry="8.5"/>
 		<ellipse class="st1" cx="5018.7" cy="299.6" rx="4.3" ry="3.3"/>
 		<circle class="st1" cx="5026" cy="296.4" r="1.4"/>
-	</g>
+	</g> -->
 	<g id="smoke_1_">
 		
 			<ellipse transform="matrix(0.1177 -0.9931 0.9931 0.1177 2862.7229 3266.8201)" class="st1" cx="3269.8" cy="22.4" rx="3.8" ry="4.5"/>
