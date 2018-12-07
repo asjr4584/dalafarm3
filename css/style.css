@@ -383,7 +383,7 @@ body {
 }*/
 
 .intro__footer {
-    background-color: #ab9566;
+    background-color: #1d1e1e;
     padding: 1em 2em;
 }
 
@@ -1128,5 +1128,5 @@ body {
 }
 
 .glyphicon-resize-vertical {	
-    font-size: 60px !important;
+    font-size: 30px !important;
 }
