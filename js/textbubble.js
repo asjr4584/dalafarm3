@@ -928,7 +928,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "outro__footer-text"
-                }, [e("p", [this._v("Visit dalafarm.net to see all of our capabilities")])])
+                }, [e("p", [this._v("詳しく知りたい方はこちらのリンクをご覧ください。")])])
             }
             ]
         };
