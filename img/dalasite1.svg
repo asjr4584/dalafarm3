@@ -46345,14 +46345,14 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 			<circle class="st108" cx="3147.6" cy="77.3" r="4.7"/>
 		</g>
 		<g id="server_3_">
-			<path class="st108" d="M3330.6,88.1h-20c-0.8,0-1.5-0.7-1.5-1.5V58.2c0-0.8,0.7-1.5,1.5-1.5h20c0.8,0,1.5,0.7,1.5,1.5v28.5
+			<path class="st107" d="M3330.6,88.1h-20c-0.8,0-1.5-0.7-1.5-1.5V58.2c0-0.8,0.7-1.5,1.5-1.5h20c0.8,0,1.5,0.7,1.5,1.5v28.5
 				C3332.1,87.5,3331.4,88.1,3330.6,88.1z"/>
-			<rect x="3312.4" y="58.8" class="st114" width="16.7" height="2.2"/>
-			<rect x="3312.4" y="62.7" class="st114" width="16.7" height="2.2"/>
-			<rect x="3312.4" y="66.6" class="st114" width="16.7" height="2.2"/>
-			<circle class="st114" cx="3320.6" cy="72.4" r="1.8"/>
-			<circle class="st114" cx="3314.3" cy="72.4" r="1.8"/>
-			<circle class="st114" cx="3327.2" cy="72.4" r="1.8"/>
+			<rect x="3312.4" y="58.8" class="st108" width="16.7" height="2.2"/>
+			<rect x="3312.4" y="62.7" class="st108" width="16.7" height="2.2"/>
+			<rect x="3312.4" y="66.6" class="st108" width="16.7" height="2.2"/>
+			<circle class="st108" cx="3320.6" cy="72.4" r="1.8"/>
+			<circle class="st108" cx="3314.3" cy="72.4" r="1.8"/>
+			<circle class="st108" cx="3327.2" cy="72.4" r="1.8"/>
 		</g>
 		<g id="server_2_">
 			<path class="st107" d="M3133.9,88.2H3121c-0.8,0-1.4-0.6-1.4-1.4V49.7c0-0.8,0.6-1.4,1.4-1.4h12.9c0.8,0,1.4,0.6,1.4,1.4v37.2
