@@ -636,7 +636,7 @@ body {
 
 .callout__headline:hover, .callout-3-3__headline:hover {
 	/* color: #dcf4f3; */
-    color: #000000;
+    color: #ffffff;
     font-size: calc(22px + 1.6vw);
     text-decoration: none;
     /* font-size: 30px; */
@@ -799,13 +799,13 @@ body {
 }
 
 .callout.-active, .callout__headline {
-    color: #000000;	
+    color: #ffffff;	
     /* color: #4a4a4c; 
     width: inherit;*/
 }
 
 .callout-3-3.-active, .callout-3-3__headline {
-    color: #000000;	
+    color: #ffffff;	
     /* color: #4a4a4c; 
     width: 100vw;*/
 }
@@ -890,7 +890,7 @@ body {
 
 #callout-8 {
     left: 63%;
-    top: 76%;
+    top: 67%;
     z-index: 996;
 }
 
@@ -918,15 +918,15 @@ body {
     z-index: 993;
 }
 
-#callout-13 {
-    left: 74.5%;
+#callout-13 {    
+    left: 76.5%;
     top: 30%;
     z-index: 991;
 }
 
-#callout-14 {
-    left: 81.3%;
-    top: 25%;
+#callout-14 {    
+    left: 81.5%;
+    top: 24%;
     z-index: 990;
 }
 
@@ -936,9 +936,9 @@ body {
     z-index: 989;
 }
 
-#callout-16 {
-    left: 70%;
-    top: 69%;
+#callout-16 {    
+    left: 71%;
+    top: 67%;
     z-index: 988;
 }
 
