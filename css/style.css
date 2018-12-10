@@ -829,6 +829,10 @@ body {
 	width: 100vw;	
 }
 
+.callout__headline, .callout-3-3__headline  {
+    text-shadow: 2px 2px 4px #000000;
+}
+
 .callout.-active, .callout__headline {
     color: #ffffff;	
     /* color: #4a4a4c; 
