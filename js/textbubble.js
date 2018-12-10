@@ -353,20 +353,20 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*11th.text.box.title*/
-                }, [t._v("教育体制")]), t._v(" "), t._m(12)]), t._v(" "), i("div", {
+                }, [t._v("教育体制")]), t._v(" "), t._m(12)]), t._v(" "), i("div", {/*
                     staticClass: "callout",
                     attrs: {
                         id: "callout-11"
-                    }
-                }, [i("a", {
+                    }*/
+                }, [i("h2", {/*
                     staticClass: "callout__headline",					
                     on: {
                         click: t.toggle						
                     }, attrs: {
                         href: "https://www.youtube.com/"
-                    }	
-/*12th.text.box.title*/
-                }, [t._v("動画")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
+                    }*/	
+/* 動画 callout-11 *12th.text.box.title*/
+                }, [t._v("")]), t._v(" "), t._m(13)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-12"

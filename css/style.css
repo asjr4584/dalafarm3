@@ -911,11 +911,11 @@ body {
     z-index: 994;
 }
 
-#callout-11 {
+/*#callout-11 {
     left: 72.5%;
     top: 41%;
     z-index: 992;
-}
+}*/
 
 #callout-12 {    
     left: 71%;
@@ -926,7 +926,7 @@ body {
 #callout-13 {    
     left: 76.5%;
     top: 30%;
-    z-index: 996;
+    z-index: 991;
 }
 
 #callout-14 {    
