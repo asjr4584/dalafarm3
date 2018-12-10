@@ -20,11 +20,32 @@
 		<link rel="shortcut icon" type="image/png" href="static/images/favicon.ico">		
 		<link href="css/style.css" rel="stylesheet">
 		<link href="css/bootstrap.css" rel="stylesheet">
-        		
+        
+
+
 	</head>
 	
-	<body>
-    	<div id="app"></div>
+	<body onload="myFunction()" style="margin:0;">
+
+		<!-- ADDED LOADER FEATURE -->
+		<div id="loader"></div>
+		<div id="app"></div>
+
+		<script>
+		var myVar;
+
+		function myFunction() {
+		    myVar = setTimeout(showPage, 3000);
+		}
+
+		function showPage() {
+		  document.getElementById("loader").style.display = "none";
+		  document.getElementById("app").style.display = "block";
+		}
+		</script>
+		<!-- LOADER END CODE -->
+
+    	
 		<script type="text/javascript" src="js/jquery-3.3.1.min.js" async></script>
 		<script type="text/javascript" src="js/bootstrap.min.js" async></script>        
 		<script type="text/javascript" src="js/manifest.min.js"></script>
