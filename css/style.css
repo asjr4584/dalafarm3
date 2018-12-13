@@ -392,6 +392,7 @@ body {
     font-size: calc(8px + 0.2vw);
     font-weight: 700;
     letter-spacing: 0.2em;
+    line-height: 4.7em;
     text-transform: uppercase;
     margin: 0;	
     text-align: center;
@@ -494,7 +495,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    padding: 5em 2em;
+    padding: 2em 2em;
     text-decoration: none;
     -webkit-transition: background-color 0.4s ease-in-out;
     transition: background-color 0.4s ease-in-out;
