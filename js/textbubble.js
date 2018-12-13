@@ -226,7 +226,7 @@ webpackJsonp([1], {
                     staticClass: "intro__top"
                 }, [t._m(0), t._v(" "), i("div", {
                     staticClass: "intro__body"
-                }, [i("p", [t._v("\n          Design the essence CreativeSolution        \n        ")]), t._v(" "), i("p", [t._v("\n          みえないもの。感じるもの。     \n        ")]), t._v(" "), i("p", [t._v("\n          私たちは本質を目的に合わせて、デザインというカタチで表現することで関わる多くの皆様へ感動を与え続けることを使命だと感じています。       \n        ")]), t._v(" "),i("p", [t._v("\n          「みえないもの」を「感じるもの」にするCreativeSolutionをご提案します。       \n        ")]), t._v(" "), 
+                }, [i("p", [t._v("\n          Design the essence. Creative Solution        \n        ")]), t._v(" "), i("p", [t._v("\n          みえないもの。感じるもの。     \n        ")]), t._v(" "), i("p", [t._v("\n          私たちは本質を目的に合わせて、デザインというカタチで表現することで関わる多くの皆様へ感動を与え続けることを使命だと感じています。       \n        ")]), t._v(" "),i("p", [t._v("\n          「みえないもの」を「感じるもの」にするCreative Solutionをご提案します。       \n        ")]), t._v(" "), 
 /*remove original follow the thread*/					
 					/*i("button", {
 
@@ -580,7 +580,7 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("footer", {
                     staticClass: "intro__footer"
-                }, [e("p", [this._v("\n        Scroll up and down to navigate        \n      "),e("p", [this._v("\n                \n      ")]), e("span", {
+                }, [e("p", [this._v("\n        ナビゲートするために上下にスクロールしてください。        \n      "),e("p", [this._v("\n                \n      ")]), e("span", {
                     staticClass: "glyphicon glyphicon-resize-vertical"					 
                 })])])
             }
