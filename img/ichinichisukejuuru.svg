@@ -3,71 +3,73 @@
 <svg version="1.1" id="Main_Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 550 124.6" style="enable-background:new 0 0 550 124.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.9;fill:#FFFFFF;stroke:#010B1D;stroke-width:2;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#3E3A39;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;stroke:#3E3A39;stroke-width:3.6298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill:#3E3A39;}
-	.st4{font-family:'NewRodinPro-DB-83pv-RKSJ-H';}
-	.st5{font-size:11px;}
-	.st6{font-family:'NewRodinPro-M-83pv-RKSJ-H';}
-	.st7{font-size:12px;}
-	.st8{font-size:9px;}
-	.st9{font-size:10px;}
+	.st0{fill:#E6DBB6;stroke:#3E3A39;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#E6DBB6;stroke:#3E3A39;stroke-width:3.6298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#3E3A39;}
+	.st3{font-family:'NewRodinPro-DB-83pv-RKSJ-H';}
+	.st4{font-size:11px;}
+	.st5{font-family:'NewRodinPro-M-83pv-RKSJ-H';}
+	.st6{font-size:12px;}
+	.st7{font-size:9px;}
+	.st8{font-size:10px;}
 </style>
-<g>
-	<path class="st0" d="M550,114.6c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0h530c5.5,0,10,4.5,10,10V114.6z"/>
-	<g id="Boxes">
-		<polygon class="st1" points="75.6,29.2 74.8,29.2 18.9,29.2 18.9,112.2 74.8,112.2 75.6,112.2 131.9,112.2 131.9,29.2 		"/>
-		<rect x="130.7" y="29.1" class="st2" width="56.6" height="83.3"/>
-		<polygon class="st1" points="243.1,29.2 242.3,29.2 186.9,29.2 186.9,112.2 242.3,112.2 243.1,112.2 298.9,112.2 298.9,29.2 		"/>
-		<rect x="298.1" y="29.1" class="st2" width="56.6" height="83.3"/>
-		<polygon class="st1" points="410.6,29.2 409.8,29.2 353.9,29.2 353.9,112.2 409.8,112.2 410.6,112.2 466.9,112.2 466.9,29.2 		"/>
-		<rect x="465.6" y="29.1" class="st2" width="56.6" height="83.3"/>
-	</g>
-	<g id="Time_Schedule">
-		<g>
+<g id="Sample_PopUp">
+	<g>
+		<g id="Boxes">
+			<polygon class="st0" points="75.6,29.2 74.8,29.2 18.9,29.2 18.9,112.2 74.8,112.2 75.6,112.2 131.9,112.2 131.9,29.2 			"/>
+			<rect x="130.7" y="29.1" class="st1" width="56.6" height="83.3"/>
+			<polygon class="st0" points="243.1,29.2 242.3,29.2 186.9,29.2 186.9,112.2 242.3,112.2 243.1,112.2 298.9,112.2 298.9,29.2 			
+				"/>
+			<rect x="298.1" y="29.1" class="st1" width="56.6" height="83.3"/>
+			<polygon class="st0" points="410.6,29.2 409.8,29.2 353.9,29.2 353.9,112.2 409.8,112.2 410.6,112.2 466.9,112.2 466.9,29.2 			
+				"/>
+			<rect x="465.6" y="29.1" class="st1" width="56.6" height="83.3"/>
+		</g>
+		<g id="Time_Schedule">
 			<g>
-				<text transform="matrix(1 0 0 1 0.4644 21.0703)" class="st3 st4 st5">10:00</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 111.5474 21.0708)" class="st3 st4 st5">12:00</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 168.0479 21.0708)" class="st3 st4 st5">13:00</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 279.3809 21.0708)" class="st3 st4 st5">15:00</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 335.3809 21.0708)" class="st3 st4 st5">16:00</text>
-			</g>
-			<g id="_x31_8:00_9_">
-				<text transform="matrix(1 0 0 1 446.8809 21.0713)" class="st3 st4 st5">18:00</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 503.2139 21.0708)" class="st3 st4 st5">19:00</text>
+				<g>
+					<text transform="matrix(1 0 0 1 0.4643 21.0703)" class="st2 st3 st4">10:00</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 111.5473 21.0708)" class="st2 st3 st4">12:00</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 168.0478 21.0708)" class="st2 st3 st4">13:00</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 279.3808 21.0708)" class="st2 st3 st4">15:00</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 335.3808 21.0708)" class="st2 st3 st4">16:00</text>
+				</g>
+				<g id="_x31_8:00_9_">
+					<text transform="matrix(1 0 0 1 446.8808 21.0713)" class="st2 st3 st4">18:00</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 503.2138 21.0708)" class="st2 st3 st4">19:00</text>
+				</g>
 			</g>
 		</g>
-	</g>
-	<g id="Texts">
-		<g>
+		<g id="Texts">
 			<g>
-				<text transform="matrix(1 0 0 1 45.4175 64.728)"><tspan x="0" y="0" class="st3 st6 st7">メール確認</tspan><tspan x="18" y="21" class="st3 st6 st7">庶務</tspan></text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 146.9678 70.7329)" class="st3 st6 st7">昼食</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 203.7178 70.7417)" class="st3 st6 st7">デザイン制作</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 371.7178 70.729)" class="st3 st6 st7">デザイン制作</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 304.0289 70.7422)" class="st3 st6 st8">打ち合わせ</text>
-			</g>
-			<g>
-				<text transform="matrix(1 0 0 1 468.6075 65.7417)"><tspan x="0" y="0" class="st3 st6 st9">メール確認</tspan><tspan x="15" y="17.5" class="st3 st6 st9">庶務</tspan></text>
+				<g>
+					<text transform="matrix(1 0 0 1 45.4174 64.728)"><tspan x="0" y="0" class="st2 st5 st6">メール確認</tspan><tspan x="18" y="21" class="st2 st5 st6">庶務</tspan></text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 146.9677 70.7329)" class="st2 st5 st6">昼食</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 203.7177 70.7417)" class="st2 st5 st6">デザイン制作</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 371.7177 70.729)" class="st2 st5 st6">デザイン制作</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 304.0288 70.7422)" class="st2 st5 st7">打ち合わせ</text>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 468.6074 65.7417)"><tspan x="0" y="0" class="st2 st5 st8">メール確認</tspan><tspan x="15" y="17.5" class="st2 st5 st8">庶務</tspan></text>
+				</g>
 			</g>
 		</g>
 	</g>
