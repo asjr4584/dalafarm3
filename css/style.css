@@ -639,7 +639,7 @@ body {
 .callout__headline:hover, .callout-3-3__headline:hover {
 	/* color: #dcf4f3; */
     color: #ffffff;
-    font-size: calc(22px + 1.6vw);
+    /*font-size: calc(22px + 1.6vw);*/
     text-decoration: none;
     /* font-size: 30px; */
     text-align: left;
@@ -670,7 +670,7 @@ body {
 
 .callout__body.-visible, .callout-3-3__body.-visible {
 	opacity: 1;
-    margin-top: 1em;
+    /*margin-top: 1em;*/
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     display: block;
@@ -801,7 +801,7 @@ body {
 }
 
 .callout__headline, .callout-3-3__headline  {
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
 .callout.-active, .callout__headline {
@@ -878,7 +878,7 @@ body {
 
 #callout-5 {
     left: 56.9%;
-    top: 35%;
+    top: 34%;
     z-index: 999;
 }
 
