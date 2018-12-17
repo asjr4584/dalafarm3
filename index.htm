@@ -20,25 +20,236 @@
 		<link rel="shortcut icon" type="image/png" href="static/images/favicon.ico">		
 		<link href="css/style.css" rel="stylesheet">
 		<link href="css/bootstrap.css" rel="stylesheet">
+        <!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         
-		<script type="text/javascript">
-		  window.addEventListener("load", function() {
-			var svgObject = document.getElementById('svg-object').contentDocument;
-			var svg = svgObject.getElementById('Main_Layer');
-			console.log(svg);
-		  });
-		</script>
-
-
 	</head>
 	
 	<body>
     	<div id="app"></div>
-		<script type="text/javascript" src="js/jquery-3.3.1.min.js" async></script>
-		<script type="text/javascript" src="js/bootstrap.js" async></script>        
+        
+        
+		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.js"></script>
+        <!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script type="text/javascript" src="js/manifest.min.js"></script>
 		<script type="text/javascript" src="js/vendor.min.js"></script>
-        <script type="text/javascript" src="js/textbubble.js" async></script>		
+        <script type="text/javascript" src="js/textbubble.js"></script>		
 		<!--script type="text/javascript" src="js/npm.js"></script-->
+        
+        <script type="text/javascript">
+		
+			// ADDED
+			$(document).ready(function(){
+			  $(".content").on("click", function(e){
+			        if(e.target !== e.currentTarget) return;
+
+					// callout-1
+			        var callout1 = $("#callout-1");
+			        if (callout1.hasClass("-active")) {
+			        	callout1.removeClass("-active");
+
+			        	var s = callout1.find(".callout__body");
+			        	var a = callout1.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+
+			        // callout-2
+			        var callout2 = $("#callout-2");
+			        if (callout2.hasClass("-active")) {
+			        	callout2.removeClass("-active");
+
+			        	var s = callout2.find(".callout__body");
+			        	var a = callout2.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+
+			        // callout-3
+			        var callout3 = $("#callout-3");
+			        if (callout3.hasClass("-active")) {
+			        	callout3.removeClass("-active");
+
+			        	var s = callout3.find(".callout-3-3__body");
+			        	var a = callout3.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+
+			        // callout-4
+			        var callout4 = $("#callout-4");
+			        if (callout4.hasClass("-active")) {
+			        	callout4.removeClass("-active");
+
+			        	var s = callout4.find(".callout__body");
+			        	var a = callout4.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+
+
+			        // callout-5
+			        var callout5 = $("#callout-5");
+			        if (callout5.hasClass("-active")) {
+			        	callout5.removeClass("-active");
+
+			        	var s = callout5.find(".callout__body");
+			        	var a = callout5.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+
+
+			        // callout-6
+			        var callout6 = $("#callout-6");
+			        if (callout6.hasClass("-active")) {
+			        	callout6.removeClass("-active");
+
+			        	var s = callout6.find(".callout__body");
+			        	var a = callout6.find(".callout__aside");
+						var i;
+
+			        	a.removeClass("-visible");
+			        	s.removeClass("-visible").closest(i).removeClass("-active");
+			        }
+					
+					// callout-8
+					var callout8 = $("#callout-8");
+					if (callout8.hasClass("-active")) {
+						callout8.removeClass("-active");
+						
+						var s = callout8.find(".callout__body");
+						var a = callout8.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					// callout-9
+					var callout9 = $("#callout-9");
+					if (callout9.hasClass("-active")) {
+						callout9.removeClass("-active");
+						
+						var s = callout9.find(".callout__body");
+						var a = callout9.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					// callout-10
+					var callout10 = $("#callout-10");
+					if (callout10.hasClass("-active")) {
+						callout10.removeClass("-active");
+						
+						var s = callout10.find(".callout__body");
+						var a = callout10.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					
+					// callout-12
+					var callout12 = $("#callout-12");
+					if (callout12.hasClass("-active")) {
+						callout12.removeClass("-active");
+						
+						var s = callout12.find(".callout__body");
+						var a = callout12.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					
+					//callout-13
+					var callout13 = $("#callout-13");
+					if (callout13.hasClass("-active")) {
+						callout13.removeClass("-active");
+						
+						var s = callout13.find(".callout__body");
+						var a = callout13.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					
+					//callout-14
+					var callout14 = $("#callout-14");
+					if (callout14.hasClass("-active")) {
+						callout14.removeClass("-active");
+						
+						var s = callout14.find(".callout__body");
+						var a = callout14.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					//callout-15
+					var callout15 = $("#callout-15");
+					if (callout15.hasClass("-active")) {
+						callout15.removeClass("-active");
+						
+						var s = callout15.find(".callout__body");
+						var a = callout15.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					
+					//callout-16
+					var callout16 = $("#callout-16");
+					if (callout16.hasClass("-active")) {
+						callout16.removeClass("-active");
+						
+						var s = callout16.find(".callout__body");
+						var a = callout16.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+					//callout-17
+					var callout17 = $("#callout-17");
+					if (callout17.hasClass("-active")) {
+						callout17.removeClass("-active");
+						
+						var s = callout17.find(".callout__body");
+						var a = callout17.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+					
+				});
+
+			});
+
+    	</script>	
 	</body>
 </html>

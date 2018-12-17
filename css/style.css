@@ -871,14 +871,14 @@ body {
 }
 
 #callout-4 {
-    left: 53%;
+    left: 51%;
     top: 7%;
     z-index: 1000;
 }
 
 #callout-5 {
     left: 56.9%;
-    top: 34%;
+    top: 30%;
     z-index: 999;
 }
 
@@ -895,8 +895,8 @@ body {
 }*/
 
 #callout-8 {
-    left: 78%;
-    top: 56%;
+    left: 79%;
+    top: 70%;
     z-index: 991;
 }
 
@@ -907,8 +907,8 @@ body {
 }
 
 #callout-10 {
-    left: 68%;
-    top: 55%;
+    left: 69.3%;
+    top: 44%;
     z-index: 994;
 }
 
@@ -944,7 +944,7 @@ body {
 
 #callout-16 {    
     left: 72.8%;
-    top: 60%;
+    top: 72%;
     z-index: 988;
 }
 
