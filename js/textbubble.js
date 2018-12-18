@@ -25,6 +25,9 @@ webpackJsonp([1], {
 	"/ich": function(t, e, i) {
         t.exports = i.p + "img/ichinichisukejuuru.svg"
     },
+	"/rth": function(t, e, i) {
+        t.exports = i.p + "img/earth.svg"
+    },
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
@@ -307,18 +310,19 @@ webpackJsonp([1], {
                         click: t.toggle
                     }
 /*7th.text.box.title*/
-                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {/*
+                }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-7"
-                    }*/
-                }, [i("h2", {/*
-                    staticClass: "callout__headline",
-                    on: {
-                        click: t.toggle
-                    }*/
+                    }
+                }, [i("img", {
+                    staticClass: "icon",
+                    attrs: {
+                        src: i("/rth"),
+						id: "el23"		
+                    }
 /*実績紹介 callout-7*/
-                }, [t._v("")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+                }, [t._v("testing image")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
@@ -452,12 +456,12 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-1"
                     }
-                }, [t._v("\n      理念を中心に創造しよう！\n    ")])/*, t._v(" "), i("div", {
+                }, [t._v("\n      理念を中心に創造しよう！\n    ")]),/* t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-2"
                     }
-                }, [t._v('\n      テキスト3\n    ')]), t._v(" "), i("div", {
+                }, [t._v('\n      テキスト3\n    ')]),, t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-3"
@@ -685,7 +689,7 @@ webpackJsonp([1], {
                     }
                 })])])
             }				  
-// 一日のスケジュール例 8
+// 一日のスケジュール例 8 /ich
             /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -698,10 +702,11 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [e("img", {
-                    staticClass: "icon",
+                }, [e("p", [e("img", {                    
+					staticClass: "icon",
                     attrs: {
-                        src: i("/ich")
+                        src: i("/ich"),
+						/*id: "el23"*/
                     }
                 })])])
             }				  
