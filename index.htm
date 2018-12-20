@@ -86,7 +86,7 @@
 			$(document).ready(function(){
 			  $(".content").on("click", function(e){
 			        if(e.target !== e.currentTarget) return;
-
+				  				  
 					// callout-1
 			        var callout1 = $("#callout-1");
 			        if (callout1.hasClass("-active")) {
@@ -155,17 +155,20 @@
 
 
 			        // callout-6
-			        var callout6 = $("#callout-6");
-			        if (callout6.hasClass("-active")) {
-			        	callout6.removeClass("-active");
+			        var callout6 = $("#callout-6");				  
+				  	if (callout6.hasClass("-active")) {
+						
+							callout6.removeClass("-active");
 
-			        	var s = callout6.find(".callout__body");
-			        	var a = callout6.find(".callout__aside");
-						var i;
+							var s = callout6.find(".callout__body");
+							var a = callout6.find(".callout__aside");
+							var i;
 
-			        	a.removeClass("-visible");
-			        	s.removeClass("-visible").closest(i).removeClass("-active");
-			        }
+							a.removeClass("-visible");
+							s.removeClass("-visible").closest(i).removeClass("-active");						
+
+					}					   
+			        
 					
 					// callout-8
 					var callout8 = $("#callout-8");
@@ -286,12 +289,10 @@
 						
 						a.removeClass("-visible");
 						s.removeClass("-visible").closest(i).removeClass("-active");
-					}
-					
+					}				  
 				});
-
-			});
-
+				
+			  });
     	</script>
 		
 		<script type="text/javascript">
@@ -451,7 +452,7 @@
 					if (isEdge !== null && typeof isEdge !== "undefined" && vendorName !== "Google Inc." && isChrome === false && isfirefox === false){
 
 						// This is Microsoft Edge				
-						var elem = document.getElementById( 'el2' );
+						var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
 						elem.classList.add('notransition'); // Add class
 
 						window.alert('Microsoft Edge');
@@ -475,13 +476,17 @@
 						//elem.classList.remove('icon'); // Add class
 						//elem.classList.add('rotate'); // Add class
 						
+						var elem = document.getElementById( 'el23' );
+						elem.classList.add('resizeChrome'); // Add class
+						var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
+						
 						var deg = 0;
 						window.setInterval(function() {
 							deg += 1;
 							$("#el23").css('-webkit-transform','rotate(' + deg + 'deg)');
 						}, 25);
 
-						alert("Google Chrome");	
+						alert("Google Chrome");
 
 					}
 
@@ -496,9 +501,19 @@
 
 					if (isfirefox !== null && isChrome === false && isEdge === false ) {			
 
+						//var elem = document.getElementById( 'el23' );
+						//elem.classList.remove('icon'); // Add class
+						//elem.classList.add('rotate'); // Add class
+						
 						var elem = document.getElementById( 'el23' );
-						elem.classList.remove('icon'); // Add class
-						elem.classList.add('rotate'); // Add class
+						elem.classList.add('resizeChrome'); // Add class
+						var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
+						
+						var deg = 0;
+						window.setInterval(function() {
+							deg += 1;
+							$("#el23").css('-webkit-transform','rotate(' + deg + 'deg)');
+						}, 25);
 
 						alert("Firefox");
 

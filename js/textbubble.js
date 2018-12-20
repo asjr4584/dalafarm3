@@ -24,10 +24,7 @@ webpackJsonp([1], {
     },
 	"/ich": function(t, e, i) {
         t.exports = i.p + "img/ichinichisukejuuru.svg"
-    },
-	"/rth": function(t, e, i) {
-        t.exports = i.p + "img/earth.svg"
-    },
+    },	
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
@@ -315,14 +312,14 @@ webpackJsonp([1], {
                     attrs: {
                         id: "callout-7"
                     }
-                }, [i("img", {
-                    staticClass: "icon",
-                    attrs: {
-                        src: i("/rth"),
-						id: "el23"		
-                    }
+                }, [i("p", [i("img", {
+					staticClass: "icon",
+						attrs: {
+							/*src: i(""),*/
+							id: "el23"		
+						}
 /*実績紹介 callout-7*/
-                }, [t._v("testing image")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+				})]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
