@@ -26,9 +26,7 @@
 	</head>
 	
 	<body>
-    	<div id="app"></div>
-        
-        
+		<div id="app"></div>		
 		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.js"></script>
         <!-- Latest compiled and minified JavaScript -->
@@ -38,13 +36,14 @@
         <script type="text/javascript" src="js/textbubble.js"></script>		
 		<!--script type="text/javascript" src="js/npm.js"></script-->
         
-        <script type="text/javascript">
-		
-			// ADDED
+        <script type="text/javascript">		
+// Clicking the document closes the pop up
 			$(document).ready(function(){
+				
+				
 			  $(".content").on("click", function(e){
 			        if(e.target !== e.currentTarget) return;
-
+				  				  
 					// callout-1
 			        var callout1 = $("#callout-1");
 			        if (callout1.hasClass("-active")) {
@@ -113,17 +112,20 @@
 
 
 			        // callout-6
-			        var callout6 = $("#callout-6");
-			        if (callout6.hasClass("-active")) {
-			        	callout6.removeClass("-active");
+			        var callout6 = $("#callout-6");				  
+				  	if (callout6.hasClass("-active")) {
+						
+							callout6.removeClass("-active");
 
-			        	var s = callout6.find(".callout__body");
-			        	var a = callout6.find(".callout__aside");
-						var i;
+							var s = callout6.find(".callout__body");
+							var a = callout6.find(".callout__aside");
+							var i;
 
-			        	a.removeClass("-visible");
-			        	s.removeClass("-visible").closest(i).removeClass("-active");
-			        }
+							a.removeClass("-visible");
+							s.removeClass("-visible").closest(i).removeClass("-active");						
+
+					}					   
+			        
 					
 					// callout-8
 					var callout8 = $("#callout-8");
@@ -244,12 +246,31 @@
 						
 						a.removeClass("-visible");
 						s.removeClass("-visible").closest(i).removeClass("-active");
-					}
-					
+					}				  
 				});
 
-			});
+//Clicking an earth.svg object will close the pop up
+/* If an event gets to the body
+				$("body").click(function(){				  	
+					//callout-2
+					var mycallout2 = $("#callout-2");
+					if (mycallout2.hasClass("-active")){
+						mycallout2.removeClass("-active");
+						
+						var s = mycallout2.find(".callout__body");
+						var a = mycallout2.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+					}
+				});
+// Prevent events from getting pass .popup
+				$("#callout-2").click(function(e){
+				  e.stopPropagation();
+				});*/
 
-    	</script>	
+			  });
+    	</script>
 	</body>
 </html>

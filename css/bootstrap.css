@@ -1087,7 +1087,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #003366;
+  background-color: #205A99;
 }
 input,
 button,
@@ -1134,7 +1134,8 @@ img {
   height: auto;
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #205A99;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all .2s ease-in-out;
@@ -1378,6 +1379,7 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
+  /*color: #205A99;*/	
   background-color: #337ab7;
 }
 a.bg-primary:hover,
@@ -2297,7 +2299,8 @@ th {
   border-top: 2px solid #ddd;
 }
 .table .table {
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #205A99;	
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -2559,7 +2562,8 @@ output {
   font-size: 14px;
   line-height: 1.42857143;
   color: #555;
-  background-color: #fff;
+  /*background-color: #fff;*/
+	background-color: #205A99;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;

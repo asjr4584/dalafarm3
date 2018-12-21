@@ -1,9 +1,4 @@
 webpackJsonp([1], {
-/*scroll down icon img/icon-scroll.7719c43.svg*/	
-    "/Mxk": function(t, e, i) {
-        t.exports = i.p + ""
-		/*t.exports = i.p + "img/icon-scroll.7719c43.svg"*/
-    },
     "/wer": function(t, e, i) {
         t.exports = i.p + "img/shigotonaiyou.svg"
     },
@@ -24,7 +19,7 @@ webpackJsonp([1], {
     },
 	"/ich": function(t, e, i) {
         t.exports = i.p + "img/ichinichisukejuuru.svg"
-    },
+    },	
 /*scroll down icon*/		
     NHnr: function(t, e, i) {
         "use strict";
@@ -306,19 +301,20 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle
                     }
-/*7th.text.box.title*/
+/*7th.text.box.title this was used to display an external SVG file*/
                 }, [t._v("一日のスケジュール例")]), t._v(" "), t._m(8)]), t._v(" "), i("div", {/*
                     staticClass: "callout",
                     attrs: {
                         id: "callout-7"
                     }*/
-                }, [i("h2", {/*
-                    staticClass: "callout__headline",
-                    on: {
-                        click: t.toggle
-                    }*/
+                }, [i("p", [i("img", {/*
+					staticClass: "icon",
+						attrs: {
+							/*src: i(""),
+							id: "el23"		
+						}*/
 /*実績紹介 callout-7*/
-                }, [t._v("")]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
+				})]), t._v(" "), t._m(9)]), t._v(" "), i("div", {
                     staticClass: "callout",
                     attrs: {
                         id: "callout-8"
@@ -452,12 +448,12 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-1"
                     }
-                }, [t._v("\n      理念を中心に創造しよう！\n    ")])/*, t._v(" "), i("div", {
+                }, [t._v("\n      理念を中心に創造しよう！\n    ")]),/* t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-2"
                     }
-                }, [t._v('\n      テキスト3\n    ')]), t._v(" "), i("div", {
+                }, [t._v('\n      テキスト3\n    ')]),, t._v(" "), i("div", {
                     staticClass: "bubble bubble--bottom-left",
                     attrs: {
                         id: "bubble-3"
@@ -507,18 +503,33 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-12"
                     }
-                }, [t._v("\n      Testing Bubble-12.\n    ")])*/]), t._v(" "), i("div", {
-                    staticClass: "wayback",
+                }, [t._v("\n      Testing Bubble-12.\n    ")])*/]), t._v(" "), i("object", {
+                    staticClass: "bglayer3",
+					attrs: {
+                        id: "dalasite3",
+						type: "image/svg+xml",
+						data: "img/dalasite3.svg",						
+                    },
                     style: {
                         width: t.imageWidth + "px"
                     }
-                }), t._v(" "), i("div", {
-                    staticClass: "background",
+                }), t._v(" "), i("object", {
+                    staticClass: "bglayer2",
+					attrs: {
+                        id: "dalasite2",
+						type: "image/svg+xml",
+						data: "img/dalasite2.svg"
+                    },
                     style: {
                         width: t.imageWidth + "px"
                     }
-                }), t._v(" "), i("div", {
-                    staticClass: "foreground",
+                }), t._v(" "), i("object", {
+                    staticClass: "bglayer1",
+					attrs: {
+                        id: "dalasite1",
+						type: "image/svg+xml",
+						data: "img/dalasite1.svg",						
+                    },
                     style: {
                         width: t.imageWidth + "px"
                     }
@@ -656,9 +667,9 @@ webpackJsonp([1], {
             //     }, [e("p", [e("img", {
             //         staticClass: "icon",
             //         attrs: {
-            //             src: i("/Mxk")
+            //             src: i("/xxx")
             //         }
-            //     }), this._v(" Scroll up and down to navigate")])])
+            //     }), this._v(" Scroll...")])])
             // }
 
             // 社員旅行 6       
@@ -690,7 +701,7 @@ webpackJsonp([1], {
                     }
                 })])])
             }				  
-// 一日のスケジュール例 8
+// 一日のスケジュール例 8 /ich
             /*, function() {
                 var t = this.$createElement
                   , e = this._self._c || t;
@@ -703,10 +714,10 @@ webpackJsonp([1], {
                   , e = this._self._c || t;
                 return e("div", {
                     staticClass: "callout__body"
-                }, [e("p", [e("img", {
-                    staticClass: "icon",
+                }, [e("p", [e("img", {                    
+					staticClass: "icon",
                     attrs: {
-                        src: i("/ich")
+                        src: i("/ich"),						
                     }
                 })])])
             }				  
@@ -1030,15 +1041,15 @@ webpackJsonp([1], {
                             x: "-" + this.imageWidth + "px",
                             force3D: !0,
                             ease: this.$gsap.Linear.easeNone
-                        }, "start").to(".wayback", 1.08, {
+                        }, "start").to(".bglayer3", 1.08, {
                             x: "-" + this.imageWidth + "px",
                             force3D: !0,
                             ease: this.$gsap.Linear.easeNone
-                        }, "start").to(".background", 1, {
+                        }, "start").to(".bglayer2", 1, {
                             x: "-" + this.imageWidth + "px",
                             force3D: !0,
                             ease: this.$gsap.Linear.easeNone
-                        }, "start").to(".foreground", 1.04, {
+                        }, "start").to(".bglayer1", 1.04, {
                             x: "-" + this.imageWidth + "px",
                             force3D: !0,
                             ease: this.$gsap.Linear.easeNone
