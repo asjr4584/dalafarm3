@@ -672,14 +672,11 @@ body { /*body background color of webpage*/
 
 .callout__body.-visible, .callout-3-3__body.-visible {
 	opacity: 1;
-<<<<<<< HEAD
     margin-top: 1em;
     margin-bottom: -2em;
-=======
 	display: block;
 /*cleaning the code*/		
     /*margin-top: 1em;
->>>>>>> develop-allan3(testing_svg_rotation)
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;*/    
 }
