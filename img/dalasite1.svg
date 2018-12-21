@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--?xml-stylesheet type="text/css" href="css/style.css" ?-->   
 <!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Main_Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
 	viewBox="0 0 6738.7 688.3" style="enable-background:new 0 0 6738.7 688.3;" xml:space="preserve">
@@ -47207,7 +47208,7 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 			C2092.2,328.9,2081.3,318.1,2081.3,304.6"/>
 		<path class="st14" d="M2062.8,349.5h31.9c7.3,0,13.3-5.4,13.3-12v-65.8c0-6.6-6-12-13.3-12h-31.9V349.5z"/>
 	</g>
-	<!--g id="Earth" class="rotate">
+	<g id="Earth" class="rotate">
 		<path class="st152" d="M2087.9,331c0,103-83.5,186.5-186.5,186.5c-103,0-186.5-83.5-186.5-186.5s83.5-186.5,186.5-186.5
 			C2004.4,144.5,2087.9,228,2087.9,331"/>
 		<path class="st135" d="M2085.3,331c0,101.6-82.3,183.9-183.9,183.9c-101.6,0-183.9-82.3-183.9-183.9
@@ -47275,7 +47276,7 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 				</g>
 			</g>
 		</g>
-	</g-->	
+	</g>	
 	<g id="server_platform">
 		<g id="server_4_">
 			<path class="st111" d="M1682.8,414.5h-33.9c-0.7,0-1.3-0.6-1.3-1.3V374c0-0.7,0.6-1.3,1.3-1.3h33.9c0.7,0,1.3,0.6,1.3,1.3v39.2
@@ -47608,26 +47609,26 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 		
 			if (/MSIE 10/i.test(navigator.userAgent)) {
 			
-				// This is internet explorer 10
-				var elem = document.getElementById( 'el2' );
-				elem.classList.add('notransition'); // Add class
+// This is internet explorer 10
+				//var elem = document.getElementById( 'el2' );
+				//elem.classList.add('notransition'); // Add class
 				
-				window.alert('isIE10');
+				//window.alert('isIE10');
 
 			}
 
 			if (/MSIE 9/i.test(navigator.userAgent) || /rv:11.0/i.test(navigator.userAgent)) {
 		
-				// This is internet explorer 9 or 11
+// This is internet explorer 9 or 11
 				//window.location = 'pages/core/ie.htm';
 
-				window.alert('isIE11');
+				//window.alert('isIE11');
 
 			}
 
 			if (isEdge !== null && typeof isEdge !== "undefined" && vendorName !== "Google Inc." && isChrome === false && isfirefox === false){
 			   	
-			   	// This is Microsoft Edge				
+// This is Microsoft Edge				
 				var elem1 = document.getElementById( 'ringIn' );
 				elem1.classList.add('notransition'); // Add class
 
@@ -47647,7 +47648,7 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 				elem6.classList.add('notransition'); // Add class
 
 				var elem7 = document.getElementById( 'Earth' );
-				elem7.classList.add('notransition'); // Add class
+				elem7.classList.add('notransition'); // Add class				
 
 				var elem8 = document.getElementById( 'molecules' );
 				elem8.classList.add('notransition'); // Add class
@@ -47670,44 +47671,89 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 				var elem14 = document.getElementById( 'Half_Ring' );
 				elem14.classList.add('notransition'); // Add class
 
-				window.alert('Microsoft Edge');
-				//alert("Microsoft Edge Again");				
-
+				//window.alert('Microsoft Edge');
 			}			
 			
 			if (isChromium !== null && isOpera === true) {			
-						
-				var elem = document.getElementById( 'el2' );
-				elem.classList.add('notransition'); // Add class
+
+//This is Opera Browser
+				//var elem = document.getElementById( 'el2' );
+				//elem.classList.add('notransition'); // Add class
 				
-				alert("Opera");
+				//alert("Opera");
 
 			}
 
 			if (isChrome !== null && isOpera === false && isfirefox === false && isEdge === false ) {			
-						
+
+//This is Google Chrome
 				//var elem = document.getElementById( 'el2' );
 				//elem.classList.add('notransition'); // Add class
 				
-				alert("Google Chrome");		
+				//alert("Google Chrome");		
 
 			}
 
 			if (isSafari) {			
-						
-				var elem = document.getElementById( 'el2' );
-				elem.classList.add('notransition'); // Add class
+
+//This is Safari
+				//var elem = document.getElementById( 'el2' );
+				//elem.classList.add('notransition'); // Add class
 				
-				alert("Safari");		
+				//alert("Safari");		
 
 			}
 
 			if (isfirefox !== null && isChrome === false && isEdge === false ) {			
-						
-				var elem = document.getElementById( 'el2' );
-				elem.classList.add('notransition'); // Add class
+
+//This is Firefox
+				//var elem = document.getElementById( 'el2' );
+				//elem.classList.add('notransition'); // Add class
+
+				//var elem1 = document.getElementById( 'ringIn' );
+				//elem1.classList.add('notransition'); // Add class
+
+				//var elem2 = document.getElementById( 'Blue_Cogs' );
+				//elem2.classList.add('notransition'); // Add class
+
+				//var elem3 = document.getElementById( 'Cog1' );
+				//elem3.classList.add('notransition'); // Add class
+
+				//var elem4 = document.getElementById( 'Cog2' );
+				//elem4.classList.add('notransition'); // Add class
+
+				//var elem5 = document.getElementById( 'Cog3' );
+				//elem5.classList.add('notransition'); // Add class
+
+				//var elem6 = document.getElementById( 'Cog4' );
+				//elem6.classList.add('notransition'); // Add class
+
+				//var elem7 = document.getElementById( 'Earth' );
+				//elem7.classList.add('notransition'); // Add class				
+
+				//var elem8 = document.getElementById( 'molecules' );
+				//elem8.classList.add('notransition'); // Add class
+
+//elem 9 broken animation
+				var elem9 = document.getElementById( 'molecules_1_' );
+				elem9.classList.add('notransition'); // Add class
+//elem 10 broken animation
+				var elem10 = document.getElementById( 'molecules_2_' );
+				elem10.classList.add('notransition'); // Add class
+//elem 11 broken animation
+				var elem11 = document.getElementById( 'molecules_3_' );
+				elem11.classList.add('notransition'); // Add class
+
+				//var elem12 = document.getElementById( 'molecules_4_' );
+				//elem12.classList.add('notransition'); // Add class
+//elem 13 broken animation
+				var elem13 = document.getElementById( 'molecules_5_' );
+				elem13.classList.add('notransition'); // Add class
+
+				var elem14 = document.getElementById( 'Half_Ring' );
+				elem14.classList.add('notransition'); // Add class
 				
-				alert("Firefox");
+				//alert("Firefox");
 
 			}
 
