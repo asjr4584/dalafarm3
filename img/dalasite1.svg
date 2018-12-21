@@ -47207,7 +47207,7 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 			C2092.2,328.9,2081.3,318.1,2081.3,304.6"/>
 		<path class="st14" d="M2062.8,349.5h31.9c7.3,0,13.3-5.4,13.3-12v-65.8c0-6.6-6-12-13.3-12h-31.9V349.5z"/>
 	</g>
-	<g id="Earth" class="rotate">
+	<!--g id="Earth" class="rotate">
 		<path class="st152" d="M2087.9,331c0,103-83.5,186.5-186.5,186.5c-103,0-186.5-83.5-186.5-186.5s83.5-186.5,186.5-186.5
 			C2004.4,144.5,2087.9,228,2087.9,331"/>
 		<path class="st135" d="M2085.3,331c0,101.6-82.3,183.9-183.9,183.9c-101.6,0-183.9-82.3-183.9-183.9
@@ -47275,7 +47275,7 @@ AAAAAAAAyImQHgAAAAAAAABy8n8TJ9T+437NOwAAAABJRU5ErkJggg==" transform="matrix(2.51
 				</g>
 			</g>
 		</g>
-	</g>	
+	</g-->	
 	<g id="server_platform">
 		<g id="server_4_">
 			<path class="st111" d="M1682.8,414.5h-33.9c-0.7,0-1.3-0.6-1.3-1.3V374c0-0.7,0.6-1.3,1.3-1.3h33.9c0.7,0,1.3,0.6,1.3,1.3v39.2

@@ -298,13 +298,27 @@
 
 // If an event gets to the body
 				$("body").click(function(){
-				  $("#callout-2").fadeOut().removeClass("-active");
+				  	
+					//callout-2
+					var mycallout2 = $("#callout-2");
+					if (mycallout2.hasClass("-active")){
+						mycallout2.removeClass("-active");
+						
+						var s = mycallout2.find(".callout__body");
+						var a = mycallout2.find(".callout__aside");
+						var i;
+						
+						a.removeClass("-visible");
+						s.removeClass("-visible").closest(i).removeClass("-active");
+						
+					}
+					
 				});
 				
 // Prevent events from getting pass .popup
-				$("myCallout2").click(function(e){
+				$("#callout-2").click(function(e){
 				  e.stopPropagation();
-				});	
+				});
 
 
 			  });
@@ -444,7 +458,7 @@
 					}
 				};
 
-
+//This is MS 10
 					if (/MSIE 10/i.test(navigator.userAgent)) {
 
 						// This is internet explorer 10
@@ -454,7 +468,7 @@
 						window.alert('isIE10');
 
 					}
-
+//This is MS 11
 					if (/MSIE 9/i.test(navigator.userAgent) || /rv:11.0/i.test(navigator.userAgent)) {
 
 						// This is internet explorer 9 or 11
@@ -466,9 +480,19 @@
 
 					if (isEdge !== null && typeof isEdge !== "undefined" && vendorName !== "Google Inc." && isChrome === false && isfirefox === false){
 
-						// This is Microsoft Edge				
-						var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
-						elem.classList.add('notransition'); // Add class
+// This is Microsoft Edge				
+						//var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
+						//elem.classList.add('notransition'); // Add class
+						
+						var elem = document.getElementById( 'el23' );
+						elem.classList.add('resizeEdge'); // Add class
+						elem.src = "/img/newearth.svg";						
+						
+						var deg = 0;
+						window.setInterval(function() {
+							deg += 1;
+							$("#el23").css('-webkit-transform','rotate(' + deg + 'deg)');
+						}, 25);
 
 						window.alert('Microsoft Edge');
 						//alert("Microsoft Edge Again");
@@ -486,14 +510,14 @@
 
 					if (isChrome !== null && isOpera === false && isfirefox === false && isEdge === false ) {			
 
-
+//This is Google Chrome
 						//var elem = document.getElementById( 'el23' );
 						//elem.classList.remove('icon'); // Add class
 						//elem.classList.add('rotate'); // Add class
 						
 						var elem = document.getElementById( 'el23' );
 						elem.classList.add('resizeChrome'); // Add class
-						var elem = document.getElementById( 'el23' ).src = "/img/newearth.svg";						
+						elem.src = "/img/newearth.svg";						
 						
 						var deg = 0;
 						window.setInterval(function() {
@@ -505,6 +529,7 @@
 
 					}
 
+//This is Safari				
 					if (isSafari) {			
 
 						var elem = document.getElementById( 'el2' );
@@ -514,6 +539,7 @@
 
 					}
 
+//This is Firefox				
 					if (isfirefox !== null && isChrome === false && isEdge === false ) {			
 
 						//var elem = document.getElementById( 'el23' );
