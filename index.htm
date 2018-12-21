@@ -84,6 +84,8 @@
 		
 			// ADDED
 			$(document).ready(function(){
+				
+				
 			  $(".content").on("click", function(e){
 			        if(e.target !== e.currentTarget) return;
 				  				  
@@ -291,7 +293,20 @@
 						s.removeClass("-visible").closest(i).removeClass("-active");
 					}				  
 				});
+
+//working with problems
+
+// If an event gets to the body
+				$("body").click(function(){
+				  $("#callout-2").fadeOut().removeClass("-active");
+				});
 				
+// Prevent events from getting pass .popup
+				$("myCallout2").click(function(e){
+				  e.stopPropagation();
+				});	
+
+
 			  });
     	</script>
 		
