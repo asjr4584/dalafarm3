@@ -1117,18 +1117,10 @@ body {
 
 }
 
-.bglayer3 {		
-    background-size: cover;	
-    height: 100vh;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-
-}
-
-.bglayer2 {	
-    background-size: cover;
+.bglayer1, .bglayer2, .bglayer3 {		
+	background: transparent 0% 0%;
+	background-repeat: no-repeat;
+	background-size: cover;	
     height: 100vh;
     left: 0;
     position: fixed;
@@ -1136,14 +1128,23 @@ body {
     width: 100%;
 }
 
-.bglayer1 {	
-    background-size: cover;
+/*.bglayer2 {	
+	background-size: cover;
+    height: 100vh;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}*/
+
+/*.bglayer1 {	
+	background-size: cover;
     height: 100vh;
     left: -60px;
     position: fixed;
     top: 0;
     width: 100%;	
-}
+}*/
 
 .glyphicon-resize-vertical {	
     font-size: 30px !important;

@@ -1086,7 +1086,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
+  color: #fff;
   background-color: #205A99;
 }
 input,
@@ -1134,8 +1134,7 @@ img {
   height: auto;
   padding: 4px;
   line-height: 1.42857143;
-  /*background-color: #fff;*/
-  background-color: #205A99;
+  background-color: #fff;  
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all .2s ease-in-out;
@@ -2300,7 +2299,7 @@ th {
 }
 .table .table {
   /*background-color: #fff;*/
-  background-color: #205A99;	
+  background-color: #fff;	
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -2561,9 +2560,8 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555;
-  /*background-color: #fff;*/
-	background-color: #205A99;
+  color: #555;  
+  background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;

@@ -503,8 +503,9 @@ webpackJsonp([1], {
                     attrs: {
                         id: "bubble-12"
                     }
-                }, [t._v("\n      Testing Bubble-12.\n    ")])*/]), t._v(" "), i("object", {
-                    staticClass: "bglayer3",
+                }, [t._v("\n      Testing Bubble-12.\n    ")])*/]), t._v(" "), i("div", {
+                    staticClass: "bglayer3"},
+                    [t._v(" "), i("object", {                    
 					attrs: {
                         id: "dalasite3",
 						type: "image/svg+xml",
@@ -513,8 +514,9 @@ webpackJsonp([1], {
                     style: {
                         width: t.imageWidth + "px"
                     }
-                }), t._v(" "), i("object", {
-                    staticClass: "bglayer2",
+                })]), t._v(" "), i("div", {
+                    staticClass: "bglayer2"},
+                    [t._v(" "), i("object", {                    
 					attrs: {
                         id: "dalasite2",
 						type: "image/svg+xml",
@@ -523,8 +525,9 @@ webpackJsonp([1], {
                     style: {
                         width: t.imageWidth + "px"
                     }
-                }), t._v(" "), i("object", {
-                    staticClass: "bglayer1",
+                })]), t._v(" "), i("div", {
+                    staticClass: "bglayer1"},
+                    [t._v(" "), i("object", {                    
 					attrs: {
                         id: "dalasite1",
 						type: "image/svg+xml",
@@ -533,7 +536,7 @@ webpackJsonp([1], {
                     style: {
                         width: t.imageWidth + "px"
                     }
-                }), t._v(" "), i("div", {
+                })]), t._v(" "), i("div", {
                     staticClass: "outro"
                 }, [t._m(22), t._v(" "), i("a", {
                     staticClass: "outro__footer",
