@@ -42,7 +42,7 @@ webpackJsonp([1], {
                 }, [i("a", {
                     staticClass: "menu__logo",
                     attrs: {
-                        /*href: "http://www.dalafarm.net/",
+                        /*href: "//www.dalafarm.net/",
                         title: "Visit www.dalafarm.net"*/
                     }
                 }, [i("svg", {
@@ -51,8 +51,8 @@ webpackJsonp([1], {
                         height: "0px",
                         viewBox: "0 0 0 0",
                         version: "1.1",
-                        xmlns: "http://www.w3.org/2000/svg",
-                        "xmlns:xlink": "http://www.w3.org/1999/xlink"
+                        xmlns: "//www.w3.org/2000/svg",
+                        "xmlns:xlink": "//www.w3.org/1999/xlink"
                     }
                 }, [i("g", {
                     attrs: {
@@ -335,7 +335,7 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle						
                     }, attrs: {
-                        href: "http://webdeg.jp/"
+                        href: "//webdeg.jp/"
                     }					
 /*10th.text.box.title*/
                 }, [t._v("WEBDEG")]), t._v(" "), t._m(11)]), t._v(" "), i("div", {
@@ -394,14 +394,14 @@ webpackJsonp([1], {
                     on: {
                         click: t.toggle						
                     }, attrs: {
-                        href: "http://www.dalafarm.net/"
+                        href: "//www.dalafarm.net/"
                     }	
 /*15th.text.box.title*/
                 }, [t._v("DaLa Farm")]), t._v(" "), t._m(16)]), t._v(" "), i("div", {
                     staticClass: "callout-3-3",
                     attrs: {
                         id: "callout-15",
-                        // href: "http://www.dalafarm.net/",
+                        // href: "//www.dalafarm.net/",
                         // title: "Visit dalafarm.net"
                     }
                 }, [i("h2", {
@@ -541,7 +541,7 @@ webpackJsonp([1], {
                 }, [t._m(22), t._v(" "), i("a", {
                     staticClass: "outro__footer",
                     attrs: {
-                        href: "http://www.dalafarm.net/",
+                        href: "//www.dalafarm.net/",
                         title: "Visit dalafarm.net"
                     }
                 }, [t._m(23), t._v(" "), i("div", {
@@ -627,7 +627,7 @@ webpackJsonp([1], {
                 }, [t._v("Quick Links")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "http://www.dalafarm.net/recruit"
+                        href: "//www.dalafarm.net/recruit"
                     }
                 }, [t._v("Careers")])])
             }
@@ -892,7 +892,7 @@ webpackJsonp([1], {
                 }, [t._v("Quick Links")]), t._v(" "), i("a", {
                     staticClass: "callout__aside-cta",
                     attrs: {
-                        href: "http://www.dalafarm.net/recruit"
+                        href: "//www.dalafarm.net/recruit"
                     }
                 }, [t._v("Careers")])])
             }
@@ -914,31 +914,31 @@ webpackJsonp([1], {
                     staticClass: "outro__links"
                 }, [i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/company/greeting"
+                        href: "//www.dalafarm.net/company/greeting"
                     }
                 }, [t._v("Company")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/service/website"
+                        href: "//www.dalafarm.net/service/website"
                     }
                 }, [t._v("Service")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/works"
+                        href: "//www.dalafarm.net/works"
                     }
                 }, [t._v("Works")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/flow"
+                        href: "//www.dalafarm.net/flow"
                     }
                 }, [t._v("Flow")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/news"
+                        href: "//www.dalafarm.net/news"
                     }
                 }, [t._v("News")])]), t._v(" "), i("li", [i("a", {
                     attrs: {
-                        href: "http://www.dalafarm.net/recruit"
+                        href: "//www.dalafarm.net/recruit"
                     }
                 // }, [t._v("Recruit")])]), t._v(" "), i("li", [i("a", {
                 //     attrs: {
-                //         href: "http://www.dalafarm.net/contact"
+                //         href: "//www.dalafarm.net/contact"
                 //     }
                 }, [t._v("Contact")])])])])])
             }
