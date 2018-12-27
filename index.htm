@@ -26,7 +26,9 @@
 	</head>
 	
 	<body>
-		<div id="app"></div>		
+		<div id="app"></div>
+		<div id="loading"></div>
+		
 		<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.js"></script>
         <!-- Latest compiled and minified JavaScript -->
@@ -39,6 +41,25 @@
 // Clicking the document closes the pop up
 			$(document).ready(function(){
 				
+				function onReady(callback) {
+					var intervalID = window.setInterval(checkReady, 1000);
+
+					function checkReady() {
+						if (document.getElementsByTagName('body')[0] !== undefined) {
+							window.clearInterval(intervalID);
+							callback.call(this);
+						}
+					}
+				}
+
+				function show(id, value) {
+					document.getElementById(id).style.display = value ? 'block' : 'none';
+				}
+
+				onReady(function () {
+					show('app', true);
+					show('loading', false);
+				});
 				
 			  $(".content").on("click", function(e){
 			        if(e.target !== e.currentTarget) return;
