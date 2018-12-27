@@ -531,7 +531,8 @@ webpackJsonp([1], {
 					attrs: {
                         id: "dalasite1",
 						type: "image/svg+xml",
-						data: "img/dalasite1.svg",						
+						data: "img/layer1.svg",
+						/*data: "img/dalasite1.svg",*/
                     },
                     style: {
                         width: t.imageWidth + "px"
