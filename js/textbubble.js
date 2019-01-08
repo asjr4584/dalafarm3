@@ -286,7 +286,7 @@ webpackJsonp([1], {
                         id: "callout-5"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -297,7 +297,7 @@ webpackJsonp([1], {
                         id: "callout-6"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -368,7 +368,7 @@ webpackJsonp([1], {
                         id: "callout-12"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -379,7 +379,7 @@ webpackJsonp([1], {
                         id: "callout-13"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -405,7 +405,7 @@ webpackJsonp([1], {
                         // title: "Visit dalafarm.net"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -427,7 +427,7 @@ webpackJsonp([1], {
                         id: "callout-17"
                     }
                 }, [i("h2", {
-                    staticClass: "callout__headline",
+                    staticClass: "callout-3-3__headline",
                     on: {
                         click: t.toggle
                     }
@@ -696,7 +696,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -716,7 +716,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {                    
 					staticClass: "icon",
                     attrs: {
@@ -781,7 +781,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -801,7 +801,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -831,7 +831,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -860,7 +860,7 @@ webpackJsonp([1], {
                 var t = this.$createElement
                   , e = this._self._c || t;
                 return e("div", {
-                    staticClass: "callout__body"
+                    staticClass: "callout-3-3__body"
                 }, [e("p", [e("img", {
                     staticClass: "icon",
                     attrs: {
@@ -896,10 +896,6 @@ webpackJsonp([1], {
                     }
                 }, [t._v("Careers")])])
             }
-
-
-
-            
             , function() {
                 var t = this
                   , e = t.$createElement

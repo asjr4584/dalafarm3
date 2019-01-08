@@ -523,7 +523,7 @@ ul.outro__links {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;    
-    max-width: 50em;
+    /* max-width: 50em; */
 	position: absolute;
 	text-align: left;
     text-align-last: left;
@@ -600,21 +600,27 @@ ul.outro__links {
 }
 
 .callout-3-3__body p {
-    font-size: calc(10px + 0.5vw);
-	/*width: 100vw;*/
+	/* font-size: calc(10px + 0.5vw); */
+    /* width: 100vw; */
+    width: calc(-10em + 100vh);
+    height: calc(-10em + 100%);
+    /* margin-top: -5%; */
 }
 
-.callout__body.-visible, .callout-3-3__body.-visible {
+.callout__body.-visible {
 	opacity: 1;
     margin-top: 1em;
     margin-bottom: -2em;
 	display: block;
 }
 
-.callout-3-3__body.-visible {	
-	margin-top: 1em;
+.callout-3-3__body.-visible {
+	/*margin-top: 1em;*/
     -webkit-transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
     transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1) 0.2s;
+	opacity: 1;
+    margin-bottom: -2em;
+	display: block;
 }
 
 .callout__aside {
@@ -746,9 +752,17 @@ ul.outro__links {
     max-height: inherit;
 }
 
-.callout-3-3.-active:before {
+/*.callout-3-3.-active:before {
     height: 100%;
     width: 100vw;
+    top: 0px;
+    max-width: inherit;
+    max-height: inherit;
+}*/
+
+.callout-3-3.-active:before {
+    height: calc(-1em + 100%);
+    width: calc(-9em + 100vh);
     top: 0px;
     max-width: inherit;
     max-height: inherit;
@@ -811,7 +825,7 @@ ul.outro__links {
 #callout-10 {
     left: 69.3%;
     top: 44%;
-    z-index: 994;
+    z-index: 993;
 }
 
 /*#callout-11 {
@@ -823,7 +837,7 @@ ul.outro__links {
 #callout-12 {    
     left: 71%;
     top: 11%;
-    z-index: 993;
+    z-index: 994;
 }
 
 #callout-13 {    
